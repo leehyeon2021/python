@@ -60,4 +60,5 @@ print(i/j, "의 타입: ", type(i/j))  # 5.0 의 타입:  <class 'float'>
 
 # 문제 14: 초를 분/초로 환산 전체 초(second)를 입력받아 몇 분 몇 초인지 계산하여 출력하시오. (예: 70초 -> 1분 10초)
 sec = int(input("전체 초(second) 입력 > "))
-print( sec//60,"분 ",sec%60,"초" )
+print( sec//60,"분 ",sec%60,"분" )
+print()
