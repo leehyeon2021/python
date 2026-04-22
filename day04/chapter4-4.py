@@ -1,3 +1,5 @@
+
+# p.250
 # 1. min , max , sum
 numbers = [ 103 , 52 , 273 , 32 , 77 ]
 # 최솟값
@@ -18,7 +20,7 @@ for i in reversed( numbers ):
 print( enumerate(numbers) )             # <enumerate object at 0x00000204BC238450>
 print( list( enumerate( numbers ) ) )   # [(0, 103), (1, 52), (2, 273), (3, 32), (4, 77)]
 
-# 4. items( )
+# 4. `items( )`: 딕셔너리랑 조합
 example_dictionary = { '키A':'값A', '키B':'값B', '키C':'값C' }
 print( example_dictionary.items() )     # dict_items([('키A', '값A'), ('키B', '값B'), ('키C', '값C')])
 
