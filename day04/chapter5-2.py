@@ -29,3 +29,48 @@ print( "5! :", func2(5) )           # 5! : 120
     # 1번째 수열: 1 
     # 2번째 수열: 2 
     # n번째 열: n-1수열 + n-2수열
+# func3( 4 )        -> return 재귀(3) + 재귀(2)
+    # func3( 3 )        -> return 재귀(2) + 재귀(1)         1 + 1
+    # func3( 2 )            -> return 재귀(1) + 재귀(0)     1 + 0
+# 문제점: 재귀수가 많아서 계산식이 오래 걸린다.
+
+counter2 = 0                # 함수 밖에 있는 변수
+def func3( n ):
+    global counter2         # 함수 밖에 있는 변수 호출
+    counter2 += 1
+    print( '-->' , counter2 )
+    if n == 1 :
+        return 1
+    if n == 2 :
+        return 1
+    else:
+        return func3( n-1 ) + func3( n-2 )
+print(func3( 10 ))
+
+
+
+# 확인 문제 - 다부수고싶어짐
+앉힐수있는최소사람수 = 2
+앉힐수있는최대사람수 = 10
+전체사람의수 = 100
+memo = {}
+
+def 문제( 남은사람수 , 최소사람수 ):
+    key = str( [ 남은사람수 , 최소사람수 ] )
+    # 종료 조건
+    if key in memo:
+        return memo[key]
+    if 남은사람수 < 0:
+        return 0        # 무효하니 0을 리턴
+    if 남은사람수 == 0:
+        return 1        # 유효하니 수를 세면 되서 1을 리턴
+    # 재귀 처리
+    count = 0
+    for i in range( 최소사람수 , 앉힐수있는최대사람수 +1 ):
+        count += 문제( 남은사람수-i , i )
+    # 메모화 처리
+    memo[key] = count
+    #print(memo)
+    # 종료
+    return count
+print( 문제( 전체사람의수 , 앉힐수있는최소사람수 ) )

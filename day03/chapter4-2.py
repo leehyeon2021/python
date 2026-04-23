@@ -63,6 +63,8 @@ character = {
     "skill" : ["베기", "세게 베기", "아주 세게 베기"]
 }
 
+character = {"name" : "기사", "level" : 12 , "items" : { "sword" : "불꽃의 검", "armor" : "풀블레이드" }, "skill" : ["베기", "세게 베기", "아주 세게 베기"] }
+
 for key in character:
     if type( character[key] ) is dict:          # 딕셔너리 내 key 값이 딕셔너리이면
         for 요소 in character[key]:
