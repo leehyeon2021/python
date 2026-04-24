@@ -11,3 +11,17 @@ print( test.get_circle_area( radius ) )
 
 # 프로그램의 진입점: __name__ == "__main__"
 print( __name__ )   # __main__
+
+# ============================================
+
+# 인터넷의 이미지 저장하기
+from urllib import request
+
+target = request.urlopen("https://www.hanbit.co.kr/images/common/logo_hanbit.png")
+output = target.read()
+print(output)           # 바이너리 데이터로 반환된다. 앞에 'b'가 붙어있다.
+
+# 바이너리 파일 저장 시 'wb' 사용한다.
+file = open('./day08/output.png' , 'wb')
+file.write( output )    # 파일 쓰기
+file.close()            # 파일 닫기
