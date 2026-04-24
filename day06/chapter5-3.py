@@ -74,7 +74,7 @@ print( b )                                                         # 2
 # 방법1 : 재사용 가능하다.
 power = lambda x : x*x
 output_a = map( power , list_input_a )
-print( list(list_input_a) )
+print( list(output_a) )
 
 # 방법2 : 재사용 안 된다.
 output_a = map( lambda x : x*x , list_input_a )
@@ -82,72 +82,72 @@ print( list(output_a) )
 
     # 변수 만드는 이유: 재사용 여부
 
-# ===============================
+# # ===============================
 
-# 파일 처리
-# `open( 파일경로 , 읽기모드 )`
-# 읽기모드: w새로쓰기 a이어쓰기 r읽기모드
+# # 파일 처리
+# # `open( 파일경로 , 읽기모드 )`
+# # 읽기모드: w새로쓰기 a이어쓰기 r읽기모드
 
-# 1. `.open()` 함수 이용하여 지정한 경로의 파일 쓰기
-file = open( './day06/basic.txt' , 'w' )    # 경로 지정 안 하면 현재 폴더 내 생성
+# # 1. `.open()` 함수 이용하여 지정한 경로의 파일 쓰기
+# file = open( './day06/basic.txt' , 'w' )    # 경로 지정 안 하면 현재 폴더 내 생성
 
-# 2. `.write(출력할내용)` 함수 이용한 내보내기
-file.write( '안녕하세요' )
+# # 2. `.write(출력할내용)` 함수 이용한 내보내기
+# file.write( '안녕하세요' )
 
-# 3. `.close()` 함수 이용하여 안전한 스트림 닫기
-file.close()
+# # 3. `.close()` 함수 이용하여 안전한 스트림 닫기
+# file.close()
 
-# 4. `with` 키워드 이용한 `.close()` 자동 닫기
-with open( './day06/basic2.txt', 'w' ) as file:
-    file.write( '아니오' )
+# # 4. `with` 키워드 이용한 `.close()` 자동 닫기
+# with open( './day06/basic2.txt', 'w' ) as file:
+#     file.write( '아니오' )
 
-# 스트림이란?: 데이터가 흐르는 길. 바이트 단위. 프로그래밍 언어가 외부 자료와 연결( 파일, JDBC, 네트워크 연결 )
+# # 스트림이란?: 데이터가 흐르는 길. 바이트 단위. 프로그래밍 언어가 외부 자료와 연결( 파일, JDBC, 네트워크 연결 )
 
-# 5. `.read()` 함수 이용한 파일 읽어오기
-with open('./day06/basic.txt' , 'r') as file:
-    contents = file.read()
+# # 5. `.read()` 함수 이용한 파일 읽어오기
+# with open('./day06/basic.txt' , 'r') as file:
+#     contents = file.read()
 
-print( contents )       # 안녕하세요
+# print( contents )       # 안녕하세요
 
 
-# p.331
-# 텍스트 한 줄씩 읽기
-# 랜덤 숫자 생성 위해 가져오기
-import random
-# 간단한 한글 리스트
-hanguls = list("가나다라마바사아자차카타파하")
-# 파일을 쓰기 모드로 연다
-with open('./day06/info.txt', 'w') as file:
-    for i in range(1000):
-        # 랜덤한 값 변수 생성
-        name = random.choice(hanguls) + random.choice(hanguls)
-        weight = random.randrange(40 , 100)
-        height = random.randrange(140 , 200)
-        # 텍스트 쓰기
-        file.write('{}, {}, {}\n'.format(name, weight, height))
+# # p.331
+# # 텍스트 한 줄씩 읽기
+# # 랜덤 숫자 생성 위해 가져오기
+# import random
+# # 간단한 한글 리스트
+# hanguls = list("가나다라마바사아자차카타파하")
+# # 파일을 쓰기 모드로 연다
+# with open('./day06/info.txt', 'w') as file:
+#     for i in range(1000):
+#         # 랜덤한 값 변수 생성
+#         name = random.choice(hanguls) + random.choice(hanguls)
+#         weight = random.randrange(40 , 100)
+#         height = random.randrange(140 , 200)
+#         # 텍스트 쓰기
+#         file.write('{}, {}, {}\n'.format(name, weight, height))
 
-with open('./day06/info.txt','r') as file:
-    for line in file:
-        # 변수 선언
-        (name, weight, height) = line.strip().split(", ")
-        # 데이터가 문제 없는지 확인 (문제 없으면 지나감)
-        if(not name) or (not weight) or (not height):
-            continue
-        # 결과 계산
-        bmi = int(weight) / ((int(height)/100) ** 2 )
-        result = ''
-        if 25 <= bmi:
-            result = '과체중'
-        elif 18.5 <= bmi:
-            result = '정상 체중'
-        else:
-            result = '저체중'
-        # 출력
-        print( '\n'.join([
-            '이름: {}',
-            '몸무게: {}',
-            '키: {}',
-            'BMI: {}',
-            '결과: {}'
-        ]).format(name, weight, height, bmi, result))
-        print()
+# with open('./day06/info.txt','r') as file:
+#     for line in file:
+#         # 변수 선언
+#         (name, weight, height) = line.strip().split(", ")
+#         # 데이터가 문제 없는지 확인 (문제 없으면 지나감)
+#         if(not name) or (not weight) or (not height):
+#             continue
+#         # 결과 계산
+#         bmi = int(weight) / ((int(height)/100) ** 2 )
+#         result = ''
+#         if 25 <= bmi:
+#             result = '과체중'
+#         elif 18.5 <= bmi:
+#             result = '정상 체중'
+#         else:
+#             result = '저체중'
+#         # 출력
+#         print( '\n'.join([
+#             '이름: {}',
+#             '몸무게: {}',
+#             '키: {}',
+#             'BMI: {}',
+#             '결과: {}'
+#         ]).format(name, weight, height, bmi, result))
+#         print()
