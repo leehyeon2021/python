@@ -18,8 +18,12 @@
 #       - 금액 범위 검색: 사용자가 입력한 '최소 금액'과 '최대 금액' 사이의 거래 내역 필터링 출력
 #       - 전체 통계 조회: 전체 데이터의 평균 거래가 등 간단한 통계 정보 출력
 
+from os import path
 
 while True:
+    if not path.exists('./day08/user.txt'):
+        
+
     menu_default = int(input('회원가입(1) | 로그인(2) | 로그아웃(3) | 종료(4) > '))
     if menu_default == 1:
         with open('./day08/user.txt', 'r') as user:
@@ -29,4 +33,5 @@ while True:
         user_pwd = input('[회원가입] 비밀번호를 입력하시오: ')
         user_name = input('[회원가입] 이름을 입력하시오: ')
         with open('./day08/user.txt', 'a') as user:
-        # join 쓰면 된대    user.write(user_id, ',', user_pwd, ',', user_name)
+            user.write('{','{}, {}, {}'.format(user_id,user_pwd,user_name),'},\n')
+        print( '회원가입 완료 ')
