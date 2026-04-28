@@ -50,7 +50,7 @@ print( x.dtype )    # float64
 # 문제 7: 배열 평탄화 순회 (flat)
 # 2행 2열의 2차원 배열을 생성한 후, .flat 속성과 반복문(for)을 사용하여 
 # 모든 요소를 한 줄씩 차례대로 출력하시오.
-x = np.array([[1, 2], [3, 4]])
+x = np.ones( (2, 2))
 for i in x.flat:
     print(i)
 
@@ -68,10 +68,10 @@ print(x.dtype)  # bool
 # .astype() 메서드를 사용하여 소수점이 제거된 정수형(int32) 배열로 변환하고 출력하시오.
 x = np.array([1.1, 2.9, 3.5])
 y= x.astype(np.int32)
-print(y)    # [1 2 3]
+print(y)        # [1 2 3]
 
 # 문제 10: 바이트 문자열 배열
 # 과일 이름 리스트 ['apple', 'banana']를 넘파이 배열로 만들되, 
 # 데이터 타입을 np.bytes_로 지정하여 생성하고 결과를 확인하시오.
 x = np.array(['apple', 'banana'], dtype=np.bytes_)
-print(x)    # [b'apple' b'banana']
+print(x.dtype)  # |S6
