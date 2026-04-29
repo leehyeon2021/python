@@ -47,7 +47,7 @@ y = np.array( [ [1, 2, 3], [4, 10, 6] ] )
 print( np.min( y , axis = 0 ) )     # [1 2 3]   -> 열 개수가 3개니까 최솟값이 3개
 print( np.min( y , axis = 1 ) )     # [1 4]     -> 행 개수가 2개니까 최솟값이 2개
 print( np.max( y ) )            # 10  -> axis 생략하면 2차원 배열 평탄화(1차원으로 변경)해서 통계
-print( np.argmax( y ) )         # 4   -> 평탄화 되었음
+print( np.argmax( y ) )         # 4   -> 평탄화 되었음. 인덱스 위치 반환.
 print( np.argmin( y ) )         # 0
 print( np.sum( y ) )            # 26
 print( np.mean( y ) )           # 4.333333333333333
@@ -55,4 +55,3 @@ print( np.median( y ) )         # 3.5
 print( np.var( y ) )            # 8.88888888888889
 print( np.std( y ) )            # 2.9814239699997196
 print( np.sqrt( y ) )           # [[1.         1.41421356 1.73205081] [2.         3.16227766 2.44948974]]
-print( np.())
