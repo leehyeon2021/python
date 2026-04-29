@@ -1,0 +1,2471 @@
+company,location,fire,pct_workforce,industry,country,ai_bool
+Panda Squad,SF Bay Area,6,75%,Consumer,United States,FALSE
+HopSkipDrive,Los Angeles,8,10%,Transportat,,FALSE
+Help.com,Austin,16,100%,Support,United States,FALSE
+Service,Los Angeles,,100%,Travel,United States,FALSE
+Inspirato,Denver,130,22%,Travel,United States,FALSE
+Flytedesk,Boulder,4,20%,Marketing,United States,FALSE
+Tuft & Needle,Phoenix,,,Retail,United States,FALSE
+Popin,New York City,,100%,Fitness,United States,FALSE
+Anyvision,Tel Aviv Non-U.S.,,,Security,Israel,TRUE
+Lola,Boston,34,,Travel,United States,FALSE
+Remote Year,Chicago,50,50%,Travel,United States,FALSE
+Ejento,SF Bay Area,84,100%,Recruiting,United States,FALSE
+Bounce,Bengaluru Non-U.S.,120,,Transportat,,FALSE
+Flywheel Sports,New York City,784,98%,Fitness,United States,FALSE
+Peek,Salt Lake City,45,,Travel,United States,FALSE
+Service,Los Angeles,,100%,Travel,United States,FALSE
+Yonder,Austin,18,,Media,United States,FALSE
+Vacasa,Portland,,,Travel,United States,FALSE
+CTO.ai,Vancouver Non-U.S.,30,50%,Infrastructu,,TRUE
+The Guild,Austin,38,22%,Travel,United States,FALSE
+Compass,New York City,375,15%,Real Estate,United States,FALSE
+Convene,New York City,150,18%,Real Estate,United States,FALSE
+Leafly,Seattle,91,50%,Retail,United States,FALSE
+Drip,Salt Lake City,20,,Marketing,United States,FALSE
+GrayMeta,Los Angeles,20,40%,Data,United States,TRUE
+Triplebyte,SF Bay Area,15,17%,Recruiting,United States,FALSE
+Ladder Life,SF Bay Area,13,25%,Finance,United States,FALSE
+Cabin,SF Bay Area,,20%,Travel,United States,FALSE
+Eight Sleep,New York City,,20%,Retail,United States,FALSE
+Zwift,Los Angeles,,,Fitness,United States,FALSE
+Sonder,SF Bay Area,400,33%,Travel,United States,FALSE
+Takl,Nashville,130,,Consumer,United States,FALSE
+Zeus Living,SF Bay Area,80,30%,Real Estate,United States,FALSE
+Foodsby,Minneapolis,87,67%,Food,United States,FALSE
+Flowr,Toronto Non-U.S.,,25%,Retail,Canada,FALSE
+Peerfit,Tampa Bay,,40%,HR,United States,FALSE
+SpotHero,Chicago,,,Transportat,,FALSE
+TravelBank,SF Bay Area,20,,Travel,United States,FALSE
+WanderJaunt,SF Bay Area,56,23%,Travel,United States,FALSE
+TripActions,SF Bay Area,300,25%,Travel,United States,FALSE
+Lyric,SF Bay Area,100,,Real Estate,United States,FALSE
+Rangle,Toronto Non-U.S.,78,30%,Product,Canada,FALSE
+O'Reilly Media,SF Bay Area,75,15%,Media,United States,FALSE
+OutboundEngine,Austin,52,28%,Marketing,United States,FALSE
+Universal Standard,New York City,,,Retail,United States,FALSE
+Overtime,New York City,30,23%,Media,United States,FALSE
+Jama,Portland,12,5%,Product,United States,FALSE
+Element Analytics,SF Bay Area,10,,Data,United States,TRUE
+Clever Real Estate,St. Louis,,,Real Estate,United States,FALSE
+Clutter,Los Angeles,,30%,Consumer,United States,FALSE
+Divvy Homes,SF Bay Area,,8%,Real Estate,United States,FALSE
+Wonderschool,SF Bay Area,50,75%,Education,United States,FALSE
+B8ta,SF Bay Area,250,50%,Retail,United States,FALSE
+Fareportal,Gurugram Non-U.S.,200,,Travel,India,FALSE
+Ecobee,Toronto Non-U.S.,47,10%,Energy,Canada,FALSE
+Puppet,Portland,50,10%,Infrastructu,,FALSE
+Peerspace,SF Bay Area,41,75%,Real Estate,United States,FALSE
+GoSpotCheck,Denver,23,20%,Retail,United States,FALSE
+Consider.co,SF Bay Area,13,100%,Other,United States,FALSE
+Nativo,Los Angeles,,40%,Marketing,United States,FALSE
+Passport,Charlotte,44,,Transportat,,FALSE
+Zipcar,Boston,100,20%,Transportat,,FALSE
+Bird,Los Angeles,406,30%,Transportat,,FALSE
+HOOQ,Singapore Non-U.S.,250,100%,Consumer,Singapore,FALSE
+Everlane,SF Bay Area,227,,Retail,United States,FALSE
+DataRobot,Boston,200,,Data,United States,TRUE
+Restaurant365,Los Angeles,175,,Food,United States,FALSE
+Blueground,New York City,130,25%,Real Estate,United States,FALSE
+Knotel,New York City,127,30%,Real Estate,United States,FALSE
+Getaround,SF Bay Area,100,25%,Transportat,,FALSE
+Mogo,Vancouver Non-U.S.,78,30%,Finance,Canada,FALSE
+OneWeb,London Non-U.S.,451,85%,Aerospace,United Kingdo??False,
+Raken,San Diego,60,,Construction,United States,FALSE
+Bench,Vancouver Non-U.S.,47,10%,Finance,Canada,FALSE
+Loft,Sao Paulo Non-U.S.,47,,Real Estate,Brazil,FALSE
+Oh My Green,SF Bay Area,40,,Food,United States,FALSE
+Bevi,Boston,30,20%,Food,United States,FALSE
+Textio,Seattle,30,20%,Recruiting,United States,FALSE
+Opal,Portland,20,,Marketing,United States,FALSE
+ThirdLove,New York City,10,,Retail,United States,FALSE
+Bcredi,Curitiba Non-U.S.,,,Finance,Brazil,FALSE
+Make School,SF Bay Area,,,Education,United States,FALSE
+Pivot3,Austin,,,Infrastructu,,FALSE
+DISCO,Austin,75,,Legal,United States,FALSE
+TravelTriangle,Gurugram Non-U.S.,250,50%,Travel,India,FALSE
+Rent the Runway,New York City,,,Retail,United States,FALSE
+WeWork,New York City,250,,Real Estate,United States,FALSE
+Polarr,SF Bay Area,10,,Consumer,United States,FALSE
+Amplero,Seattle,17,100%,Marketing,United States,FALSE
+ZipRecruiter,Los Angeles,400,39%,Recruiting,United States,FALSE
+PeerStreet,Los Angeles,51,30%,Finance,United States,FALSE
+Thumbtack,SF Bay Area,250,30%,Consumer,United States,FALSE
+RigUp,Austin,120,25%,Energy,United States,FALSE
+FabHotels,New Delhi Non-U.S.,80,20%,Travel,India,FALSE
+Hibob,Tel Aviv Non-U.S.,70,30%,HR,Israel,FALSE
+Maven,Seattle,31,9%,Media,United States,FALSE
+Iris Nova,New York City,9,50%,Food,United States,FALSE
+Catalant,Boston,30,,Other,United States,FALSE
+Starship Technologies,Tallinn Non-U.S.,30,,Transportat,,FALSE
+Loftsmart,New York City,25,75%,Real Estate,United States,FALSE
+Caliva,SF Bay Area,20,,Retail,United States,FALSE
+Cuyana,SF Bay Area,,,Retail,United States,FALSE
+Blume Global,SF Bay Area,30,10%,Logistics,United States,FALSE
+Siteimprove,Minneapolis,40,,Marketing,United States,FALSE
+KeepTruckin,SF Bay Area,349,18%,Logistics,United States,FALSE
+Rover,Seattle,194,41%,Consumer,United States,FALSE
+Turo,SF Bay Area,108,30%,Transportat,,FALSE
+uShip,Austin,65,37%,Logistics,United States,FALSE
+SkySlope,Sacramento,50,25%,Real Estate,United States,FALSE
+AngelList,SF Bay Area,20,,Recruiting,United States,FALSE
+AdRoll,Salt Lake City,210,30%,Marketing,United States,FALSE
+DialSource,Sacramento,5,14%,Marketing,United States,FALSE
+Adara,SF Bay Area,,,Travel,United States,FALSE
+Claravine,Salt Lake City,,,Marketing,United States,FALSE
+Domio,New York City,,30%,Travel,United States,FALSE
+Kazoo,Austin,,35%,HR,United States,FALSE
+Snap Finance,Salt Lake City,,,Finance,United States,FALSE
+Zerto,Boston,,,Infrastructu,,FALSE
+Zenoti,Seattle,17,4%,Fitness,United States,FALSE
+Groupon,Chicago,2800,44%,Retail,United States,FALSE
+Zoox,SF Bay Area,100,10%,Transportat,,FALSE
+EasyPost,SF Bay Area,50,25%,Logistics,United States,FALSE
+Clearbanc,Toronto Non-U.S.,17,8%,Finance,Canada,FALSE
+Neon,Sao Paulo Non-U.S.,70,10%,Finance,Brazil,FALSE
+Envoy,SF Bay Area,58,30%,HR,United States,FALSE
+The RealReal,SF Bay Area,235,10%,Retail,United States,FALSE
+TouchBistro,Toronto Non-U.S.,131,23%,Food,Canada,FALSE
+VSCO,SF Bay Area,45,35%,Consumer,United States,FALSE
+Aura Financial,SF Bay Area,,,Finance,United States,FALSE
+DataStax,SF Bay Area,15,,Data,United States,TRUE
+Xerpa,Sao Paulo Non-U.S.,10,,HR,Brazil,FALSE
+RedDoorz,Singapore Non-U.S.,,,Travel,Singapore,FALSE
+Skillz,SF Bay Area,21,,Consumer,United States,FALSE
+Carta,SF Bay Area,161,16%,Finance,United States,FALSE
+Opendoor,SF Bay Area,600,35%,Real Estate,United States,FALSE
+GoPro,SF Bay Area,200,20%,Consumer,United States,FALSE
+Shop101,Mumbai Non-U.S.,200,40%,Retail,India,FALSE
+Zume,SF Bay Area,200,67%,Food,United States,FALSE
+Akulaku,Jakarta Non-U.S.,100,,Finance,Indonesia,FALSE
+Trove Recommerce,SF Bay Area,13,,Retail,United States,FALSE
+Kodiak Robotics,SF Bay Area,15,20%,Transportat,,FALSE
+Tulip Retail,Toronto Non-U.S.,14,,Retail,Canada,TRUE
+Dude Solutions,Raleigh,,20%,Other,United States,FALSE
+SweetEscape,Jakarta Non-U.S.,,30%,Consumer,Indonesia,FALSE
+View,SF Bay Area,,,Energy,United States,FALSE
+Parsable,SF Bay Area,40,25%,HR,United States,FALSE
+CarGurus,Boston,130,13%,Transportat,,FALSE
+Funding Societies,Singapore Non-U.S.,65,18%,Finance,Singapore,FALSE
+CleverTap,Mumbai Non-U.S.,60,20%,Marketing,India,FALSE
+CrowdRiff,Toronto Non-U.S.,,,Marketing,Canada,FALSE
+Grailed,New York City,,,Retail,United States,TRUE
+LumenAd,Missoula,,,Marketing,United States,FALSE
+Purse,SF Bay Area,,100%,Crypto,United States,TRUE
+SquadVoice,Columbus,,,Real Estate,United States,FALSE
+FullStory,Atlanta,,,Marketing,United States,FALSE
+BlackBuck,Bengaluru Non-U.S.,200,,Logistics,India,FALSE
+ContaAzul,Joinville Non-U.S.,140,35%,Education,Brazil,FALSE
+Loft,Sao Paulo Non-U.S.,47,10%,Real Estate,Brazil,FALSE
+Greenhouse,New York City,120,28%,Recruiting,United States,FALSE
+QuintoAndar,Sao Paulo Non-U.S.,88,8%,Real Estate,Brazil,FALSE
+Zilingo,Singapore Non-U.S.,44,5%,Retail,Singapore,FALSE
+Dispatch,Boston,,38%,Other,United States,FALSE
+Sweetgreen,Los Angeles,35,10%,Food,United States,FALSE
+Labster,Copenhagen Non-U.S.,40,,Education,Denmark,FALSE
+Influitive,Toronto Non-U.S.,,,Marketing,Canada,FALSE
+Food52,New York City,,,Food,United States,FALSE
+People.ai,SF Bay Area,30,18%,Marketing,United States,TRUE
+Tor,Boston,13,37%,Security,United States,TRUE
+BitGo,SF Bay Area,,12%,Crypto,United States,TRUE
+Motif Investing,SF Bay Area,,100%,Finance,United States,FALSE
+Klook,Hong Kong Non-U.S.,300,15%,Travel,Hong Kong,FALSE
+ConsenSys,New York City,91,14%,Crypto,United States,TRUE
+GumGum,Los Angeles,90,25%,Marketing,United States,FALSE
+Kueski,Guadalajara Non-U.S.,90,30%,Finance,Mexico,FALSE
+Zum,SF Bay Area,28,,Transportat,,FALSE
+Komodo Health,SF Bay Area,23,9%,Healthcare,United States,FALSE
+Forward,SF Bay Area,10,3%,Healthcare,United States,FALSE
+Hipcamp,SF Bay Area,,60%,Travel,United States,FALSE
+Movidesk,Blumenau Non-U.S.,33,25%,Support,Brazil,FALSE
+Swiggy,Bengaluru Non-U.S.,800,,Food,India,FALSE
+Paytm,New Delhi Non-U.S.,500,,Finance,India,FALSE
+Lending Club,SF Bay Area,460,30%,Finance,United States,FALSE
+Houzz,SF Bay Area,155,10%,Consumer,United States,FALSE
+Casper,New York City,78,21%,Retail,United States,FALSE
+Freshbooks,Toronto Non-U.S.,38,9%,Finance,Canada,FALSE
+Lambda School,SF Bay Area,19,,Education,United States,FALSE
+Politico / Protocol,Washington D.C.,13,,Media,United States,FALSE
+Bringg,Tel Aviv Non-U.S.,10,10%,Logistics,Israel,FALSE
+RealSelf,Seattle,40,13%,Healthcare,United States,FALSE
+Patreon,SF Bay Area,30,13%,Media,United States,FALSE
+Magic Leap,Miami,1000,50%,Consumer,United States,FALSE
+Nearmap,Sydney Non-U.S.,,10%,Construction,Australia,FALSE
+ExtraHop,Seattle,,,Security,United States,TRUE
+Clearbit,SF Bay Area,,,Data,United States,TRUE
+Airy Rooms,Jakarta Non-U.S.,,70%,Travel,Indonesia,TRUE
+Ike,SF Bay Area,10,14%,Transportat,,FALSE
+When I Work,Minneapolis,55,35%,HR,United States,FALSE
+Zenefits,SF Bay Area,87,15%,HR,United States,FALSE
+StockX,Detroit,100,12%,Retail,United States,FALSE
+Sisense,New York City,80,9%,Data,United States,TRUE
+Convoy,Seattle,,1%,Logistics,United States,FALSE
+Simon Data,New York City,6,,Marketing,United States,FALSE
+Singular,SF Bay Area,,,Marketing,United States,FALSE
+PowerReviews,Chicago,,,Retail,United States,FALSE
+Oscar Health,New York City,70,5%,Healthcare,United States,FALSE
+GoCardless,London Non-U.S.,,,Finance,United Kingdo??False,
+Cheddar,New York City,,,Media,United States,FALSE
+TutorMundi,Sao Paulo Non-U.S.,4,100%,Education,Brazil,FALSE
+Jiobit,Chicago,6,21%,Consumer,United States,FALSE
+Welkin Health,SF Bay Area,10,33%,Healthcare,United States,FALSE
+Horizn Studios,Berlin Non-U.S.,15,25%,Travel,Germany,FALSE
+Lighter Capital,Seattle,18,22%,Finance,United States,FALSE
+UPshow,Chicago,19,30%,Marketing,United States,FALSE
+Ada Support,Toronto Non-U.S.,36,23%,Support,Canada,FALSE
+Divergent 3D,Los Angeles,57,36%,Transportat,,FALSE
+OYO,Sao Paulo Non-U.S.,500,,Travel,Brazil,FALSE
+Submittable,Missoula,30,20%,Other,United States,FALSE
+Stoqo,Jakarta Non-U.S.,250,100%,Food,Indonesia,FALSE
+Qwick,Phoenix,,70%,Recruiting,United States,FALSE
+JetClosing,Seattle,20,20%,Real Estate,United States,FALSE
+Automation Anywhere,SF Bay Area,260,10%,Other,United States,FALSE
+Migo,SF Bay Area,,25%,Finance,United States,FALSE
+Desktop Metal,Boston,,,Other,United States,TRUE
+Shipsi,Los Angeles,20,50%,Retail,United States,FALSE
+PayJoy,SF Bay Area,27,25%,Finance,United States,FALSE
+OpenX,Los Angeles,35,15%,Marketing,United States,FALSE
+App Annie,SF Bay Area,80,18%,Data,United States,TRUE
+Deliveroo,London Non-U.S.,367,15%,Food,United Kingdom,FALSE
+Renmoney,Lagos Non-U.S.,391,50%,Finance,Nigeria,FALSE
+TripAdvisor,Boston,900,25%,Travel,United States,FALSE
+WeWork,SF Bay Area,300,,Real Estate,United States,FALSE
+Kayak / OpenTable,Stamford,160,8%,Travel,United States,FALSE
+Lyft,SF Bay Area,982,17%,Transportat,,FALSE
+Lime,SF Bay Area,80,13%,Transportat,,FALSE
+Transfix,New York City,24,10%,Logistics,United States,FALSE
+Yoco,Cape Town Non-U.S.,,,Finance,South Africa,FALSE
+Kitopi,New York City,124,,Food,United States,FALSE
+Bullhorn,Boston,100,,Sales,United States,FALSE
+Care.com,Boston,81,,Consumer,United States,FALSE
+Fandom,SF Bay Area,,14%,Media,United States,FALSE
+Cohesity,SF Bay Area,,,Data,United States,TRUE
+PicoBrew,Seattle,,100%,Food,United States,FALSE
+AirMap,Los Angeles,,,Aerospace,United States,TRUE
+Zymergen,SF Bay Area,,10%,Other,United States,FALSE
+WeFit,Hanoi Non-U.S.,,100%,Fitness,Vietnam,FALSE
+BetterCloud,New York City,,,Security,United States,TRUE
+Mode Analytics,SF Bay Area,17,,Data,United States,TRUE
+Intersect,Toronto Non-U.S.,19,11%,Product,Canada,FALSE
+Kickstarter,New York City,25,18%,Finance,United States,FALSE
+Mercos,Joinville Non-U.S.,51,40%,Sales,Brazil,FALSE
+Deliv,SF Bay Area,669,100%,Retail,United States,FALSE
+Cruise,SF Bay Area,150,8%,Transportat,,FALSE
+Integral Ad Science,New York City,70,10%,Marketing,United States,FALSE
+Ridecell,SF Bay Area,35,15%,Transportat,,FALSE
+Quartz,New York City,80,40%,Media,United States,FALSE
+Sift,SF Bay Area,,,Security,United States,TRUE
+TicketSwap,Amsterdam Non-U.S.,,30%,Consumer,Netherlands,FALSE
+Workfront,Salt Lake City,,,Marketing,United States,FALSE
+Veem,SF Bay Area,30,,Finance,United States,FALSE
+Masse,New York City,,100%,Retail,United States,FALSE
+Lattice,SF Bay Area,16,10%,HR,United States,FALSE
+Lendingkart,Ahmedabad Non-U.S.,500,50%,Finance,India,FALSE
+Zomato,Gurugram Non-U.S.,520,13%,Food,India,FALSE
+Magicbricks,Noida Non-U.S.,250,,Real Estate,India,FALSE
+Uber,SF Bay Area,3000,13%,Transportat,,FALSE
+Agoda,Singapore Non-U.S.,1500,25%,Travel,Singapore,FALSE
+Swiggy,Bengaluru Non-U.S.,1100,14%,Food,India,FALSE
+Datera,SF Bay Area,,10%,Infrastructu,,FALSE
+Rubrik,SF Bay Area,57,,Infrastructu,,FALSE
+Intapp,SF Bay Area,45,5%,Legal,,FALSE
+Checkmarx,Tel Aviv Non-U.S.,,,Security,Israel,TRUE
+WeWork,New Delhi Non-U.S.,100,20%,Real Estate,India,FALSE
+Pollen,London Non-U.S.,69,31%,Travel,United Kingdo??False,FALSE
+Livspace,Bengaluru Non-U.S.,450,15%,Retail,India,FALSE
+Divvy,Salt Lake City,,,Finance,United States,FALSE
+Dotscience,London Non-U.S.,10,100%,Product,United Kingdo??False,FALSE
+ShareChat,Bengaluru Non-U.S.,101,25%,Marketing,India,FALSE
+SoFi,SF Bay Area,112,7%,Finance,United States,FALSE
+Stay Alfred,Spokane,221,100%,Travel,United States,FALSE
+Samsara,SF Bay Area,300,18%,Logistics,United States,FALSE
+Ola,Bengaluru Non-U.S.,1400,35%,Transportat,,FALSE
+Intercom,SF Bay Area,39,6%,Support,United States,FALSE
+Kapten / Free Now,Paris Non-U.S.,,,Transportat,,FALSE
+PickYourTrail,Chennai Non-U.S.,70,35%,Travel,India,TRUE
+Cvent,Washington D.C.,400,10%,Marketing,United States,FALSE
+Glitch,New York City,18,36%,Product,United States,FALSE
+Teamwork,Cork Non-U.S.,21,,Other,Ireland,FALSE
+CarDekho,Gurugram Non-U.S.,200,,Transportat,,FALSE
+Uber,Bengaluru,600,23%,Transportat,,FALSE
+Acorns,Portland,50,,Finance,United States,FALSE
+Bluprint,Denver,137,100%,Education,United States,FALSE
+Instructure,Salt Lake City,150,12%,Education,United States,FALSE
+Ebanx,Curitiba Non-U.S.,62,8%,Finance,Brazil,FALSE
+The Sill,New York City,20,25%,Retail,United States,FALSE
+Culture Amp,Melbourne Non-U.S.,36,8%,HR,Australia,FALSE
+StubHub,SF Bay Area,200,,Consumer,United States,FALSE
+TrueCar,Los Angeles,219,30%,Transportat,,FALSE
+BookMyShow,Mumbai Non-U.S.,270,18%,Consumer,India,FALSE
+Loftium,Seattle,32,60%,Real Estate,United States,FALSE
+Brex,SF Bay Area,62,15%,Finance,United States,FALSE
+Conga,Denver,,11%,Data,United States,TRUE
+Stockwell AI,SF Bay Area,,100%,Retail,United States,TRUE
+Redox,Madison,44,25%,Healthcare,United States,FALSE
+Splunk,SF Bay Area,70,1%,Data,United States,TRUE
+Grab,Singapore Non-U.S.,360,5%,Transportat,,FALSE
+PaisaBazaar,Gurugram Non-U.S.,1500,50%,Finance,India,TRUE
+Navi,Bengaluru Non-U.S.,40,25%,Finance,,FALSE
+Atlas Obscura,New York City,15,,Media,United States,FALSE
+WeWork,London Non-U.S.,200,,Real Estate,United Kingdo??False,
+Intuit,SF Bay Area,715,7%,Finance,United States,FALSE
+ScaleFactor,Austin,90,90%,Finance,United States,FALSE
+Dark,SF Bay Area,6,100%,Product,United States,FALSE
+Gojek,Jakarta Non-U.S.,430,9%,Transportat,,FALSE
+GoDaddy,Austin,451,6%,Marketing,United States,FALSE
+OYO,Dallas,,,Travel,United States,FALSE
+Sonos,New York City,174,12%,Consumer,United States,FALSE
+Sprinklr,New York City,,,Support,United States,FALSE
+Byton,SF Bay Area,,,Transportat,,FALSE
+Engine eCommerce,Fayetteville,,100%,Retail,United States,FALSE
+New Relic,Portland,20,,Infrastructu,,FALSE
+Bossa Nova,SF Bay Area,61,,Retail,United States,FALSE
+Argo AI,Munich Non-U.S.,100,,Transportat,,TRUE
+Bounce,Bengaluru Non-U.S.,130,22%,Transportat,,FALSE
+Katerra,SF Bay Area,400,7%,Construction,United States,FALSE
+Hired,SF Bay Area,,,Recruiting,United States,FALSE
+G2,Chicago,17,5%,Marketing,United States,FALSE
+Yelp,SF Bay Area,63,,Consumer,United States,FALSE
+Vox Media,Washington D.C.,,,Media,United States,FALSE
+Skyscanner,Edinburgh Non-U.S.,300,20%,Travel,United Kingdo??False,FALSE
+Optimizely,SF Bay Area,60,15%,Marketing,United States,FALSE
+Snaptravel,Toronto Non-U.S.,,,Travel,Canada,FALSE
+Curefit,Bengaluru Non-U.S.,120,,Fitness,India,FALSE
+Lighter Capital,Seattle,22,49%,Finance,United States,FALSE
+LinkedIn,SF Bay Area,960,6%,Recruiting,United States,FALSE
+Checkr,SF Bay Area,64,12%,HR,United States,FALSE
+Sorabel,Jakarta Non-U.S.,,100%,Retail,Indonesia,FALSE
+Perkbox,London Non-U.S.,,,HR,United Kingdo??False,FALSE
+Zeitgold,Berlin Non-U.S.,75,72%,Finance,Germany,FALSE
+Swiggy,Bengaluru Non-U.S.,350,5%,Food,India,FALSE
+Procore,Los Angeles,180,9%,Construction,United States,FALSE
+Pared,SF Bay Area,,,Food,United States,FALSE
+tZero,New York City,,,Finance,United States,FALSE
+Buy.com / Rakuten,SF Bay Area,87,100%,Retail,United States,FALSE
+Booking.com,Amsterdam Non-U.S.,4375,25%,Travel,Netherlands,FALSE
+InVision,New York City,,,Product,United States,FALSE
+Shopify,Ottawa Non-U.S.,30,,Retail,Canada,FALSE
+DJI,Shenzen Non-U.S.,,,Consumer,China,FALSE
+Lumina Networks,SF Bay Area,,100%,Infrastructu,,FALSE
+Mapify,Berlin Non-U.S.,,,Travel,Germany,FALSE
+Docly,London Non-U.S.,8,80%,Healthcare,United Kingdo??False,FALSE
+StreamSets,SF Bay Area,,,Data,United States,TRUE
+Superloop,Brisbane Non-U.S.,30,,Infrastructu,,FALSE
+Spaces,Los Angeles,,,Media,United States,FALSE
+Salesforce,SF Bay Area,1000,2%,Sales,United States,FALSE
+kununu,Boston,,,Recruiting,United States,FALSE
+MakeMyTrip,New Delhi Non-U.S.,350,10%,Travel,India,FALSE
+Air,New York City,,16%,Marketing,United States,TRUE
+WeWork,Shenzen Non-U.S.,,,Real Estate,China,FALSE
+HumanForest,London Non-U.S.,,,Transportat,,
+TheWrap,Los Angeles,,,Media,United States,FALSE
+Alto Pharmacy,SF Bay Area,47,6%,Healthcare,United States,FALSE
+GetYourGuide,Berlin Non-U.S.,90,17%,Travel,Germany,FALSE
+Zomato,Jakarta Non-U.S.,,,Food,Indonesia,FALSE
+Quibi,Los Angeles,,100%,Media,United States,FALSE
+CodeCombat,SF Bay Area,8,,Education,United States,FALSE
+Cheetah,SF Bay Area,,,Food,United States,FALSE
+Knotel,New York City,20,8%,Real Estate,United States,FALSE
+Remedy,Austin,82,,Healthcare,United States,FALSE
+Bridge Connector,Nashville,154,100%,Healthcare,United States,FALSE
+Tidepool,SF Bay Area,18,40%,Healthcare,United States,FALSE
+Scoop,SF Bay Area,,,Transportat,,FALSE
+Igenous,Seattle,,,Data,United States,TRUE
+Domio,New York City,,50%,Real Estate,United States,FALSE
+Aya,Toronto Non-U.S.,5,25%,Finance,Canada,FALSE
+Zinier,SF Bay Area,,,HR,United States,FALSE
+Actifio,Boston,54,,Data,United States,TRUE
+Breather,Montreal Non-U.S.,120,80%,Real Estate,Canada,FALSE
+Pulse Secure,SF Bay Area,78,,Security,United States,TRUE
+Dropbox,SF Bay Area,315,15%,Other,United States,FALSE
+Pocketmath,Singapore,21,100%,Marketing,Singapore,FALSE
+Instacart,SF Bay Area,1877,,Food,United States,FALSE
+Postmates,SF Bay Area,180,15%,Food,United States,FALSE
+Shutterfly,SF Bay Area,800,,Retail,United States,FALSE
+Privitar,London Non-U.S.,20,,Data,United Kingdo??True,FALSE
+Bytedance,Mumbai Non-U.S.,1800,,Consumer,India,FALSE
+Bounce,Bengaluru Non-U.S.,200,40%,Transportat,,FALSE
+Ninjacart,Bengaluru Non-U.S.,200,,Food,India,FALSE
+DJI,SF Bay Area,,,Consumer,United States,FALSE
+Medium,SF Bay Area,,,Media,United States,FALSE
+Patreon,SF Bay Area,36,,Media,United States,FALSE
+Lambda School,SF Bay Area,65,,Education,United States,FALSE
+Madefire,SF Bay Area,,100%,Media,United States,FALSE
+Pagarbook,Bengaluru Non-U.S.,80,,HR,India,FALSE
+Flockjay,SF Bay Area,37,50%,Education,United States,FALSE
+Tanium,Seattle,30,,Security,United States,TRUE
+Casper,New York City,,,Retail,United States,FALSE
+Treehouse,Portland,41,90%,Education,United States,FALSE
+Genius,New York City,,,Consumer,United States,FALSE
+Imperfect Foods,SF Bay Area,,,Food,United States,FALSE
+Zymergen,SF Bay Area,120,,Other,United States,FALSE
+BitTitan,Seattle,70,27%,Data,United States,TRUE
+Delivery Hero,Berlin Non-U.S.,300,,Food,Germany,FALSE
+Protonn,Bengaluru Non-U.S.,,100%,Other,India,FALSE
+Root Insurance,Columbus,330,,Finance,United States,FALSE
+Glossier,New York City,80,33%,Consumer,United States,FALSE
+Gopuff,Philadelphia,100,,Food,United States,FALSE
+Homie,Salt Lake City,119,29%,Real Estate,United States,FALSE
+Liv Up,Sao Paulo Non-U.S.,100,15%,Food,Brazil,FALSE
+Trustly,Stockholm Non-U.S.,120,,Finance,Sweden,FALSE
+Lido,Mumbai Non-U.S.,150,,Education,India,FALSE
+Virgin Hyperloop,Los Angeles,111,50%,Transportat,,FALSE
+OKCredit,New Delhi Non-U.S.,30,,Finance,India,FALSE
+iFit,Logan,,,Fitness,,FALSE
+Talis Biomedical,SF Bay Area,,25%,Healthcare,United States,FALSE
+Knock,New York City,115,46%,Real Estate,United States,FALSE
+Trell,Bengaluru Non-U.S.,300,50%,Retail,India,FALSE
+Curology,SF Bay Area,150,,Healthcare,United States,FALSE
+Storytel,Stockholm Non-U.S.,100,10%,Media,Sweden,FALSE
+Grove Collaborative,SF Bay Area,,17%,Retail,United States,FALSE
+Furlenco,Bengaluru Non-U.S.,180,,Retail,India,FALSE
+Thinkific,Vancouver Non-U.S.,100,20%,Education,Canada,FALSE
+Gopuff,Philadelphia,450,3%,Food,United States,FALSE
+Rasa,Berlin Non-U.S.,59,40%,Data,Germany,TRUE
+Sea,Bengaluru Non-U.S.,350,,Retail,India,FALSE
+Lightico,Tel Aviv Non-U.S.,20,,Finance,Israel,FALSE
+Ahead,SF Bay Area,44,100%,Healthcare,United States,FALSE
+Truepill,SF Bay Area,,,Healthcare,United States,FALSE
+Halcyon Health,New York City,,100%,Healthcare,United States,FALSE
+Humble,SF Bay Area,10,,Media,United States,FALSE
+Automox,Boulder,,11%,Infrastructu,,FALSE
+Loft,Sao Paulo Non-U.S.,159,,Real Estate,Brazil,FALSE
+QuintoAndar,Sao Paulo Non-U.S.,160,4%,Real Estate,Brazil,FALSE
+Blend,SF Bay Area,200,10%,Finance,United States,FALSE
+Better.com,New York City,,,Real Estate,United States,FALSE
+Lemonade,New York City,52,,Finance,United States,FALSE
+Facily,Sao Paulo Non-U.S.,260,30%,Retail,Brazil,FALSE
+Xiaohongshu,Shanghai Non-U.S.,180,9%,Consumer,China,FALSE
+Sigfox,Toulouse Non-U.S.,64,,Other,France,FALSE
+Clyde,New York City,22,,Marketing,United States,FALSE
+Bonsai,Toronto Non-U.S.,29,34%,Retail,Canada,TRUE
+Robinhood,SF Bay Area,340,9%,Finance,United States,FALSE
+Wahoo Fitness,Atlanta,50,,Fitness,United States,FALSE
+Netflix,SF Bay Area,25,,Media,United States,FALSE
+Domestika,SF Bay Area,150,19%,Education,United States,FALSE
+Noom,New York City,495,,Healthcare,United States,FALSE
+CommonBond,New York City,22,,Finance,United States,FALSE
+Subspace,Los Angeles,,100%,Infrastructu,,FALSE
+Thirty Madison,New York City,24,,Healthcare,United States,FALSE
+AliExpress Russia,Moscow Non-U.S.,400,40%,Retail,Russia,FALSE
+Zulily,Seattle,,,Retail,United States,FALSE
+Zak,Sao Paulo Non-U.S.,100,40%,Food,Brazil,FALSE
+Picsart,Miami,90,8%,Consumer,United States,FALSE
+Kry,Stockholm Non-U.S.,100,10%,Healthcare,Sweden,FALSE
+Netflix,SF Bay Area,150,1%,Media,United States,FALSE
+Vedantu,Bengaluru Non-U.S.,424,7%,Education,India,FALSE
+Cars24,Gurugram Non-U.S.,600,6%,Transportat,,FALSE
+Skillz,SF Bay Area,70,10%,Consumer,United States,FALSE
+Outside,Boulder,87,15%,Media,United States,FALSE
+Latch,New York City,130,28%,Security,United States,TRUE
+MFine,Bengaluru Non-U.S.,600,75%,Healthcare,India,FALSE
+Buenbit,Buenos Aires Non-U.S.,80,45%,Crypto,Argentina,TRUE
+Klarna,Stockholm Non-U.S.,700,10%,Finance,Sweden,FALSE
+PayPal,SF Bay Area,83,,Finance,United States,FALSE
+BeyondMinds,Tel Aviv Non-U.S.,65,100%,Data,Israel,TRUE
+Airtime,New York City,30,20%,Consumer,United States,TRUE
+Olist,Curitiba Non-U.S.,,,Retail,Brazil,FALSE
+ClickUp,San Diego,60,7%,Other,United States,FALSE
+The Zebra,Austin,40,,Finance,United States,FALSE
+Zenius,Jakarta Non-U.S.,200,,Education,Indonesia,FALSE
+Gorillas,Berlin Non-U.S.,300,50%,Food,Germany,FALSE
+Lacework,SF Bay Area,300,20%,Security,United States,TRUE
+Bolt,SF Bay Area,240,27%,Finance,United States,FALSE
+PeerStreet,Los Angeles,75,,Finance,United States,FALSE
+Kontist,Berlin Non-U.S.,50,25%,Finance,Germany,FALSE
+Coterie Insurance,Cincinnati,30,20%,Finance,United States,FALSE
+Airlift,Lahore Non-U.S.,,31%,Logistics,Pakistan,TRUE
+Getir,Istanbul Non-U.S.,,14%,Food,Turkey,FALSE
+Zapp,London Non-U.S.,,10%,Food,United Kingdo??False,FALSE
+Nuri,Berlin Non-U.S.,45,20%,Finance,Germany,FALSE
+Dazn,London Non-U.S.,50,2%,Consumer,United Kingdo??False,FALSE
+Foodpanda,Bucharest Non-U.S.,80,,Food,Romania,FALSE
+Bitso,Mexico City Non-U.S.,80,11%,Crypto,Mexico,TRUE
+VTEX,Sao Paulo Non-U.S.,200,13%,Retail,Brazil,FALSE
+FrontRow,Bengaluru Non-U.S.,145,30%,Education,India,FALSE
+Daloopa,New Delhi Non-U.S.,40,,Data,India,TRUE
+Akerna,Denver,,,Logistics,United States,FALSE
+Terminus,Atlanta,,,Marketing,United States,FALSE
+Uncapped,London Non-U.S.,29,26%,Finance,United Kingdo??False,FALSE
+Tempus Ex,SF Bay Area,,,Data,United States,TRUE
+SumUp,Sao Paulo Non-U.S.,100,3%,Finance,Brazil,FALSE
+Mobile Premier League,Bengaluru Non-U.S.,100,10%,Consumer,India,FALSE
+SWVL,Dubai Non-U.S.,400,32%,Transportat,,
+Cerebral,SF Bay Area,,,Healthcare,United States,FALSE
+BookClub,Salt Lake City,12,25%,Education,United States,FALSE
+Getta,Tel Aviv Non-U.S.,30,,Transportat,,FALSE
+Tomo,Stamford,44,33%,Finance,United States,FALSE
+Replicated,Los Angeles,50,,Infrastructu,,FALSE
+Playtika,Tel Aviv Non-U.S.,250,6%,Consumer,Israel,FALSE
+BlockFi,New York City,250,20%,Crypto,United States,TRUE
+Wave Sports and Entertainment,Los Angeles,56,33%,Media,United States,TRUE
+Studio,SF Bay Area,33,40%,Education,United States,FALSE
+Automox,Boulder,,,Infrastructu,,FALSE
+Desktop Metal,Boston,,12%,Other,United States,TRUE
+Shopee,Singapore Non-U.S.,,,Food,Singapore,FALSE
+Addi,Bogota Non-U.S.,,,Finance,Colombia,FALSE
+TIFIN,Boulder,24,10%,Crypto,United States,TRUE
+Hunty,Bogota Non-U.S.,30,,HR,Colombia,FALSE
+Breathe,New Delhi Non-U.S.,50,33%,Healthcare,India,FALSE
+Sami,Sao Paulo Non-U.S.,75,15%,Healthcare,Brazil,FALSE
+Compass,New York City,450,10%,Real Estate,United States,FALSE
+Redfin,Seattle,470,8%,Real Estate,United States,FALSE
+Coinbase,SF Bay Area,1100,18%,Crypto,United States,TRUE
+Swappie,Helsinki Non-U.S.,250,17%,Retail,Finland,FALSE
+Wealthsimple,Toronto Non-U.S.,159,13%,Finance,Canada,FALSE
+Weee!,SF Bay Area,150,10%,Food,United States,FALSE
+Elementor,Tel Aviv Non-U.S.,60,15%,Media,Israel,FALSE
+Notarize,Boston,110,25%,Legal,United States,FALSE
+Airtame,Copenhagen Non-U.S.,15,,Consumer,Denmark,TRUE
+JetClosing,Seattle,,100%,Real Estate,United States,FALSE
+OpenWeb,Tel Aviv Non-U.S.,14,5%,Media,Israel,FALSE
+Swyft,Toronto Non-U.S.,10,30%,Logistics,Canada,FALSE
+Crehana,Lima Non-U.S.,,,Education,Peru,FALSE
+Tonkean,SF Bay Area,23,23%,Other,United States,FALSE
+Circulo Health,Columbus,,50%,Healthcare,United States,FALSE
+PharmEasy,Mumbai Non-U.S.,40,,Healthcare,India,FALSE
+Zumper,SF Bay Area,45,15%,Real Estate,United States,FALSE
+JOKR,New York City,50,5%,Food,United States,FALSE
+Bytedance,Shanghai Non-U.S.,150,,Consumer,China,FALSE
+Finite State,Columbus,16,20%,Security,United States,TRUE
+Socure,Reno,69,13%,Finance,United States,FALSE
+Unacademy,Bengaluru Non-U.S.,150,3%,Education,India,FALSE
+BitOasis,Dubai Non-U.S.,9,5%,Crypto,United Arab E??True,FALSE
+CityMall,Gurugram Non-U.S.,191,30%,Retail,India,FALSE
+Trax,Singapore Non-U.S.,100,12%,Retail,Singapore,FALSE
+Aqgromalin,Chennai Non-U.S.,80,30%,Food,India,FALSE
+SummerBio,SF Bay Area,101,100%,Healthcare,United States,FALSE
+Brighte,Sydney Non-U.S.,30,15%,Energy,Australia,FALSE
+Bybit,Singapore Non-U.S.,,,Crypto,Singapore,TRUE
+Bonsai,Toronto Non-U.S.,30,55%,Retail,Canada,TRUE
+Buzzer,New York City,,20%,Media,United States,FALSE
+Tray.io,SF Bay Area,,10%,Data,United States,TRUE
+SuperLearn,Bengaluru Non-U.S.,,100%,Education,India,FALSE
+Frubana,Bogota Non-U.S.,,3%,Food,Colombia,FALSE
+Sourcegraph,SF Bay Area,24,8%,Product,United States,FALSE
+Community,Los Angeles,40,30%,Marketing,United States,FALSE
+TaskUs,Los Angeles,52,0%,Support,United States,FALSE
+Ebanx,Curitiba Non-U.S.,340,20%,Finance,Brazil,FALSE
+Bungalow,SF Bay Area,70,,Real Estate,United States,FALSE
+Sprinklr,New York City,50,,Support,United States,FALSE
+Superpedestrian,Boston,35,7%,Transportat,,FALSE
+MasterClass,SF Bay Area,120,20%,Education,United States,FALSE
+Balto,St. Louis,30,,Sales,United States,FALSE
+Voi,Stockholm Non-U.S.,35,10%,Transportat,,FALSE
+Voly,Sydney Non-U.S.,,50%,Food,Australia,FALSE
+IronNet,Washington D.C.,90,35%,Security,United States,TRUE
+Mindgeek,Luxembourg Non-U.S.,,,Media,Luxembourg,FALSE
+Ritual,Toronto Non-U.S.,23,16%,Food,Canada,FALSE
+Netflix,SF Bay Area,300,3%,Media,United States,FALSE
+Aura,Boston,70,9%,Security,United States,TRUE
+Vouch,SF Bay Area,15,7%,Finance,United States,FALSE
+Esper,Seattle,,12%,Other,United States,FALSE
+Pipl,Spokane,22,13%,Security,United States,TRUE
+Mark43,New York City,,,Other,United States,FALSE
+Orchard,New York City,,10%,Real Estate,United States,FALSE
+Ro,New York City,,18%,Healthcare,United States,FALSE
+StreamElements,Tel Aviv Non-U.S.,,20%,Media,Israel,FALSE
+Kune,Nairobi Non-U.S.,,100%,Food,Kenya,FALSE
+Voyage SMS,Los Angeles,8,13%,Marketing,United States,FALSE
+Bitpanda,Vienna Non-U.S.,270,27%,Crypto,Austria,TRUE
+Give Legacy,Boston,,,Healthcare,United States,FALSE
+Feather,New York City,,,Retail,United States,FALSE
+Ethos Life,SF Bay Area,40,12%,Finance,United States,FALSE
+Bestow,Dallas,41,14%,Finance,United States,FALSE
+Sunday,Atlanta,90,23%,Finance,United States,FALSE
+Postscript,SF Bay Area,43,,Marketing,United States,FALSE
+SafeGraph,SF Bay Area,27,25%,Data,United States,TRUE
+Banxa,Melbourne Non-U.S.,70,30%,Crypto,Australia,TRUE
+Cue,San Diego,170,,Healthcare,United States,FALSE
+Udaan,Bengaluru Non-U.S.,180,4%,Retail,India,FALSE
+UiPath,New York City,210,5%,Data,United States,TRUE
+AppLovin,SF Bay Area,300,12%,Marketing,United States,FALSE
+Amount,Chicago,,18%,Finance,United States,FALSE
+Huobi,Beijing Non-U.S.,300,30%,Crypto,China,TRUE
+WhiteHat Jr,Mumbai Non-U.S.,300,,Education,India,FALSE
+Sidecar Health,Los Angeles,110,40%,Healthcare,United States,FALSE
+StockX,Detroit,80,,Retail,United States,FALSE
+Bright Machines,SF Bay Area,30,8%,Data,Israel,TRUE
+HealthMatch,Sydney Non-U.S.,18,50%,Healthcare,Australia,FALSE
+Booktopia,Sydney Non-U.S.,,,Retail,Australia,FALSE
+Nova Benefits,Bengaluru Non-U.S.,,30%,Healthcare,India,FALSE
+Una Brands,Singapore Non-U.S.,,10%,Retail,Singapore,FALSE
+Vezeeta,Dubai Non-U.S.,50,10%,Healthcare,United Arab E??False,FALSE
+Clutch,Toronto Non-U.S.,76,22%,Transportat,,FALSE
+Toppr,Mumbai Non-U.S.,350,,Education,India,FALSE
+Unity,SF Bay Area,200,4%,Other,United States,FALSE
+Niantic,SF Bay Area,85,8%,Consumer,United States,FALSE
+AvantStay,Los Angeles,80,,Travel,United States,FALSE
+Qumulo,Seattle,80,19%,Data,United States,TRUE
+Parallel Wireless,Nashua,60,,Infrastructu,,FALSE
+Modsy,SF Bay Area,,,Retail,United States,FALSE
+Rows,Berlin Non-U.S.,18,30%,Other,Germany,FALSE
+Baton,SF Bay Area,16,25%,Transportat,,FALSE
+Substack,SF Bay Area,13,14%,Media,United States,FALSE
+CommentSold,Huntsville,,,Retail,United States,FALSE
+Degreed,SF Bay Area,,15%,Education,United States,FALSE
+HomeLight,SF Bay Area,,19%,Real Estate,United States,FALSE
+Volt Bank,Sydney Non-U.S.,,100%,Finance,Australia,FALSE
+Oye Rickshaw,New Delhi Non-U.S.,40,20%,Transportat,,FALSE
+Enjoy,SF Bay Area,400,18%,Retail,United States,FALSE
+Snyk,Boston,30,,Security,United States,TRUE
+Nate,New York City,30,20%,Retail,United States,FALSE
+Stream,Boulder,20,12%,Product,United States,FALSE
+Crejo.Fun,Bengaluru Non-U.S.,170,100%,Education,India,FALSE
+Abra,SF Bay Area,12,5%,Crypto,United States,TRUE
+Finleap Connect,Hamburg Non-U.S.,14,10%,Finance,Germany,FALSE
+Sundae,SF Bay Area,,15%,Real Estate,United States,FALSE
+Stash Financial,New York City,40,8%,Finance,United States,FALSE
+Secfi,SF Bay Area,,,Finance,United States,FALSE
+Gavelytics,Los Angeles,,100%,Legal,United States,FALSE
+CircleUp,SF Bay Area,,,Finance,United States,FALSE
+Papa,Miami,,15%,Other,United States,FALSE
+Tonal,SF Bay Area,262,35%,Fitness,United States,FALSE
+Fabric,New York City,120,40%,Logistics,United States,FALSE
+Bryter,Berlin Non-U.S.,100,30%,Product,Germany,FALSE
+Wave,Dakar Non-U.S.,300,15%,Finance,Senegal,FALSE
+Involves,Florianópolis Non-U.S.,70,18%,Retail,Brazil,FALSE
+100 Thieves,Los Angeles,12,,Consumer,United States,FALSE
+Nuro,SF Bay Area,7,,Transportat,,FALSE
+Arrival,London Non-U.S.,,30%,Transportat,,
+ChowNow,Los Angeles,100,20%,Food,United States,FALSE
+OpenSea,New York City,,20%,Crypto,United States,TRUE
+Cosuno,Berlin Non-U.S.,,,Construction,Germany,FALSE
+Alto Pharmacy,SF Bay Area,,,Healthcare,United States,FALSE
+Kiavi,SF Bay Area,39,7%,Real Estate,United States,FALSE
+Unstoppable Domains,SF Bay Area,42,25%,Crypto,United States,TRUE
+The Mom Project,Chicago,54,15%,HR,United States,FALSE
+Zego,London Non-U.S.,85,17%,Finance,United Kingdo??False,FALSE
+Bright Money,Bengaluru Non-U.S.,100,50%,Finance,India,FALSE
+Project44,Chicago,63,5%,Logistics,United States,FALSE
+StyleSeat,SF Bay Area,,17%,Consumer,United States,FALSE
+Aspire,SF Bay Area,23,,Marketing,United States,FALSE
+Heroes,London Non-U.S.,24,20%,Retail,United Kingdo??False,FALSE
+PACT Pharma,SF Bay Area,94,,Healthcare,United States,FALSE
+Lusha,New York City,30,10%,Marketing,United States,FALSE
+Elemy,SF Bay Area,,,Healthcare,United States,FALSE
+Gemini,New York City,68,7%,Crypto,United States,TRUE
+Hydrow,Boston,,35%,Fitness,United States,FALSE
+TikTok,Los Angeles,,,Consumer,United States,FALSE
+Vimeo,New York City,,6%,Consumer,United States,FALSE
+Freshly,New York City,,25%,Food,United States,FALSE
+Stint,London Non-U.S.,28,20%,HR,United Kingdo??False,FALSE
+SellerX,Berlin Non-U.S.,28,,Retail,Germany,FALSE
+M1,Chicago,38,,Finance,United States,FALSE
+Olive,Columbus,450,31%,Healthcare,United States,FALSE
+Invitae,SF Bay Area,1000,,Healthcare,United States,FALSE
+Capsule,New York City,,13%,Healthcare,United States,FALSE
+Flyhomes,Seattle,200,20%,Real Estate,United States,FALSE
+Varo,SF Bay Area,75,,Finance,United States,FALSE
+Just Eat Takeaway,Amsterdam Non-U.S.,390,,Food,Netherlands,FALSE
+BlueStacks,SF Bay Area,60,,Other,United States,FALSE
+Forma.ai,Toronto Non-U.S.,15,9%,Sales,Canada,TRUE
+Introhive,Ferdericton Non-U.S.,57,16%,Sales,Canada,FALSE
+Zencity,Tel Aviv Non-U.S.,30,20%,Other,Israel,FALSE
+Splice,New York City,23,,Media,United States,FALSE
+Arc,SF Bay Area,13,,HR,United States,FALSE
+Lyft,SF Bay Area,60,2%,Transportat,,FALSE
+Blockchain.com,London Non-U.S.,150,25%,Crypto,United Kingdo??True,TRUE
+Callisto Media,SF Bay Area,140,35%,Media,United States,FALSE
+AppGate,Miami,130,22%,Security,United States,TRUE
+WHOOP,Boston,95,15%,Fitness,United States,FALSE
+Rad Power Bikes,Seattle,63,10%,Transportat,,FALSE
+Lunchbox,New York City,60,33%,Food,United States,FALSE
+RealSelf,Seattle,11,5%,Healthcare,United States,FALSE
+98point6,Seattle,,10%,Healthcare,United States,FALSE
+Catalyst,New York City,,,Support,United States,FALSE
+InVision,New York City,,50%,Product,United States,FALSE
+Mural,SF Bay Area,,,Product,United States,FALSE
+Smarsh,Portland,,,Other,,FALSE
+Eucalyptus,Sydney Non-U.S.,50,20%,Healthcare,Australia,FALSE
+Workstream,SF Bay Area,45,,HR,United States,FALSE
+Quanto,Sao Paulo Non-U.S.,28,22%,Finance,Brazil,FALSE
+Clarify Health,SF Bay Area,15,5%,Healthcare,United States,FALSE
+Wizeline,SF Bay Area,,,Product,United States,FALSE
+Boosted Commerce,Los Angeles,,5%,Retail,United States,FALSE
+Owlet,Lehi,,,Healthcare,United States,FALSE
+People.ai,SF Bay Area,,,Sales,United States,TRUE
+Arete,Miami,,,Security,United States,TRUE
+Soluto,Tel Aviv Non-U.S.,120,100%,Support,Israel,FALSE
+Included Health,SF Bay Area,,6%,Healthcare,United States,FALSE
+Pear Therapeutics,Boston,25,9%,Healthcare,United States,FALSE
+Zymergen,SF Bay Area,80,,Other,United States,FALSE
+Shopify,Ottawa Non-U.S.,1000,10%,Retail,Canada,FALSE
+McMakler,Berlin Non-U.S.,90,,Real Estate,Germany,FALSE
+Fiverr,Tel Aviv Non-U.S.,60,8%,Other,Israel,FALSE
+Outbrain,New York City,38,3%,Marketing,United States,TRUE
+Dover,SF Bay Area,23,30%,Recruiting,United States,FALSE
+Immutable,Sydney Non-U.S.,20,6%,Crypto,Australia,TRUE
+InDebted,Sydney Non-U.S.,40,17%,Finance,Australia,FALSE
+Skai,Tel Aviv Non-U.S.,30,4%,Marketing,Israel,TRUE
+Coinsquare,Toronto Non-U.S.,30,24%,Crypto,Canada,TRUE
+Vox Media,Washington D.C.,39,2%,Media,United States,FALSE
+Rivian,Detroit,840,6%,Transportat,,FALSE
+Ribbon,New York City,136,,Real Estate,United States,FALSE
+Metromile,SF Bay Area,60,20%,Finance,United States,FALSE
+Laybuy,Auckland,45,,Finance,New Zealand,FALSE
+Allbirds,SF Bay Area,23,,Retail,United States,FALSE
+TextNow,Waterloo Non-U.S.,22,,Consumer,Canada,FALSE
+Career Karma,SF Bay Area,60,33%,Education,United States,FALSE
+Bikayi,Bengaluru Non-U.S.,,,Retail,India,FALSE
+Brainbase,Los Angeles,,,Sales,United States,TRUE
+Change.org,SF Bay Area,,19%,Other,United States,FALSE
+Tapas Media,SF Bay Area,,,Media,United States,FALSE
+Turntide,SF Bay Area,,20%,Energy,United States,FALSE
+2U,Washington D.C.,,20%,Education,United States,FALSE
+Ola,Bengaluru Non-U.S.,1000,,Transportat,,FALSE
+Clearco,Toronto Non-U.S.,125,25%,Finance,Canada,FALSE
+Imperfect Foods,SF Bay Area,50,,Food,United States,FALSE
+Shelf Engine,Seattle,43,,Food,United States,FALSE
+Sherpa,Toronto Non-U.S.,22,,Travel,Canada,FALSE
+CoinFLEX,Victoria Non-U.S.,,,Crypto,Seychelles,TRUE
+MissFresh,Beijing Non-U.S.,,,Food,China,FALSE
+Yabonza,Sydney Non-U.S.,,100%,Real Estate,Australia,FALSE
+Quantcast,SF Bay Area,40,6%,Marketing,United States,FALSE
+Gatherly,Atlanta,,50%,Marketing,United States,FALSE
+Vee,Tel Aviv Non-U.S.,16,32%,HR,Israel,FALSE
+Metigy,Sydney Non-U.S.,75,100%,Marketing,Australia,FALSE
+Almanac,SF Bay Area,,,Other,United States,FALSE
+Anywell,Tel Aviv Non-U.S.,11,,Real Estate,Israel,FALSE
+Blend,SF Bay Area,220,12%,Finance,United States,FALSE
+Sema4,Stamford,250,13%,Healthcare,United States,FALSE
+ThredUp,Chicago,,15%,Retail,United States,FALSE
+ContraFect,New York City,16,37%,Healthcare,United States,FALSE
+Updater,New York City,,,Other,United States,FALSE
+Snapdocs,SF Bay Area,,10%,Real Estate,United States,FALSE
+Edmodo,SF Bay Area,,100%,Education,United States,FALSE
+Crypto.com,Singapore Non-U.S.,,,Crypto,Singapore,TRUE
+Woven,Indianapolis,5,15%,HR,United States,FALSE
+Pliops,Tel Aviv Non-U.S.,12,9%,Data,Israel,TRUE
+AlayaCare,Montreal,80,14%,Healthcare,Canada,FALSE
+Warren,Porto Alegre Non-U.S.,50,,Finance,Brazil,FALSE
+Genesis,New York City,52,20%,Crypto,United States,TRUE
+Tempo Automation,SF Bay Area,54,,Other,United States,FALSE
+Swyftx,Brisbane Non-U.S.,74,21%,Crypto,Australia,TRUE
+Fluke,Sao Paulo Non-U.S.,83,82%,Other,Brazil,FALSE
+Malwarebytes,SF Bay Area,125,14%,Security,United States,TRUE
+New Relic,SF Bay Area,110,5%,Infrastructu,,FALSE
+Wheel,Austin,35,17%,Healthcare,United States,FALSE
+Thirty Madison,New York City,,10%,Healthcare,United States,FALSE
+Vendasta,Saskatoon Non-U.S.,,5%,Marketing,Canada,FALSE
+Petal,New York City,,10%,Finance,United States,FALSE
+Hodlnaut,Singapore Non-U.S.,40,80%,Crypto,Singapore,TRUE
+Stripe,SF Bay Area,50,,Finance,United States,FALSE
+Wayfair,Boston,870,5%,Retail,United States,TRUE
+Amperity,Seattle,13,3%,Marketing,United States,FALSE
+Tufin,Boston,55,10%,Security,United States,TRUE
+NSO,Tel Aviv Non-U.S.,100,14%,Security,Israel,TRUE
+Mr. Yum,Melbourne Non-U.S.,,17%,Food,Australia,FALSE
+ShopX,Bengaluru Non-U.S.,,100%,Retail,India,FALSE
+Skillshare,New York City,,,Education,United States,FALSE
+Kogan,Melbourne Non-U.S.,,,Retail,Australia,FALSE
+DataRobot,Boston,,26%,Data,United States,TRUE
+Plato,SF Bay Area,29,50%,HR,United States,FALSE
+Skedulo,SF Bay Area,31,8%,HR,United States,FALSE
+Q4,Toronto Non-U.S.,50,8%,Other,Canada,FALSE
+Packable,New York City,138,20%,Retail,United States,FALSE
+Tier Mobility,Berlin Non-U.S.,180,16%,Transportat,,FALSE
+Reali,SF Bay Area,140,100%,Real Estate,United States,FALSE
+Loop,Washington D.C.,15,20%,Finance,United States,FALSE
+Pix,SF Bay Area,,,Food,United States,FALSE
+FreshDirect,Philadelphia,40,,Food,United States,FALSE
+Impact.com,Los Angeles,,10%,Marketing,,FALSE
+ShipBob,Chicago,,7%,Logistics,United States,FALSE
+Loja Integrada,Sao Paulo Non-U.S.,25,10%,Retail,Brazil,FALSE
+Better.com,New York City,,,Real Estate,United States,FALSE
+Argyle,New York City,20,7%,Finance,United States,FALSE
+Okta,SF Bay Area,24,,Security,United States,TRUE
+Zymergen,SF Bay Area,80,,Other,United States,FALSE
+Otonomo,Tel Aviv Non-U.S.,,,Transportat,,FALSE
+54gene,Washington D.C.,95,30%,Healthcare,United States,FALSE
+Meesho,Bengaluru Non-U.S.,300,,Retail,India,FALSE
+Skillz,SF Bay Area,,,Consumer,United States,FALSE
+Fungible,SF Bay Area,,,Crypto,United States,TRUE
+Nate,New York City,30,,Retail,United States,FALSE
+Immersive Labs,Bristol Non-U.S.,38,10%,Security,United Kingdo??True,TRUE
+Electric,New York City,81,,Other,United States,FALSE
+Hippo Insurance,SF Bay Area,70,10%,Finance,United States,FALSE
+Snap,Los Angeles,1280,20%,Consumer,United States,FALSE
+GoodRx,Los Angeles,140,16%,Healthcare,United States,FALSE
+Smava,Berlin Non-U.S.,100,10%,Finance,Germany,FALSE
+Clari,SF Bay Area,45,,Sales,United States,FALSE
+Artnight,Berlin Non-U.S.,26,36%,Retail,Germany,FALSE
+TCR2,Boston,30,20%,Healthcare,United States,FALSE
+Apartment List,SF Bay Area,29,10%,Real Estate,United States,FALSE
+Snagajob,Richmond,,,HR,United States,FALSE
+The Wing,New York City,,100%,Real Estate,United States,FALSE
+Viamo,Accra Non-U.S.,,,Other,Ghana,FALSE
+Koo,Bengaluru Non-U.S.,40,,Consumer,India,FALSE
+Propzy,Ho Chi Minh City Non-U.S.,,100%,Real Estate,Vietnam,FALSE
+FullStory,Atlanta,,12%,Marketing,United States,FALSE
+Patreon,SF Bay Area,80,17%,Media,United States,FALSE
+Taboola,New York City,100,6%,Marketing,United States,FALSE
+Checkout.com,London Non-U.S.,100,5%,Finance,United Kingdo??False,FALSE
+Rubius,Boston,160,75%,Healthcare,United States,FALSE
+Pitch,Berlin Non-U.S.,59,30%,Marketing,Germany,FALSE
+Twilio,SF Bay Area,800,11%,Other,United States,FALSE
+Netflix,SF Bay Area,30,,Media,United States,FALSE
+Infarm,Berlin Non-U.S.,50,5%,Other,Germany,FALSE
+Bitrise,Budapest Non-U.S.,,14%,Infrastructu,,FALSE
+NextRoll,SF Bay Area,,7%,Marketing,United States,FALSE
+DayTwo,SF Bay Area,,,Healthcare,United States,FALSE
+WorkRamp,SF Bay Area,35,20%,HR,United States,FALSE
+Acast,Stockholm Non-U.S.,70,15%,Media,Sweden,FALSE
+LivePerson,New York City,193,11%,Support,United States,FALSE
+TrueLayer,London Non-U.S.,40,10%,Finance,United Kingdo??False,FALSE
+Clear,Bengaluru Non-U.S.,190,20%,Finance,India,FALSE
+Shopee,Jakarta Non-U.S.,,,Food,Indonesia,FALSE
+VideoAmp,Los Angeles,,2%,Marketing,United States,FALSE
+Vesalius Therapeutics,Boston,29,43%,Healthcare,United States,FALSE
+Ola,Bengaluru Non-U.S.,200,,Transportat,,FALSE
+Curative,Los Angeles,109,,Healthcare,United States,FALSE
+Ada,Toronto Non-U.S.,78,16%,Support,Canada,FALSE
+Compass,New York City,271,,Real Estate,United States,FALSE
+Ouster,SF Bay Area,,10%,Transportat,,FALSE
+99,Sao Paulo Non-U.S.,75,2%,Transportat,Brazil,FALSE
+Zappos,Las Vegas,,4%,Retail,United States,FALSE
+Candidate Labs,SF Bay Area,,,HR,United States,FALSE
+Kitty Hawk,SF Bay Area,100,100%,Aerospace,United States,FALSE
+Made.com,London Non-U.S.,,35%,Retail,United Kingdo??False,FALSE
+Klarna,Stockholm Non-U.S.,100,,Finance,Sweden,FALSE
+NYDIG,New York City,110,33%,Crypto,United States,TRUE
+Pesto,SF Bay Area,,100%,Other,United States,FALSE
+Truiloo,Vancouver Non-U.S.,24,5%,Security,Canada,TRUE
+Moss,Berlin Non-U.S.,70,15%,Finance,Germany,FALSE
+Konfio,Mexico City Non-U.S.,180,,Finance,Mexico,FALSE
+Foxtrot,Chicago,26,4%,Food,United States,FALSE
+Instacart,SF Bay Area,,,Food,United States,FALSE
+Graphcore,Bristol Non-U.S.,,,Data,United Kingdo??True,TRUE
+Divvy Homes,SF Bay Area,40,12%,Real Estate,United States,FALSE
+Volta,SF Bay Area,,10%,Transportat,,FALSE
+Front,SF Bay Area,,,Support,United States,FALSE
+DocuSign,SF Bay Area,671,9%,Sales,United States,FALSE
+Westwing,Munich Non-U.S.,125,,Retail,Germany,FALSE
+Mux,SF Bay Area,40,20%,Infrastructu,,FALSE
+Zenjob,Berlin Non-U.S.,,,HR,Germany,FALSE
+Solarisbank,Berlin Non-U.S.,,10%,Finance,Germany,FALSE
+Pastel,SF Bay Area,,100%,Food,United States,FALSE
+Carsome,Kuala Lumpur Non-U.S.,,10%,Transportat,,FALSE
+Spin,SF Bay Area,78,10%,Transportat,,FALSE
+Truepill,SF Bay Area,,,Healthcare,United States,FALSE
+ExtraHop,Seattle,,,Security,United States,TRUE
+Playdots,New York City,65,100%,Consumer,United States,FALSE
+Salesforce,SF Bay Area,90,,Sales,United States,FALSE
+Qin1,Noida Non-U.S.,,100%,Education,India,FALSE
+Flux Systems,London Non-U.S.,,100%,Finance,United Kingdo??False,FALSE
+Beyond Meat,Los Angeles,200,19%,Food,United States,FALSE
+Clear Capital,Reno,378,27%,Real Estate,United States,FALSE
+Huawei,Shenzen Non-U.S.,,,Hardware,China,FALSE
+Flipboard,SF Bay Area,24,21%,Media,United States,FALSE
+Ada Health,Berlin Non-U.S.,50,,Healthcare,Germany,FALSE
+Tiendanube,Buenos Aires,50,5%,Marketing,Argentina,FALSE
+Nuri,Berlin Non-U.S.,,100%,Crypto,Germany,TRUE
+Microsoft,Seattle,,,Other,United States,TRUE
+Leafly,Seattle,56,21%,Retail,United States,FALSE
+Faire,SF Bay Area,84,7%,Retail,United States,TRUE
+AtoB,SF Bay Area,32,30%,Finance,United States,FALSE
+InfoSum,London Non-U.S.,20,12%,Security,United Kingdo??True,TRUE
+Gopuff,Philadelphia,250,,Food,United States,FALSE
+Collibra,Brussels Non-U.S.,,,Data,Belgium,TRUE
+Side,SF Bay Area,,,Real Estate,United States,FALSE
+Clever Real Estate,St. Louis,,,Real Estate,United States,FALSE
+Starry,Boston,,50%,Other,United States,FALSE
+Roofstock,SF Bay Area,,20%,Real Estate,United States,FALSE
+Arrival,London Non-U.S.,,,Transportat,,FALSE
+Sales Boomerang,Baltimore,20,,Sales,,FALSE
+Loom,SF Bay Area,23,11%,Product,United States,FALSE
+Zeus Living,SF Bay Area,64,46%,Real Estate,United States,FALSE
+Hotmart,Belo Horizonte Non-U.S.,227,12%,Marketing,Brazil,FALSE
+Khoros,Austin,120,10%,Sales,,FALSE
+F5,Seattle,100,1%,Security,United States,TRUE
+Synapsica,New Delhi Non-U.S.,30,30%,Healthcare,India,FALSE
+Elinvar,Berlin Non-U.S.,43,33%,Finance,Germany,FALSE
+Volta,SF Bay Area,,54%,Transportat,,FALSE
+Antidote Health,Tel Aviv Non-U.S.,23,38%,Healthcare,Israel,FALSE
+OrCam,Jerusalem Non-U.S.,62,16%,Healthcare,Israel,FALSE
+Unico,Sao Paulo Non-U.S.,50,4%,Other,Brazil,FALSE
+McMakler,Berlin Non-U.S.,100,,Real Estate,Germany,FALSE
+Snyk,Boston,198,14%,Security,United States,TRUE
+Cerebral,SF Bay Area,400,20%,Healthcare,United States,FALSE
+Philips,Amsterdam Non-U.S.,4000,5%,Healthcare,Netherlands,FALSE
+Convoy,Seattle,,,Logistics,United States,FALSE
+Callisto Media,SF Bay Area,,35%,Media,United States,FALSE
+Vee,Tel Aviv Non-U.S.,17,50%,HR,Israel,FALSE
+Embroker,SF Bay Area,30,12%,Finance,United States,FALSE
+Fundbox,SF Bay Area,150,42%,Finance,United States,FALSE
+MindBody,San Luis Obispo,400,15%,Fitness,United States,FALSE
+Seagate,SF Bay Area,3000,8%,Hardware,United States,FALSE
+Zillow,Seattle,300,5%,Real Estate,United States,FALSE
+Argo AI,Pittsburgh,173,,Transportat,,TRUE
+GoFundMe,SF Bay Area,94,12%,Finance,United States,FALSE
+Carbon,SF Bay Area,,,Hardware,United States,FALSE
+Cybereason,Boston,200,17%,Security,United States,TRUE
+Spreetail,Austin,,,Retail,United States,TRUE
+GoNuts,Mumbai Non-U.S.,,100%,Media,India,FALSE
+Lattice,SF Bay Area,13,,HR,United States,FALSE
+Recharge,Los Angeles,84,17%,Finance,United States,FALSE
+RenoRun,Montreal Non-U.S.,210,43%,Construction,Canada,FALSE
+Amazon,Seattle,150,,Retail,United States,TRUE
+Advata,Seattle,32,21%,Healthcare,United States,FALSE
+Springlane,Düsseldorf Non-U.S.,,35%,Food,Germany,FALSE
+Fifth Season,Pittsburgh,100,100%,Food,United States,FALSE
+Doubtnut,Gurugram Non-U.S.,,30%,Education,India,FALSE
+Dukaan,Bengaluru Non-U.S.,23,,Retail,India,FALSE
+Equitybee,SF Bay Area,25,20%,Finance,United States,FALSE
+EquityZen,New York City,30,27%,Finance,United States,FALSE
+Notarize,Boston,60,,Legal,United States,FALSE
+Kry,Stockholm Non-U.S.,300,10%,Healthcare,Sweden,FALSE
+Pipedrive,Tallinn Non-U.S.,143,15%,Sales,,FALSE
+Ribbon,New York City,170,85%,Real Estate,United States,FALSE
+Sema4,Stamford,500,,Healthcare,United States,FALSE
+Illumina,San Diego,500,5%,Healthcare,United States,FALSE
+iFit,Logan,300,20%,Fitness,,FALSE
+Science 37,Los Angeles,90,,Healthcare,United States,FALSE
+Intercom,SF Bay Area,124,13%,Support,United States,FALSE
+Cardlytics,Atlanta,51,,Marketing,United States,FALSE
+Tricida,SF Bay Area,,57%,Healthcare,United States,FALSE
+Shopee,Jakarta Non-U.S.,,,Food,Indonesia,FALSE
+Pear Therapeutics,Boston,59,22%,Healthcare,United States,FALSE
+Nestcoin,Lagos Non-U.S.,30,,Crypto,Nigeria,TRUE
+Cloudinary,SF Bay Area,40,8%,Media,United States,FALSE
+Gokada,Lagos Non-U.S.,20,,Transportat,,FALSE
+UiPath,New York City,241,6%,Data,United States,TRUE
+Asana,SF Bay Area,180,9%,Other,United States,FALSE
+OwnBackup,New York City,170,17%,Security,United States,TRUE
+Deliveroo Australia,Melbourne Victoria,120,100%,Food,Australia,FALSE
+Productboard,SF Bay Area,100,20%,Product,United States,FALSE
+Properly,Toronto Non-U.S.,71,,Real Estate,Canada,FALSE
+Protocol,SF Bay Area,60,100%,Media,United States,FALSE
+The Zebra,Austin,50,,Finance,United States,FALSE
+Viber,Luxembourg Non-U.S.,45,8%,Consumer,Luxembourg,FALSE
+Jimdo,Hamburg Non-U.S.,50,16%,Other,Germany,FALSE
+Apollo Insurance,Vancouver Non-U.S.,,25%,Finance,Canada,FALSE
+Nirvana Money,Miami,,100%,Finance,United States,FALSE
+Oatly,Malmö Non-U.S.,,,Food,Sweden,FALSE
+OfferUp,Seattle,,19%,Retail,United States,FALSE
+Outside,Boulder,,12%,Media,United States,FALSE
+Rubicon Technologies,Lexington,,11%,Other,United States,FALSE
+Tencent,Shenzen Non-U.S.,,,Consumer,China,FALSE
+Typeform,Barcelona Non-U.S.,,,Marketing,Spain,FALSE
+Whispir,Melbourne Non-U.S.,,30%,Other,Australia,FALSE
+CaptivateIQ,SF Bay Area,31,10%,Sales,United States,FALSE
+Salsify,Boston,90,11%,Retail,United States,FALSE
+Cisco,SF Bay Area,4100,5%,Infrastructu,,FALSE
+Twiga,Nairobi Non-U.S.,211,21%,Food,Kenya,FALSE
+Wayflyer,Dublin Non-U.S.,200,40%,Marketing,Ireland,FALSE
+Similarweb,New York City,120,10%,Other,United States,FALSE
+Lokalise,Dover,76,23%,Other,United States,FALSE
+Amazon,Seattle,10000,3%,Retail,United States,TRUE
+Pear Therapeutics,Boston,59,22%,Healthcare,United States,FALSE
+D2L,Waterloo Non-U.S.,,5%,Education,Canada,FALSE
+Dance,Berlin Non-U.S.,,16%,Transportat,,FALSE
+Homeward,Austin,,25%,Real Estate,United States,FALSE
+Hopin,London Non-U.S.,,17%,Other,United Kingdo??False,FALSE
+Infogrid,London Non-U.S.,,,Other,United Kingdo??False,FALSE
+Kite,SF Bay Area,,100%,Product,United States,FALSE
+Yotpo,New York City,70,9%,Marketing,United States,FALSE
+Roku,SF Bay Area,200,7%,Media,United States,FALSE
+Orchard,New York City,180,,Real Estate,United States,FALSE
+Homepoint,Phoenix,113,,Real Estate,United States,FALSE
+Juni,Gothenburg Non-U.S.,72,33%,Finance,Sweden,FALSE
+Chili Piper,New York City,58,,Sales,United States,FALSE
+Koho,Toronto Non-U.S.,15,4%,Finance,Canada,FALSE
+TealBook,Toronto Non-U.S.,34,19%,Other,Canada,FALSE
+&Open,Dublin Non-U.S.,9,9%,Marketing,Ireland,FALSE
+Kandji,San Diego,,17%,Other,United States,FALSE
+Morning Brew,New York City,,14%,Media,United States,FALSE
+Symend,Calgary Non-U.S.,,13%,Other,Canada,FALSE
+Capitolis,New York City,37,25%,Finance,United States,FALSE
+Synthego,SF Bay Area,105,20%,Healthcare,United States,FALSE
+Carvana,Phoenix,1500,8%,Transportat,,FALSE
+Nuro,SF Bay Area,300,20%,Transportat,,FALSE
+Splyt,London Non-U.S.,57,,Transportat,,FALSE
+Ruangguru,Jakarta Non-U.S.,,,Education,Indonesia,FALSE
+Kavak,Sao Paulo Non-U.S.,,,Transportat,,FALSE
+Metaplex,Chicago,,,Crypto,United States,TRUE
+StoryBlocks,Washington D.C.,,25%,Media,United States,FALSE
+Unchained Capital,Austin,,15%,Crypto,United States,TRUE
+Capitolis,New York City,,25%,Finance,United States,FALSE
+Zomato,Gurugram Non-U.S.,100,4%,Food,India,FALSE
+GloriFi,Dallas,,100%,Finance,United States,FALSE
+Devo,Boston,,15%,Security,United States,TRUE
+Kitopi,Dubai Non-U.S.,93,10%,Food,UAE,FALSE
+Jumia,Lagos Non-U.S.,900,20%,Retail,Nigeria,FALSE
+Western Digital,SF Bay Area,251,,Hardware,United States,FALSE
+SIRCLO,Jakarta Non-U.S.,160,8%,Retail,Indonesia,FALSE
+Movidesk,Blumenau Non-U.S.,118,,Support,Brazil,FALSE
+Reynen Court,Amsterdam Non-U.S.,,,Legal,Netherlands,FALSE
+Flash Coffee,Singapore Non-U.S.,,,Food,Singapore,FALSE
+Natera,SF Bay Area,,,Healthcare,United States,FALSE
+Rapyd,Tel Aviv Non-U.S.,,,Finance,Israel,FALSE
+Trax,Singapore Non-U.S.,80,8%,Retail,Singapore,FALSE
+GoodGood,Toronto Non-U.S.,,100%,Retail,Canada,FALSE
+Assure,Salt Lake City,,100%,Finance,United States,FALSE
+SWVL,Cairo Non-U.S.,,50%,Transportat,,FALSE
+Muni Tienda,Bogota Non-U.S.,,100%,Other,Colombia,FALSE
+Menulog,Sydney Non-U.S.,,,Food,Australia,FALSE
+Quidax,Lagos Non-U.S.,20,20%,Crypto,Nigeria,TRUE
+Lemon,Buenos Aires Non-U.S.,100,38%,Crypto,Argentina,TRUE
+Utopia Music,Zug Non-U.S.,,,Media,Switzerland,FALSE
+Vendease,Lagos Non-U.S.,27,9%,Food,Nigeria,FALSE
+Carwow,London Non-U.S.,70,20%,Transportat,,FALSE
+VerSe Innovation,Bengaluru Non-U.S.,150,5%,Media,India,FALSE
+Zilch,London Non-U.S.,,,Finance,United Kingdo??False,FALSE
+Change Invest,Amsterdam Non-U.S.,,24%,Finance,Netherlands,FALSE
+Infarm,Berlin Non-U.S.,500,50%,Other,Germany,FALSE
+Hirect,Bengaluru Non-U.S.,200,40%,Recruiting,India,FALSE
+ApplyBoard,Waterloo Non-U.S.,90,6%,Education,Canada,FALSE
+Ajaib,Jakarta Non-U.S.,67,8%,Finance,Indonesia,TRUE
+Candy Digital,New York City,33,33%,Crypto,United States,TRUE
+Wildlife Studios,Sao Paulo Non-U.S.,300,20%,Consumer,Brazil,FALSE
+BlockFi,New York City,,100%,Crypto,United States,TRUE
+FutureLearn,London Non-U.S.,,,Education,United Kingdo??False,FALSE
+Inspectify,Seattle,,,Real Estate,United States,FALSE
+Ledn,Toronto Non-U.S.,,,Crypto,Canada,TRUE
+Spora Health,SF Bay Area,,100%,Healthcare,United States,FALSE
+NCX,SF Bay Area,,40%,Energy,United States,FALSE
+ResearchGate,Berlin Non-U.S.,25,10%,Other,Germany,FALSE
+Bitso,Mexico City Non-U.S.,100,,Crypto,Mexico,TRUE
+Lyst,London Non-U.S.,50,25%,Retail,United Kingdo??False,FALSE
+CoinJar,Melbourne Non-U.S.,10,20%,Crypto,Australia,TRUE
+Codexis,SF Bay Area,,18%,Healthcare,United States,FALSE
+Bitfront,SF Bay Area,,100%,Crypto,United States,TRUE
+Lazerpay,Lagos Non-U.S.,,,Crypto,Nigeria,TRUE
+MessageBird,Amsterdam Non-U.S.,,31%,Other,Netherlands,FALSE
+Plerk,Guadalajara Non-U.S.,,40%,Finance,Mexico,FALSE
+Proton.ai,Boston,,,Sales,United States,TRUE
+Firework,SF Bay Area,,10%,Retail,United States,FALSE
+DoorDash,SF Bay Area,1250,6%,Food,United States,FALSE
+Kraken,SF Bay Area,1100,30%,Crypto,United States,TRUE
+Happy Money,Los Angeles,158,34%,Finance,United States,FALSE
+Ula,Jakarta Non-U.S.,134,23%,Retail,Indonesia,FALSE
+Wonder,New York City,130,7%,Food,United States,FALSE
+StudySmarter,Berlin Non-U.S.,70,,Education,Germany,FALSE
+Grin,Sacramento,60,13%,Marketing,United States,FALSE
+Ualá,Buenos Aires Non-U.S.,53,3%,Finance,Argentina,FALSE
+Thread,London Non-U.S.,30,50%,Retail,United Kingdo??False,FALSE
+Etermax,Buenos Aires Non-U.S.,40,,Other,Argentina,FALSE
+Teachmint,Bengaluru Non-U.S.,45,5%,Education,India,FALSE
+Venafi,Salt Lake City,,,Security,United States,TRUE
+Sana,Seattle,,15%,Healthcare,United States,FALSE
+Nexar,New York City,25,,Transportat,,FALSE
+Motional,Boston,,,Transportat,,FALSE
+Elastic,SF Bay Area,,13%,Data,United States,TRUE
+Pinterest,SF Bay Area,,,Consumer,United States,FALSE
+TaxBit,Salt Lake City,,,Crypto,United States,TRUE
+Viant,Los Angeles,46,13%,Marketing,United States,FALSE
+Komodo Health,SF Bay Area,78,9%,Healthcare,United States,FALSE
+Edgio,Phoenix,95,10%,Infrastructu,,FALSE
+Thumbtack,SF Bay Area,160,14%,Consumer,United States,FALSE
+JD.ID,Jakarta Non-U.S.,200,30%,Retail,Indonesia,FALSE
+Quanergy Systems,SF Bay Area,72,,Transportat,,FALSE
+GoStudent,Vienna Non-U.S.,100,,Education,Austria,FALSE
+ChowNow,Los Angeles,40,10%,Food,United States,FALSE
+Landing,Birmingham,,,Real Estate,United States,FALSE
+Headspace,Los Angeles,50,4%,Healthcare,United States,FALSE
+Workmotion,Berlin Non-U.S.,60,20%,HR,Germany,FALSE
+Apollo,SF Bay Area,,15%,Product,United States,FALSE
+LeafLink,New York City,80,31%,Other,United States,FALSE
+Freshworks,SF Bay Area,90,2%,Support,United States,FALSE
+BigCommerce,Austin,180,13%,Retail,United States,FALSE
+Tomorrow,Hamburg Non-U.S.,30,25%,Finance,Germany,FALSE
+Revelate,Montreal Non-U.S.,24,30%,Data,Canada,TRUE
+E Inc.,Toronto Non-U.S.,,,Transportat,,FALSE
+Autograph,Los Angeles,,,Crypto,United States,TRUE
+Reach,Calgary Non-U.S.,,12%,Retail,Canada,FALSE
+Improbable,London Non-U.S.,,10%,Other,United Kingdo??False,FALSE
+Modern Treasury,SF Bay Area,,18%,Finance,United States,FALSE
+SonderMind,Denver,,15%,Healthcare,United States,FALSE
+FreshBooks,Toronto Non-U.S.,,,Finance,Canada,FALSE
+Homebot,Denver,18,13%,Real Estate,United States,FALSE
+Xiaomi,Beijing Non-U.S.,,,Consumer,China,FALSE
+YourGrocer,Melbourne Non-U.S.,,100%,Food,Australia,FALSE
+Health IQ,SF Bay Area,,,Healthcare,United States,FALSE
+Zhihu,Beijing Non-U.S.,,10%,Consumer,China,FALSE
+StreetBees,London Non-U.S.,,,Data,United Kingdo??True,TRUE
+Briza,Toronto Non-U.S.,26,40%,Finance,Canada,FALSE
+Chope,Singapore Non-U.S.,65,24%,Food,Singapore,FALSE
+Lendis,Berlin Non-U.S.,,50%,Other,Germany,FALSE
+TuSimple,San Diego,350,25%,Transportat,,FALSE
+Qualcomm,San Diego,153,,Hardware,United States,FALSE
+Zoopla,London Non-U.S.,50,,Real Estate,United Kingdo??False,FALSE
+Back Market,Paris Non-U.S.,93,13%,Retail,France,FALSE
+Willow,Sydney Non-U.S.,99,22%,Real Estate,Australia,FALSE
+Element,London Non-U.S.,,15%,Other,United Kingdo??False,FALSE
+PayU,Amsterdam Non-U.S.,150,6%,Finance,Netherlands,FALSE
+Octopus Network,Beau Vallon Non-U.S.,,40%,Crypto,Seychelles,TRUE
+Bilibili,Shanghai Non-U.S.,,30%,Media,China,FALSE
+Ezoic,San Diego,35,,Infrastructu,,FALSE
+Gousto,London Non-U.S.,,14%,Food,United Kingdo??False,FALSE
+Mara,Nairobi Non-U.S.,,,Crypto,Kenya,TRUE
+Ola,Bengaluru Non-U.S.,200,,Transportat,,FALSE
+Jellyfish,Boston,,9%,Product,United States,FALSE
+GoCanvas,Washington D.C.,,,Other,United States,FALSE
+CoSchedule,Bismarck,,,Marketing,United States,FALSE
+Carvana,Phoenix,,,Transportat,,FALSE
+Arch Oncology,Brisbane,,100%,Healthcare,United States,FALSE
+Vial,SF Bay Area,40,,Healthcare,United States,FALSE
+Bonterra,Austin,140,10%,Other,United States,FALSE
+Black Shark,Shenzen Non-U.S.,900,,Hardware,China,FALSE
+DeHaat,Patna Non-U.S.,,5%,Food,India,FALSE
+BharatAgri,Mumbai Non-U.S.,40,43%,Food,India,FALSE
+Snappy,New York City,100,30%,Marketing,United States,FALSE
+Captain Fresh,Bengaluru Non-U.S.,120,,Food,India,TRUE
+ShareChat,Bengaluru Non-U.S.,500,20%,Consumer,India,FALSE
+PagBank,Sao Paulo Non-U.S.,500,7%,Finance,Brazil,FALSE
+Gramophone,Indore Non-U.S.,75,,Food,India,FALSE
+Dunzo,Bengaluru Non-U.S.,,3%,Food,India,FALSE
+Ignition,Sydney Non-U.S.,,10%,Finance,Australia,FALSE
+Rebel Foods,Mumbai Non-U.S.,,2%,Food,India,FALSE
+ClearCo,Toronto Non-U.S.,50,30%,Finance,Canada,FALSE
+Exotel,Bengaluru Non-U.S.,142,15%,Support,India,FALSE
+Lightspeed Commerce,Montreal Non-U.S.,300,10%,Retail,Canada,FALSE
+Unity,SF Bay Area,284,3%,Other,United States,FALSE
+Britishvolt,London Non-U.S.,206,100%,Transportat,,FALSE
+Clutch,Toronto Non-U.S.,150,,Transportat,,FALSE
+Unico,Sao Paulo Non-U.S.,110,10%,Other,Brazil,FALSE
+Tul,Bogota Non-U.S.,100,,Construction,Colombia,FALSE
+Luxury Presence,Los Angeles,44,,Real Estate,United States,FALSE
+American Robotics,Boston,50,65%,Other,United States,FALSE
+Avaya,Durham,,,Other,United States,FALSE
+Fishbrain,Stockholm Non-U.S.,,,Consumer,Sweden,TRUE
+GoMechanic,Gurugram Non-U.S.,,70%,Transportat,,FALSE
+LiveVox,SF Bay Area,,16%,Support,United States,FALSE
+Oracle,SF Bay Area,,,Other,United States,FALSE
+Rappi,Buenos Aires Non-U.S.,,,Food,Argentina,FALSE
+RateGenius,Austin,,,Finance,United States,FALSE
+XP,Sao Paulo Non-U.S.,,,Finance,Brazil,FALSE
+RingCentral,SF Bay Area,30,,Other,United States,FALSE
+Inspirato,Denver,109,12%,Travel,United States,FALSE
+nCino,Wilmington,100,7%,Finance,United States,FALSE
+Jumpcloud,Boulder,100,12%,Security,United States,TRUE
+Benevity,Calgary Non-U.S.,137,14%,Other,Canada,FALSE
+Starry,Boston,100,24%,Other,United States,FALSE
+8x8,SF Bay Area,155,7%,Support,United States,FALSE
+Vroom,New York City,275,20%,Transportat,,FALSE
+Sophos,Oxford Non-U.S.,450,10%,Security,United Kingdo??True,FALSE
+Microsoft,Seattle,10000,5%,Other,United States,TRUE
+Pagaya,Tel Aviv Non-U.S.,140,20%,Finance,Israel,FALSE
+Hootsuite,Vancouver Non-U.S.,70,7%,Marketing,Canada,FALSE
+Teladoc Health,New York City,300,6%,Healthcare,United States,FALSE
+Addepar,SF Bay Area,20,3%,Finance,United States,FALSE
+Clue,Berlin Non-U.S.,31,31%,Healthcare,Germany,FALSE
+Redbubble,Melbourne Non-U.S.,,14%,Retail,Australia,FALSE
+Lucid Diagnostics,New York City,,20%,Healthcare,United States,FALSE
+Cypress.io,Atlanta,,,Product,United States,FALSE
+Coda,SF Bay Area,,,Other,United States,FALSE
+Mavenir,Dallas,,,Infrastructu,,FALSE
+Betterfly,Santiago Non-U.S.,,30%,Healthcare,Chile,FALSE
+Bally's Interactive,Providence,,15%,Consumer,United States,FALSE
+Aiven,Helsinki Non-U.S.,,20%,Infrastructu,,TRUE
+80 Acres Farms,Cincinnati,,10%,Food,United States,FALSE
+Cazoo,London Non-U.S.,,,Transportat,,FALSE
+Riot Games,Los Angeles,46,,Consumer,United States,FALSE
+Capital One,Washington D.C.,1100,,Finance,United States,FALSE
+Proterra,SF Bay Area,300,,Transportat,,FALSE
+WeWork,New York City,300,,Real Estate,United States,FALSE
+Hubilo,SF Bay Area,115,35%,Other,United States,FALSE
+Saks.com,New York City,100,5%,Retail,United States,FALSE
+CS Disco,Austin,62,9%,Legal,United States,FALSE
+Hydrow,Boston,30,,Fitness,United States,FALSE
+Icertis,Seattle,,,Legal,United States,FALSE
+Fandom,SF Bay Area,,,Media,United States,FALSE
+IAM Robotics,Pittsburgh,,,Hardware,United States,FALSE
+Magnite,Los Angeles,,6%,Marketing,United States,FALSE
+Mudafy,Mexico City Non-U.S.,,70%,Real Estate,Mexico,FALSE
+Personalis,SF Bay Area,,30%,Healthcare,United States,FALSE
+Prisma,SF Bay Area,,28%,Data,United States,TRUE
+Spaceship,Sydney Non-U.S.,,,Finance,Australia,FALSE
+Wallbox,Barcelona Non-U.S.,,15%,Energy,Spain,FALSE
+Earth Rides,Nashville,,100%,Transportat,,FALSE
+BitTorrent,SF Bay Area,92,,Infrastructu,,FALSE
+Google,SF Bay Area,12000,6%,Consumer,United States,TRUE
+Swiggy,Bengaluru Non-U.S.,380,6%,Food,India,FALSE
+MediBuddy,Bengaluru Non-U.S.,200,8%,Healthcare,India,FALSE
+Vox Media,Washington D.C.,130,7%,Media,United States,FALSE
+Karat,Seattle,47,,HR,United States,FALSE
+Wayfair,Boston,1750,10%,Retail,United States,TRUE
+Edifecs,Seattle,30,,Healthcare,United States,FALSE
+Zappos,Las Vegas,,,Retail,United States,FALSE
+TikTok,Los Angeles,,,Consumer,United States,FALSE
+Morning Consult,Washington D.C.,,,Data,United States,TRUE
+Enjoei,Sao Paulo Non-U.S.,31,10%,Retail,Brazil,FALSE
+Avalara,Seattle,,,Finance,United States,FALSE
+Citrine Informatics,SF Bay Area,22,27%,Data,United States,TRUE
+Cyteir Therapeutics,Boston,,70%,Healthcare,United States,FALSE
+BUX,Amsterdam Non-U.S.,,,Finance,Netherlands,FALSE
+Spotify,Stockholm Non-U.S.,600,6%,Media,Sweden,FALSE
+Uber Freight,SF Bay Area,150,3%,Logistics,United States,FALSE
+Inmobi,Bengaluru Non-U.S.,50,,Marketing,India,FALSE
+Booktopia,Sydney Non-U.S.,30,,Retail,Australia,FALSE
+Innovid,New York City,40,10%,Marketing,United States,FALSE
+Camp K12,Gurugram Non-U.S.,,70%,Education,India,FALSE
+Gemini,New York City,,10%,Crypto,United States,TRUE
+Yext,New York City,,8%,Marketing,United States,FALSE
+Ermetic,SF Bay Area,30,17%,Security,United States,TRUE
+Namogoo,Tel Aviv Non-U.S.,20,15%,Marketing,Israel,FALSE
+Gitpod,Kiel Non-U.S.,21,28%,Product,Germany,FALSE
+Vacasa,Portland,1300,17%,Travel,United States,FALSE
+Innovaccer,SF Bay Area,245,15%,Healthcare,United States,FALSE
+Bolt,SF Bay Area,50,10%,Finance,United States,FALSE
+PartnerStack,Toronto Non-U.S.,40,20%,Sales,Canada,FALSE
+OFFOR Health,Columbus,16,,Healthcare,United States,FALSE
+CoachHub,Berlin Non-U.S.,,10%,HR,Germany,FALSE
+Corvus Insurance,Boston,,14%,Finance,United States,FALSE
+Icon,Austin,,,Construction,United States,FALSE
+PagerDuty,SF Bay Area,,7%,Product,United States,FALSE
+Scoro,London Non-U.S.,,9%,HR,United Kingdo??False,FALSE
+Venngage,Toronto Non-U.S.,11,20%,Marketing,Canada,FALSE
+IBM,New York City,3900,2%,Hardware,United States,TRUE
+Lam Research,SF Bay Area,1300,7%,Hardware,United States,FALSE
+Shutterfly,SF Bay Area,360,,Retail,United States,FALSE
+Luno,London Non-U.S.,330,35%,Crypto,United Kingdo??True,TRUE
+Clear Capital,Reno,250,25%,Real Estate,United States,FALSE
+Guardant Health,SF Bay Area,130,7%,Healthcare,United States,FALSE
+SirionLabs,Seattle,130,15%,Legal,United States,FALSE
+CareRev,Los Angeles,,,Healthcare,United States,FALSE
+Finastra,Tel Aviv Non-U.S.,,,Finance,Israel,FALSE
+Noom,New York City,,,Fitness,United States,FALSE
+PagSeguro,Sao Paulo Non-U.S.,,7%,Finance,Brazil,FALSE
+Prosus,Amsterdam Non-U.S.,,30%,Other,Netherlands,FALSE
+Tier Mobility,Berlin Non-U.S.,80,7%,Transportat,,FALSE
+Quora,SF Bay Area,,,Consumer,United States,FALSE
+Plus One Robotics,San Antonio,,10%,Other,United States,FALSE
+Mode Global,London Non-U.S.,,100%,Finance,United Kingdo??False,FALSE
+DriveWealth,Jersey City,,20%,Finance,United States,FALSE
+Glisser,London Non-U.S.,25,100%,Travel,United Kingdo??False,FALSE
+Confluent,SF Bay Area,221,8%,Data,United States,TRUE
+SAP,Walldorf Non-U.S.,3000,3%,Other,Germany,FALSE
+SSense,Montreal Non-U.S.,138,7%,Retail,Canada,FALSE
+DealShare,Bengaluru Non-U.S.,100,6%,Retail,India,FALSE
+Ruggable,Los Angeles,100,,Retail,United States,FALSE
+Synopsys,SF Bay Area,100,,Other,United States,FALSE
+Heycar,Berlin Non-U.S.,73,,Transportat,,FALSE
+Soundwide,Berlin Non-U.S.,,8%,Other,Germany,FALSE
+Shakepay,Montreal Non-U.S.,21,25%,Crypto,Canada,TRUE
+Nate,New York City,,,Retail,United States,FALSE
+Feedzai,Coimbra Non-U.S.,,,Finance,Portugal,TRUE
+Matrixport,Singapore Non-U.S.,29,10%,Crypto,Singapore,TRUE
+#Paid,Toronto Non-U.S.,19,17%,Marketing,Canada,TRUE
+Decent,SF Bay Area,,,Healthcare,United States,FALSE
+CoinTracker,SF Bay Area,19,,Crypto,United States,TRUE
+Me Poupe,Sao Paulo Non-U.S.,60,50%,Finance,Brazil,FALSE
+Hoxhunt,Helsinki Non-U.S.,,,Security,Finland,TRUE
+Philips,Amsterdam Non-U.S.,6000,13%,Healthcare,Netherlands,FALSE
+OLX Group,Amsterdam Non-U.S.,1500,15%,Marketing,Netherlands,FALSE
+Arrival,London Non-U.S.,800,50%,Transportat,,FALSE
+Groupon,Chicago,500,,Retail,United States,FALSE
+Intel,SF Bay Area,343,,Hardware,United States,TRUE
+Glovo,Barcelona Non-U.S.,250,6%,Food,Spain,FALSE
+Delivery Hero,Berlin Non-U.S.,156,4%,Food,Germany,FALSE
+Chrono24,Karlsruhe Non-U.S.,65,13%,Retail,Germany,FALSE
+BM Technologies,Philadelphia,,25%,Finance,United States,FALSE
+Olist,Curitiba Non-U.S.,,,Retail,Brazil,FALSE
+Oyster,Charlotte,,,HR,United States,FALSE
+Prime Trust,Las Vegas,,33%,Crypto,United States,TRUE
+Quantum SI,New Haven,,12%,Healthcare,United States,FALSE
+SoFi,SF Bay Area,,,Finance,United States,FALSE
+Impossible Foods copy,SF Bay Area,140,20%,Food,United States,FALSE
+Upstart,SF Bay Area,365,20%,Finance,United States,FALSE
+PayPal,SF Bay Area,2000,7%,Finance,United States,FALSE
+NetApp,SF Bay Area,960,8%,Data,United States,TRUE
+Workday,SF Bay Area,525,3%,HR,United States,FALSE
+HubSpot,Boston,500,7%,Marketing,United States,FALSE
+Software AG,Frankfurt Non-U.S.,200,4%,Data,Germany,TRUE
+OpenText,Waterloo Non-U.S.,,8%,Data,Canada,TRUE
+Wefox,Berlin Non-U.S.,100,,Finance,Germany,FALSE
+Tilting Point,New York City,60,14%,Consumer,United States,FALSE
+Gokada,Lagos Non-U.S.,54,,Transportat,,FALSE
+Nubank,Sao Paulo Non-U.S.,40,,Finance,Brazil,FALSE
+AU10TIX,Tel Aviv Non-U.S.,19,9%,Security,Israel,TRUE
+National Instruments,Austin,,4%,Hardware,United States,FALSE
+Wish,SF Bay Area,150,17%,Retail,United States,FALSE
+Twilio,SF Bay Area,1500,17%,Other,United States,FALSE
+Electric,New York City,141,25%,Other,United States,FALSE
+PetLove,Sao Paulo Non-U.S.,94,,Retail,Brazil,FALSE
+EMX Digital,New York City,100,100%,Marketing,United States,FALSE
+iRobot,Boston,85,7%,Consumer,United States,FALSE
+Foodpanda,Singapore Non-U.S.,,,Food,Singapore,FALSE
+Magic Eden,SF Bay Area,22,,Crypto,United States,TRUE
+Casavo,Milan Non-U.S.,,30%,Real Estate,Italy,FALSE
+Getir,London Non-U.S.,,,Food,United Kingdo??False,FALSE
+LinkedIn,SF Bay Area,,,Recruiting,United States,FALSE
+Collective Health,SF Bay Area,54,,Healthcare,United States,FALSE
+Blackbaud,Charleston,500,14%,Other,United States,FALSE
+Dropp,Berlin Non-U.S.,60,100%,Retail,Germany,FALSE
+CommerceHub,Albany,371,31%,Retail,United States,FALSE
+PhableCare,Bengaluru Non-U.S.,,70%,Healthcare,India,FALSE
+Udemy,SF Bay Area,,10%,Education,United States,FALSE
+HackerEarth,SF Bay Area,,8%,HR,United States,FALSE
+Wix,Tel Aviv Non-U.S.,370,6%,Marketing,Israel,FALSE
+ServiceTitan,Los Angeles,221,8%,Sales,United States,FALSE
+Neon,Sao Paulo Non-U.S.,210,9%,Finance,Brazil,FALSE
+Jellysmack,Paris Non-U.S.,208,,Media,France,FALSE
+DigitalOcean,New York City,200,11%,Infrastructu,,FALSE
+Sprinklr,New York City,100,4%,Support,United States,FALSE
+Milkrun,Sydney Non-U.S.,,20%,Food,Australia,FALSE
+Divvy Homes,SF Bay Area,,,Real Estate,United States,FALSE
+Observe.AI,SF Bay Area,,,Support,United States,TRUE
+Religion of Sports,Los Angeles,,,Media,United States,FALSE
+SurveyMonkey,SF Bay Area,,14%,Marketing,United States,FALSE
+Tackle,Boise,,15%,Other,United States,FALSE
+Vicarious Surgical,Boston,,14%,Healthcare,United States,FALSE
+Betterment,New York City,28,,Finance,United States,FALSE
+Convoy,Atlanta,,,Logistics,United States,FALSE
+Smartsheet,Seattle,85,3%,Other,United States,FALSE
+The RealReal,SF Bay Area,230,7%,Retail,United States,FALSE
+Pico Interactive,SF Bay Area,400,20%,Other,United States,FALSE
+DocuSign,SF Bay Area,680,10%,Sales,United States,FALSE
+Micron,Boise,2400,5%,Hardware,United States,FALSE
+Evernote,SF Bay Area,129,,Consumer,United States,FALSE
+Tencent,Shenzen Non-U.S.,300,,Consumer,China,FALSE
+Digimarc,Portland,,,Other,United States,FALSE
+Chipper Cash,SF Bay Area,100,33%,Finance,United States,FALSE
+Reserve,SF Bay Area,,,Crypto,United States,TRUE
+HP,Tel Aviv Non-U.S.,100,,Hardware,Israel,FALSE
+Fipola,Chennai Non-U.S.,,100%,Food,India,FALSE
+Kinde,Sydney Non-U.S.,8,28%,Other,Australia,FALSE
+Fireblocks,New York City,30,5%,Crypto,United States,TRUE
+MyGate,Bengaluru Non-U.S.,200,30%,Other,India,FALSE
+Green Labs,Seoul Non-U.S.,350,70%,Food,South Korea,FALSE
+Polygon,Bengaluru Non-U.S.,100,20%,Crypto,India,TRUE
+Crunchyroll,Tokyo Non-U.S.,85,,Media,Japan,FALSE
+Ethos Life,SF Bay Area,50,,Finance,United States,FALSE
+Bolt,Lagos Non-U.S.,17,,Transportat,,FALSE
+Criteo,Paris Non-U.S.,,,Marketing,France,FALSE
+PeerStreet,Los Angeles,,,Real Estate,United States,FALSE
+Zalando,Berlin Non-U.S.,,,Retail,Germany,FALSE
+Basis Technologies,Chicago,40,4%,Marketing,United States,FALSE
+Synamedia,London Non-U.S.,200,12%,Media,United Kingdo??False,FALSE
+TaskUs,San Antonio,186,,Support,United States,FALSE
+Jounce Therapeutics,Boston,,57%,Healthcare,United States,FALSE
+Immutable,Sydney Non-U.S.,,11%,Crypto,Australia,TRUE
+Locomation,Pittsburgh,,100%,Transportat,,FALSE
+Arch Oncology,St. Louis,,,Healthcare,United States,FALSE
+Vibrent Health,Washington D.C.,,13%,Healthcare,United States,FALSE
+Messari,New York City,,15%,Crypto,United States,TRUE
+Dapper Labs,Vancouver Non-U.S.,,20%,Crypto,Canada,TRUE
+StrongDM,SF Bay Area,40,,Infrastructu,,FALSE
+EVgo,Los Angeles,40,,Transportat,,FALSE
+The Iconic,Sydney Non-U.S.,69,6%,Retail,Australia,FALSE
+OneFootball,Berlin Non-U.S.,150,32%,Marketing,Germany,FALSE
+Merative,Ann Arbor,200,10%,Healthcare,United States,FALSE
+Medallia,SF Bay Area,59,,Support,United States,FALSE
+Ericsson,Stockholm Non-U.S.,8500,8%,Other,Sweden,FALSE
+Eat Just,SF Bay Area,40,,Food,United States,FALSE
+SAP Labs,Bengaluru Non-U.S.,300,,Other,India,FALSE
+Stax,Orlando,24,,Finance,United States,FALSE
+Lucira Health,SF Bay Area,26,,Healthcare,United States,FALSE
+Poshmark,SF Bay Area,,2%,Retail,United States,FALSE
+Velodyne Lidar,SF Bay Area,220,,Transportat,,FALSE
+EQRx,Boston,,18%,Healthcare,United States,FALSE
+Twitter,SF Bay Area,200,10%,Consumer,United States,FALSE
+BitSight,Tel Aviv Non-U.S.,40,,Security,Israel,TRUE
+Stytch,SF Bay Area,19,25%,Security,United States,TRUE
+Outreach,Seattle,70,7%,Sales,United States,FALSE
+Palantir,Denver,75,2%,Data,United States,TRUE
+Amount,Chicago,130,25%,Finance,United States,FALSE
+Cerebral,SF Bay Area,285,15%,Healthcare,United States,FALSE
+Sono Motors,Munich Non-U.S.,300,,Transportat,,FALSE
+MeridianLink,Los Angeles,,9%,Finance,United States,FALSE
+DUX Education,Bengaluru Non-U.S.,,100%,Education,India,FALSE
+Ezoic,San Diego,10,,Infrastructu,,FALSE
+Eventbrite,SF Bay Area,80,8%,Consumer,United States,FALSE
+Electronic Arts,Baton Rouge,200,,Consumer,United States,FALSE
+Meta,SF Bay Area,10000,,Consumer,United States,TRUE
+Anchorage Digital,SF Bay Area,75,20%,Crypto,United States,TRUE
+Fetch,Madison,100,10%,Retail,United States,FALSE
+Samsung,SF Bay Area,30,,Hardware,United States,TRUE
+Avidbots,Kitchener Non-U.S.,50,14%,Hardware,Canada,FALSE
+Kaleidoscope,Minneapolis,15,30%,Finance,United States,FALSE
+Hometap,Boston,,,Real Estate,United States,TRUE
+TradeWindow,Auckland Non-U.S.,25,30%,Finance,New Zealand,FALSE
+Nubank,Sao Paulo Non-U.S.,30,,Finance,Brazil,FALSE
+Boxed,New York City,32,25%,Retail,United States,FALSE
+Dukaan,Bengaluru Non-U.S.,56,30%,Retail,India,FALSE
+Klaviyo,Boston,140,,Marketing,United States,FALSE
+Leafly,Seattle,40,21%,Retail,United States,FALSE
+Course Hero,SF Bay Area,42,15%,Education,United States,FALSE
+Runtastic,Linz Non-U.S.,70,28%,Fitness,Austria,FALSE
+Coherent,SF Bay Area,108,,Manufactur,,FALSE
+Freshworks,SF Bay Area,114,2%,Support,United States,FALSE
+Bonusly,Boulder,,,HR,United States,FALSE
+Livspace,Bengaluru Non-U.S.,100,2%,Retail,India,FALSE
+Candor Technology,Atlanta,,,Real Estate,United States,FALSE
+Symend,Calgary Non-U.S.,50,25%,Other,Canada,FALSE
+Amazon,Seattle,9000,,Retail,United States,TRUE
+Huuuge Games,Warsaw Non-U.S.,,10%,Consumer,Poland,FALSE
+Laybuy,Auckland Non-U.S.,,10%,Finance,New Zealand,FALSE
+Grin,Sacramento,,,Marketing,United States,FALSE
+GAMURS Group,Sydney Non-U.S.,,,Consumer,Australia,FALSE
+Expedia,Seattle,,,Travel,United States,FALSE
+Smallcase,Bengaluru Non-U.S.,15,4%,Finance,India,FALSE
+Mr Yum,Melbourne Non-U.S.,40,,Food,Australia,FALSE
+Xing,Hamburg Non-U.S.,68,,HR,Germany,FALSE
+FreshBooks,Toronto Non-U.S.,80,10%,Finance,Canada,FALSE
+Workhuman,Dublin Non-U.S.,130,10%,HR,Ireland,FALSE
+Marvell,SF Bay Area,320,4%,Hardware,United States,FALSE
+Just Eat,London Non-U.S.,1700,,Food,United Kingdo??False,FALSE
+Indeed,Austin,2200,15%,HR,United States,FALSE
+Glassdoor,SF Bay Area,140,15%,HR,United States,FALSE
+Logitech,Geneva Non-U.S.,300,,Hardware,Switzerland,FALSE
+Copper,London Non-U.S.,,15%,Crypto,United Kingdo??True,TRUE
+Roofstock,SF Bay Area,,27%,Real Estate,United States,FALSE
+Rewind,Ottawa Non-U.S.,,,Data,Canada,TRUE
+Wejo,Chester Non-U.S.,40,16%,Transportat,,FALSE
+Slite,Paris Non-U.S.,10,25%,Other,France,FALSE
+TakeOff,Kyiv Non-U.S.,50,,Retail,Ukraine,FALSE
+Glovo,Barcelona Non-U.S.,140,,Food,Spain,FALSE
+Veeam,Columbus,200,,Data,United States,TRUE
+Cimpress,Paris Non-U.S.,500,,Retail,France,FALSE
+Aspiration,Los Angeles,170,,Finance,United States,FALSE
+The Meet Group,New Hope,,,Consumer,United States,FALSE
+Better Therapeutics,SF Bay Area,,35%,Healthcare,United States,FALSE
+Rackspace,San Antonio,275,,Data,United States,TRUE
+AEye,SF Bay Area,46,33%,Transportat,,FALSE
+Blue Nile,Seattle,119,,Retail,United States,FALSE
+Lucid Motors,SF Bay Area,1300,18%,Transportat,,FALSE
+CoverMyMeds,Columbus,800,,Healthcare,United States,FALSE
+Seagate,SF Bay Area,480,,Hardware,United States,FALSE
+Drizly,Boston,100,,Retail,United States,FALSE
+Electronic Arts,SF Bay Area,780,6%,Consumer,United States,FALSE
+Anyline,Vienna Non-U.S.,,25%,Other,Austria,FALSE
+OnePipe,Lagos Non-U.S.,,,Finance,Nigeria,FALSE
+Shift,SF Bay Area,,30%,Transportat,,FALSE
+iCAD,Nashua,23,28%,Healthcare,United States,FALSE
+Hulu,Beijing Non-U.S.,200,,Media,China,FALSE
+Roku,SF Bay Area,200,6%,Media,United States,FALSE
+LendingTree,Charlotte,150,13%,Finance,United States,FALSE
+FanClash,Gurugram Non-U.S.,100,75%,Consumer,India,FALSE
+Loop,Austin,19,25%,Finance,United States,FALSE
+Crossbeam,Philadelphia,17,15%,Sales,United States,FALSE
+AnswerLab,SF Bay Area,,17%,Marketing,United States,FALSE
+Endowus,Singapore Non-U.S.,,,Finance,Singapore,FALSE
+GoodWorker,Singapore Non-U.S.,,90%,Recruiting,Singapore,FALSE
+Kyndryl,New York City,,,Infrastructu,,FALSE
+Nowports,Monterrey Non-U.S.,,15%,Logistics,Mexico,FALSE
+Unacademy,Bengaluru Non-U.S.,,12%,Education,India,FALSE
+Spotify,Stockholm Non-U.S.,15,,Media,Sweden,FALSE
+Airbyte,SF Bay Area,,,Data,United States,TRUE
+Domestika,Madrid Non-U.S.,89,45%,Education,Spain,FALSE
+Snyk,Boston,128,,Security,United States,TRUE
+Astronomer,Cincinnati,100,40%,Data,United States,TRUE
+Lazerpay,Lagos Non-U.S.,,100%,Crypto,Nigeria,TRUE
+Heygo,London Non-U.S.,,100%,Travel,United Kingdo??False,FALSE
+Mediafly,Chicago,,,Sales,,FALSE
+Bluepad,Bengaluru Non-U.S.,,100%,Media,India,FALSE
+Sayurbox,Jakarta Non-U.S.,,,Food,Indonesia,FALSE
+OpenClassrooms,Paris Non-U.S.,,25%,Education,France,FALSE
+Calibrate,New York City,,18%,Healthcare,United States,FALSE
+Community Gaming,New York City,17,17%,Crypto,United States,TRUE
+Drip Capital,SF Bay Area,75,20%,Finance,United States,FALSE
+Quadream,Tel Aviv Non-U.S.,,100%,Security,Israel,TRUE
+Ten Square Games,Wrocław Non-U.S.,120,25%,Consumer,Poland,FALSE
+Clearcover,Chicago,81,15%,Finance,United States,FALSE
+Paper,Montreal Non-U.S.,81,3%,Education,Canada,FALSE
+Utopia Music,Zug Non-U.S.,,15%,Other,Switzerland,FALSE
+FamPay,Bengaluru Non-U.S.,,,Finance,India,FALSE
+Kumu,Manila Non-U.S.,,,Media,Philippines,FALSE
+Ynsect,Paris Non-U.S.,17,25%,Food,France,FALSE
+Opendoor,SF Bay Area,560,22%,Real Estate,United States,FALSE
+Noon,Riyadh Non-U.S.,340,10%,Retail,Saudi Arabia,FALSE
+CoLab,Sydney Non-U.S.,,100%,Food,Australia,FALSE
+Culture Amp,Melbourne Non-U.S.,90,9%,HR,Australia,FALSE
+TRM Labs,SF Bay Area,16,9%,Crypto,United States,TRUE
+WalkMe,SF Bay Area,112,10%,Other,United States,FALSE
+F5,Seattle,623,9%,Security,United States,TRUE
+Lenovo,Raleigh,,,Hardware,United States,FALSE
+Iress,Melbourne Non-U.S.,,10%,Finance,Australia,FALSE
+Insider,New York City,,10%,Media,United States,FALSE
+Gloat,New York City,35,12%,HR,United States,FALSE
+Koo,Bengaluru Non-U.S.,78,30%,Consumer,India,FALSE
+BuzzFeed,New York City,180,15%,Media,United States,FALSE
+Open,Bengaluru Non-U.S.,47,,Finance,India,FALSE
+Pluralsight,Salt Lake City,,,Education,United States,FALSE
+Benchling,SF Bay Area,74,9%,Other,United States,FALSE
+Lyft,SF Bay Area,1072,26%,Transportat,,FALSE
+Flink,Berlin Non-U.S.,8000,40%,Food,Germany,FALSE
+BigPanda,SF Bay Area,40,13%,Infrastructu,,FALSE
+Red Hat,Raleigh,760,4%,Other,United States,FALSE
+Skill Lync,Chennai Non-U.S.,400,,Education,India,FALSE
+Rapid,SF Bay Area,115,50%,Finance,United States,FALSE
+RenoRun,Montreal Non-U.S.,,100%,Construction,Canada,FALSE
+Teampay,New York City,30,33%,Finance,United States,FALSE
+Extramarks,Noida Non-U.S.,300,,Education,India,FALSE
+Dropbox,SF Bay Area,500,16%,Other,United States,FALSE
+Alteryx,Los Angeles,320,11%,Data,United States,TRUE
+Vroom,New York City,120,11%,Transportat,,FALSE
+Greenhouse,New York City,100,12%,Recruiting,,FALSE
+Rebellion Defense,Washington D.C.,90,,Data,United States,TRUE
+Poppulo,Denver,85,,HR,United States,FALSE
+Airtasker,Sydney Non-U.S.,45,20%,Retail,Australia,TRUE
+Chief,New York City,43,14%,Other,United States,FALSE
+Tickertape,Bengaluru Non-U.S.,29,29%,Finance,India,FALSE
+Clubhouse,SF Bay Area,,50%,Consumer,United States,FALSE
+Oddle,Singapore Non-U.S.,,25%,Food,Singapore,FALSE
+Rad Power Bikes,Seattle,,,Transportat,,FALSE
+Megaport,Brisbane Non-U.S.,50,16%,Infrastructu,,FALSE
+Cue Health,San Diego,326,30%,Healthcare,United States,FALSE
+N26,Berlin Non-U.S.,71,4%,Finance,Germany,FALSE
+Poparazzi,Los Angeles,,100%,Consumer,United States,FALSE
+Providoor,Melbourne Non-U.S.,,100%,Food,Australia,FALSE
+Embark Vet,Boston,28,,Healthcare,United States,FALSE
+Cogito,New Delhi Non-U.S.,177,,Data,India,TRUE
+Vah Vah!,Bengaluru Non-U.S.,150,,Education,India,FALSE
+Cana,SF Bay Area,,100%,Food,United States,FALSE
+Quanto,Sao Paulo Non-U.S.,,85%,Finance,Brazil,FALSE
+DroneUp,Norfolk,,,Logistics,United States,FALSE
+Lemonade,New York City,45,3%,Finance,United States,FALSE
+Zepz,London Non-U.S.,420,26%,Finance,United Kingdo??False,FALSE
+Cerner,Kansas City,3000,11%,Healthcare,United States,FALSE
+Formstack,Indianapolis,,40%,Other,,FALSE
+Stash,New York City,40,10%,Finance,United States,FALSE
+Clearbit,SF Bay Area,,,Sales,United States,FALSE
+dbt Labs,Philadelphia,,15%,Data,United States,TRUE
+Pie Insurance,Washington D.C.,63,14%,Finance,United States,FALSE
+Nextbite,Denver,,,Food,United States,FALSE
+TuSimple,San Diego,,30%,Transportat,,FALSE
+L1ght,Tel Aviv Non-U.S.,,100%,Other,Israel,FALSE
+Moss,Berlin Non-U.S.,30,,Finance,Germany,FALSE
+Nuance Communications,Boston,,,Healthcare,United States,FALSE
+Paperless Parts,Boston,,,Manufactur,,FALSE
+FemTech Health,Houston,,100%,Healthcare,United States,FALSE
+Daylight,Los Angeles,,100%,Finance,United States,FALSE
+AppFolio,Santa Barbara,62,,Real Estate,United States,FALSE
+Reliance JioMart,Mumbai Non-U.S.,1000,,Food,,FALSE
+SoundCloud,Berlin Non-U.S.,,8%,Consumer,Germany,FALSE
+Tractable,London Non-U.S.,,,Finance,United Kingdo??False,FALSE
+Qualcomm,Haifa Non-U.S.,30,,Hardware,Israel,FALSE
+Brainly,Krakow Non-U.S.,,30%,Education,Poland,TRUE
+Alibaba Cloud,Hangzhou Non-U.S.,,7%,Data,,TRUE
+Western Digital,Kfar Saba Non-U.S.,60,7%,Hardware,Israel,FALSE
+Flink,Berlin Non-U.S.,100,16%,Food,Germany,FALSE
+WillowTree,Charlottesville,120,11%,Marketing,United States,FALSE
+Guild,Denver,172,12%,Education,United States,FALSE
+BenevolentAI,London Non-U.S.,180,,Healthcare,,FALSE
+Airmeet,Bengaluru Non-U.S.,75,30%,Marketing,India,TRUE
+Circus Kitchens,Hamburg Non-U.S.,35,,Food,Germany,FALSE
+Jellysmack,Paris Non-U.S.,13,,Media,France,FALSE
+Kabam,SF Bay Area,,12%,Consumer,United States,FALSE
+Project44,Chicago,130,10%,Logistics,United States,FALSE
+DHI Group,New York City,53,10%,Recruiting,United States,FALSE
+Evolve,Denver,164,14%,Travel,United States,FALSE
+Nansen,Singapore Non-U.S.,,,Crypto,Singapore,TRUE
+Coupa,SF Bay Area,,,Finance,United States,FALSE
+Mensa Brands,Bengaluru Non-U.S.,30,,Retail,India,FALSE
+Taxfix,Berlin Non-U.S.,120,20%,Finance,Germany,FALSE
+PacketFabric,Los Angeles,,,Infrastructu,,FALSE
+Away,New York City,22,8%,Retail,United States,FALSE
+Mux,SF Bay Area,40,30%,Infrastructu,,FALSE
+Vendr,Boston,100,25%,Other,United States,FALSE
+ZipRecruiter,Los Angeles,270,20%,Recruiting,United States,FALSE
+Zendesk,SF Bay Area,320,8%,Support,United States,FALSE
+McMakler,Berlin Non-U.S.,60,,Real Estate,Germany,FALSE
+Zalando,Berlin Non-U.S.,,,Retail,Germany,FALSE
+JupiterOne,Raleigh,8,,Security,United States,TRUE
+Western Digital,SF Bay Area,211,,Hardware,United States,FALSE
+Sonos,New York City,130,7%,Consumer,United States,FALSE
+Bitwise,SF Bay Area,900,100%,Crypto,United States,TRUE
+TrueCar,Los Angeles,102,24%,Transportat,,FALSE
+Mamaearth,Gurugram Non-U.S.,80,,Retail,India,FALSE
+Synapse,SF Bay Area,,18%,Finance,United States,FALSE
+Olo,New York City,81,11%,Food,United States,FALSE
+FrontRow,Bengaluru Non-U.S.,,90%,Education,India,FALSE
+Cerner,Kansas City,,,Healthcare,United States,FALSE
+Binance.US,SF Bay Area,,,Crypto,,TRUE
+TADA,Seoul Non-U.S.,45,60%,Transportat,,FALSE
+CareRev,Los Angeles,100,33%,Healthcare,United States,FALSE
+Nikola,Phoenix,270,,Transportat,,FALSE
+Qualcomm,SF Bay Area,84,,Hardware,United States,FALSE
+Karshare,London Non-U.S.,,100%,Transportat,,FALSE
+Zulily,Seattle,,,Retail,United States,FALSE
+Pilot,SF Bay Area,45,13%,Finance,United States,FALSE
+Mojocare,Bengaluru Non-U.S.,170,80%,Healthcare,India,FALSE
+Fuzzy,SF Bay Area,,100%,Healthcare,United States,FALSE
+Panther,Tampa Bay,,100%,HR,United States,FALSE
+Chingari,Bengaluru Non-U.S.,48,20%,Media,India,FALSE
+Grab,Singapore Non-U.S.,1000,11%,Transportat,,FALSE
+Karakuki,London Non-U.S.,,100%,Food,United Kingdo??False,FALSE
+AvantStay,Los Angeles,37,,Travel,,FALSE
+OLX Group,Amsterdam Non-U.S.,800,,Marketing,Netherlands,FALSE
+Mutiny,SF Bay Area,,30%,Marketing,United States,FALSE
+Illumina,San Diego,,,Healthcare,United States,FALSE
+Friday Health Plans,Alamosa,,,Healthcare,,FALSE
+Ritual,Toronto Non-U.S.,38,40%,Food,Canada,FALSE
+Tackle.io,Boise,75,,Infrastructu,,FALSE
+Uber,SF Bay Area,200,,Transportat,,FALSE
+Anaplan,SF Bay Area,300,,Other,United States,FALSE
+Retool,SF Bay Area,,9%,Other,United States,FALSE
+IRL,SF Bay Area,,100%,Consumer,United States,FALSE
+Joonko,New York City,,100%,Recruiting,United States,FALSE
+Convoy,Seattle,30,5%,Logistics,United States,FALSE
+Robinhood,SF Bay Area,150,7%,Finance,United States,FALSE
+Payoneer,New York City,200,10%,Finance,United States,FALSE
+Selina,London Non-U.S.,350,,Travel,United Kingdo??False,FALSE
+New Relic,SF Bay Area,255,10%,Infrastructu,,FALSE
+Tibber,Førde Non-U.S.,50,,Energy,Norway,FALSE
+ClearPay,Manchester Non-U.S.,,,Finance,United Kingdo??False,FALSE
+Loopio,Toronto Non-U.S.,,9%,Sales,,FALSE
+Honor,SF Bay Area,,15%,Healthcare,United States,FALSE
+Lordstown Motors,Detroit,,100%,Transportat,,FALSE
+Waze,SF Bay Area,,,Transportat,,FALSE
+Eyowo,Lagos Non-U.S.,,100%,Finance,Nigeria,FALSE
+Zapier,SF Bay Area,,10%,Other,United States,FALSE
+Starburst,Boston,,15%,Data,United States,TRUE
+Plex,SF Bay Area,37,20%,Media,United States,FALSE
+Karat,Seattle,47,,HR,United States,FALSE
+Ludia,Montreal Non-U.S.,55,,Consumer,,FALSE
+ClickUp,San Diego,90,10%,Other,United States,FALSE
+Niantic,SF Bay Area,230,,Other,United States,FALSE
+Candy Digital,New York City,30,,Crypto,United States,TRUE
+Artsy,New York City,35,15%,Retail,United States,FALSE
+Xiaomi India,Bengaluru Non-U.S.,30,,Other,,FALSE
+Headspace,Los Angeles,181,15%,Healthcare,United States,FALSE
+Insider Intelligence,New York City,20,,Media,,TRUE
+Vowel,New York City,,100%,Other,United States,FALSE
+Stripe,SF Bay Area,,,Finance,United States,FALSE
+Torii,Ra'anana Non-U.S.,28,30%,Other,Israel,FALSE
+Merama,Mexico City Non-U.S.,,10%,Retail,Mexico,FALSE
+Qyuki,Bengaluru Non-U.S.,,30%,Other,India,FALSE
+Petal,New York City,,20%,Finance,United States,FALSE
+MediaMath,New York City,,100%,Marketing,,FALSE
+Lunya,Los Angeles,,100%,Retail,United States,FALSE
+Buzzer,New York City,,100%,Consumer,United States,FALSE
+Navi Technologies,Bengaluru Non-U.S.,200,,Finance,India,FALSE
+Amazon,Seattle,80,,Retail,United States,TRUE
+Tempo Automation,SF Bay Area,62,,Other,United States,FALSE
+Uber Freight,SF Bay Area,40,,Logistics,United States,FALSE
+Deepwatch,Tampa Bay,30,7%,Security,United States,TRUE
+Skill Lync,Chennai Non-U.S.,200,,Education,India,FALSE
+Factorial,Barcelona Non-U.S.,20,,HR,Spain,FALSE
+Centr,Sydney Non-U.S.,22,,Fitness,Australia,FALSE
+SAS,Raleigh,,,Data,United States,TRUE
+Netlify,SF Bay Area,,,Other,United States,FALSE
+AudioCodes,Tel Aviv Non-U.S.,80,6%,Other,Israel,FALSE
+Bark,New York City,,8%,Retail,United States,FALSE
+Peloton,New York City,11,,Fitness,United States,FALSE
+Khoros,Austin,,5%,Sales,,FALSE
+PayScale,Seattle,14,2%,HR,United States,FALSE
+Binance,Cayman Islands,1000,,Crypto,Cayman Islands,TRUE
+Ezoic,San Diego,,28%,Infrastructu,,FALSE
+Lamudi Indonesia,Jakarta Non-U.S.,,,Real Estate,Indonesia,FALSE
+IBM,Tel Aviv Non-U.S.,,,Hardware,Israel,TRUE
+Code42,Minneapolis,,,Security,United States,TRUE
+Sarcos,Salt Lake City,75,25%,Aerospace,United States,FALSE
+Microsoft,Seattle,1000,,Other,United States,TRUE
+Square Roots,New York City,,,Food,United States,FALSE
+Cameo,Chicago,80,,Consumer,United States,FALSE
+Blue Apron,New York City,,20%,Food,United States,FALSE
+Tilia,SF Bay Area,28,32%,Finance,United States,FALSE
+Inspirato,Denver,50,6%,Travel,United States,FALSE
+AgentSync,Denver,67,24%,Finance,United States,FALSE
+Viaplay,Stockholm Non-U.S.,450,25%,Media,Sweden,FALSE
+Stoa,Phoenix,80,80%,Real Estate,United States,FALSE
+Dunzo,Bengaluru Non-U.S.,,,Food,India,FALSE
+Phunware,Austin,,,Other,United States,FALSE
+MiQ,London Non-U.S.,,,Marketing,,FALSE
+Saarthi.ai,Bengaluru Non-U.S.,,,Support,India,TRUE
+Bundle Africa,Lagos Non-U.S.,,100%,Crypto,Nigeria,TRUE
+PathAI,Boston,87,,Healthcare,United States,TRUE
+Onfido,London Non-U.S.,,,Finance,United Kingdo??False,FALSE
+Arive,Munich Non-U.S.,,,Retail,Germany,FALSE
+AppHarvest,Lexington,,100%,Food,United States,FALSE
+Pluralsight,Salt Lake City,,,Education,United States,FALSE
+Deep Instict,New York City,46,15%,Security,United States,TRUE
+Ripl,Seattle,,,Marketing,United States,FALSE
+Kleos Space,Luxembourg Raleigh,,100%,Aerospace,Luxembourg,FALSE
+Myntra,Bengaluru Non-U.S.,50,,Retail,India,FALSE
+Calendly,Atlanta,60,10%,Other,United States,FALSE
+Figure,SF Bay Area,90,20%,Crypto,United States,TRUE
+Copia,Nairobi Non-U.S.,350,25%,Retail,Kenya,FALSE
+Wish,SF Bay Area,255,34%,Retail,United States,FALSE
+Milkbasket,Gurugram Non-U.S.,400,67%,Food,India,FALSE
+Point,SF Bay Area,61,28%,Real Estate,United States,FALSE
+Verbit,New York City,60,6%,Data,United States,TRUE
+Datree,SF Bay Area,,100%,Other,United States,FALSE
+Degreed,SF Bay Area,,,Education,United States,FALSE
+Akseleran,Jakarta Non-U.S.,60,,Finance,Indonesia,FALSE
+Homology,Boston,,,Healthcare,United States,FALSE
+Kape,London Non-U.S.,180,,Security,United Kingdo??True,TRUE
+Eroad,Auckland Non-U.S.,200,31%,Transportat,,FALSE
+Kape Technologies,London Non-U.S.,200,30%,Security,United Kingdo??True,FALSE
+Fable,Toronto Non-U.S.,13,9%,Other,Canada,FALSE
+Qoala,Jakarta Non-U.S.,80,,Finance,Indonesia,FALSE
+Cambricon,Beijing Non-U.S.,,,Hardware,China,FALSE
+Nexar,New York City,12,,Transportat,,FALSE
+iQiyi Smart,Beijing Non-U.S.,,,Other,China,FALSE
+CoinDesk,New York City,,,Crypto,United States,TRUE
+Easee,Sandnes Non-U.S.,200,57%,Energy,Norway,FALSE
+SecureWorks,Atlanta,300,15%,Security,United States,TRUE
+Noice,Helsinki Non-U.S.,,,Consumer,Finland,FALSE
+Xendit,Jakarta Non-U.S.,,,Finance,Indonesia,FALSE
+FlexCar,Boston,20,,Transportat,,FALSE
+Illumina,San Diego,151,,Healthcare,United States,FALSE
+AppFolio,Santa Barbara,149,9%,Real Estate,United States,FALSE
+StreamElements,Tel Aviv Non-U.S.,60,35%,Media,Israel,FALSE
+CircleCI,SF Bay Area,,,Product,United States,FALSE
+Intel,SF Bay Area,140,,Hardware,United States,TRUE
+Embrace,SF Bay Area,,,Product,United States,FALSE
+Times Internet,Gurugram Non-U.S.,100,5%,Media,,FALSE
+Zylo,Indianapolis,,10%,Other,United States,FALSE
+Detectify,Stockholm Non-U.S.,30,,Security,Sweden,TRUE
+Spartan Poker,Kolkata Non-U.S.,125,40%,Consumer,India,FALSE
+Twiga,Nairobi Non-U.S.,283,33%,Food,Kenya,FALSE
+Unite Us,New York City,,,Healthcare,United States,FALSE
+Recur,Miami,,,Crypto,United States,TRUE
+Tempo Automation,SF Bay Area,,,Other,United States,FALSE
+Hypefast,Jakarta Non-U.S.,,30%,Retail,Indonesia,FALSE
+Datagen,Tel Aviv Non-U.S.,,,AI,Israel,TRUE
+CoinDCX,Mumbai Non-U.S.,,12%,Crypto,India,TRUE
+Getir,London Non-U.S.,2500,11%,Food,United Kingdo??False,FALSE
+JOIN,Berlin Non-U.S.,,,Recruiting,Germany,FALSE
+Cellulant,Nairobi Non-U.S.,,20%,Finance,Kenya,FALSE
+Rivos,SF Bay Area,24,6%,Hardware,United States,FALSE
+BlackLine,Los Angeles,95,5%,Finance,United States,FALSE
+Veriff,Tallinn Non-U.S.,101,21%,Security,Estonia,TRUE
+Atlas,Chicago,150,30%,HR,United States,FALSE
+Captiv8,SF Bay Area,8,3%,Marketing,United States,FALSE
+Chingari,Bengaluru Non-U.S.,,50%,Media,India,FALSE
+Fortinet,SF Bay Area,,,Security,United States,TRUE
+Cuemath,Bengaluru Non-U.S.,100,,Education,India,FALSE
+HackerRank,SF Bay Area,53,,Recruiting,United States,FALSE
+SenseTime,Hong Kong Non-U.S.,,,AI,Hong Kong,TRUE
+Clockwork,Dallas,,100%,Crypto,United States,TRUE
+CoinSwitch,Bengaluru Non-U.S.,44,,Crypto,India,TRUE
+Zebra Technologies,Chicago,700,7%,Manufactur,,FALSE
+123Milhas,Belo Horizonte Non-U.S.,,,Travel,Brazil,FALSE
+Kenko Health,Mumbai Non-U.S.,50,20%,Healthcare,India,FALSE
+Zeplin,SF Bay Area,37,35%,Product,United States,FALSE
+Huma,London Non-U.S.,45,10%,Healthcare,United Kingdo??False,FALSE
+Kenko Health,Mumbai Non-U.S.,50,20%,Healthcare,India,FALSE
+Omuni,Bengaluru Non-U.S.,60,35%,Retail,India,FALSE
+SkyKick,Seattle,140,,Other,United States,FALSE
+Biofourmis,Boston,120,,Healthcare,United States,FALSE
+Pegasystems,Boston,240,4%,HR,United States,FALSE
+Malwarebytes,SF Bay Area,100,,Security,United States,TRUE
+Productboard,SF Bay Area,,10%,Product,United States,FALSE
+Expedia,Seattle,,,Travel,United States,FALSE
+Google,SF Bay Area,75,,Consumer,United States,TRUE
+Akili Labs,Boston,,40%,Healthcare,United States,FALSE
+R3,New York City,,20%,Crypto,United States,TRUE
+VideoAmp,Los Angeles,40,10%,Marketing,United States,FALSE
+Project44,Chicago,116,,Logistics,United States,FALSE
+Airtable,SF Bay Area,237,27%,Product,United States,TRUE
+Velocity,Bengaluru Non-U.S.,,14%,Finance,India,FALSE
+7shifts,Saskatoon Non-U.S.,30,7%,Food,Canada,FALSE
+Sage Therapeutics copy,Boston,290,,Healthcare,United States,FALSE
+Hooray Foods,SF Bay Area,,100%,Food,United States,FALSE
+Cisco,SF Bay Area,350,,Infrastructu,,FALSE
+Nowadays,SF Bay Area,,100%,Food,United States,FALSE
+Truss Works,SF Bay Area,,,Real Estate,United States,FALSE
+Outreach,Seattle,,12%,Sales,United States,FALSE
+Akudo,Bengaluru Non-U.S.,,100%,Finance,India,FALSE
+DealShare,Bengaluru Non-U.S.,130,,Retail,India,FALSE
+Robinhood,SF Bay Area,,,Finance,United States,FALSE
+Merative,Dublin Non-U.S.,100,,Healthcare,Ireland,FALSE
+Foodpanda,Singapore Non-U.S.,,,Food,Singapore,FALSE
+Roblox,New York City,30,,Consumer,United States,FALSE
+Appsmith,SF Bay Area,35,25%,,United States,FALSE
+Eat Just,SF Bay Area,40,,Food,United States,FALSE
+Recast,Edinburgh Non-U.S.,,100%,Media,United Kingdo??False,FALSE
+Lucid Software,Salt Lake City,75,7%,Other,United States,FALSE
+Talkdesk,SF Bay Area,,,Support,United States,FALSE
+Dunzo,Bengaluru Non-U.S.,150,30%,Food,India,FALSE
+Flexe,Seattle,131,33%,Logistics,United States,FALSE
+Fi.Money,Bengaluru Non-U.S.,30,10%,Finance,India,FALSE
+Snap,Los Angeles,170,,Consumer,United States,FALSE
+Fit Analytics,Berlin Non-U.S.,,100%,Retail,,FALSE
+2U,Washington D.C.,,,Education,United States,FALSE
+Lululemon Studio,New York City,120,,Fitness,United States,FALSE
+Epic Games,Raleigh,870,16%,Consumer,United States,FALSE
+Cowbell,SF Bay Area,28,12%,Finance,United States,FALSE
+Andgo,Saskatoon Non-U.S.,9,,HR,Canada,FALSE
+Vendasta,Saskatoon Non-U.S.,,,Marketing,Canada,FALSE
+N26,Berlin Non-U.S.,14,,Finance,Germany,FALSE
+Uno Health,New York City,,,Healthcare,United States,FALSE
+Flexport,SF Bay Area,,20%,Logistics,United States,FALSE
+Adda247,Gurugram Non-U.S.,300,,Education,India,FALSE
+PokerStars,Leeds Non-U.S.,,,Consumer,United Kingdo??False,FALSE
+Stack Overflow,New York City,,28%,Recruiting,United States,FALSE
+Bandcamp,SF Bay Area,58,50%,Other,United States,FALSE
+Kayak / OpenTable,Stamford,80,,Travel,United States,FALSE
+C2FO,Kansas City,80,3%,Finance,United States,FALSE
+CityMall,Gurugram Non-U.S.,90,,Retail,India,FALSE
+LinkedIn,SF Bay Area,660,3%,Recruiting,United States,FALSE
+Waymo,SF Bay Area,,,Transportat,,FALSE
+Expedia,Seattle,100,,Travel,United States,FALSE
+ManoMano,Paris Non-U.S.,230,25%,Retail,France,FALSE
+Google,SF Bay Area,40,,Consumer,United States,TRUE
+WeTransfer,Amsterdam Non-U.S.,35,10%,Other,Netherlands,FALSE
+Belora Paris,Gurugram Non-U.S.,,100%,Retail,India,FALSE
+Made Renovation,SF Bay Area,,100%,Construction,United States,FALSE
+Volta Trucks,Stockholm Non-U.S.,,100%,Transportat,,FALSE
+Plume,Denver,24,,Healthcare,United States,FALSE
+StellarAlgo,Calgary Non-U.S.,21,28%,Data,Canada,TRUE
+LegalZoom,Austin,100,,Legal,United States,FALSE
+Bullhorn,Boston,140,9%,Sales,United States,FALSE
+Convoy,Seattle,500,100%,Logistics,United States,FALSE
+Tropic,New York City,26,,Finance,United States,FALSE
+Nomad Health,New York City,,25%,Healthcare,United States,FALSE
+Roblox China,Shenzen Non-U.S.,15,,Consumer,,FALSE
+Parity Technologies,London Non-U.S.,100,30%,Crypto,United Kingdo??True,TRUE
+Shipt,Birmingham,,3%,Retail,United States,FALSE
+Pebble,SF Bay Area,,100%,Consumer,United States,FALSE
+SiFive,SF Bay Area,130,20%,Hardware,United States,FALSE
+Salsify,Boston,110,,Retail,United States,FALSE
+Virgio,Bengaluru Non-U.S.,20,33%,Retail,India,FALSE
+F-Secure,Helsinki Non-U.S.,70,,Security,Finland,TRUE
+Multiverse,London Non-U.S.,,,Education,United Kingdo??False,FALSE
+Exabeam,SF Bay Area,,20%,Security,United States,TRUE
+Slync,Dallas,,100%,Logistics,United States,FALSE
+Graphy,Bengaluru Non-U.S.,50,20%,Education,,FALSE
+Hippo Insurance,SF Bay Area,120,20%,Finance,United States,FALSE
+Karat Financial,Los Angeles,,,Finance,United States,FALSE
+Hubilo,SF Bay Area,50,,Other,United States,FALSE
+StepStone,Berlin Non-U.S.,215,5%,Recruiting,Germany,FALSE
+Olive,Columbus,,100%,Healthcare,United States,FALSE
+Amazon,Seattle,180,,Retail,United States,TRUE
+Ping Identity,Denver,,,Security,United States,TRUE
+Markforged,Boston,,,Manufactur,,FALSE
+Halodoc,Jakarta Non-U.S.,,,Healthcare,India,FALSE
+Cake Group,Singapore Non-U.S.,50,30%,Crypto,Singapore,TRUE
+Sarcos,Pittsburgh,150,,Aerospace,United States,FALSE
+Chewy,Miami,200,,Retail,United States,FALSE
+FintechOS,Bucharest Non-U.S.,,,Finance,Romania,FALSE
+FreshBooks,Toronto Non-U.S.,,6%,Finance,Canada,FALSE
+Singular Genomics,San Diego,,10%,Healthcare,United States,FALSE
+Uleet,Columbus,,100%,Healthcare,United States,FALSE
+Landing,Birmingham,,,Real Estate,United States,FALSE
+Sonos,New York City,,,Consumer,United States,FALSE
+Beamery,London Non-U.S.,,25%,HR,United Kingdo??False,FALSE
+Paystack,Lagos Non-U.S.,33,,Finance,Nigeria,FALSE
+Sierra Space,Boulder,115,,Aerospace,United States,FALSE
+NextGen Healthcare,St. Louis,84,,Healthcare,United States,FALSE
+Amazon,Seattle,,,Retail,United States,TRUE
+Jane,Lehi,,100%,Retail,United States,FALSE
+Zazuu,London,,,Finance,United Kingdo??False,FALSE
+Buildertrend,Omaha,,16%,Construction,United States,FALSE
+Physics Wallah,Noida Non-U.S.,120,1%,Education,India,FALSE
+Presto,SF Bay Area,,17%,Food,United States,FALSE
+C3.ai,SF Bay Area,,,AI,United States,TRUE
+Jodo,Bengaluru Non-U.S.,100,,Finance,India,FALSE
+Tulip Retail,Toronto Non-U.S.,25,,Retail,Canada,TRUE
+McMakler,Berlin Non-U.S.,60,,Real Estate,Germany,FALSE
+Alerzo,Ibadan Non-U.S.,100,,Retail,Nigeria,FALSE
+Anar,Mumbai Non-U.S.,,100%,Marketing,India,FALSE
+Veev,SF Bay Area,,100%,Construction,United States,FALSE
+Bytedance,Shanghai Non-U.S.,1000,,Consumer,China,FALSE
+Our Next Energy,Detroit,128,25%,Transportat,,FALSE
+VMware,SF Bay Area,2837,,Infrastructu,,FALSE
+Unity,SF Bay Area,265,4%,Other,United States,FALSE
+Tier Mobility,Berlin Non-U.S.,,22%,Transportat,,FALSE
+Multiverse,London Non-U.S.,,5%,Education,United Kingdo??False,FALSE
+Dataminr,New York City,150,20%,AI,United States,TRUE
+Pipedrive,Tallinn Non-U.S.,,,Sales,,FALSE
+Mojo,New York City,,,Consumer,United States,FALSE
+Domo,Salt Lake City,,7%,Data,United States,TRUE
+Zepz,London Non-U.S.,30,2%,Finance,United Kingdo??False,FALSE
+Loco,Mumbai Non-U.S.,40,36%,Consumer,India,FALSE
+Vox Media,Washington D.C.,,4%,Media,United States,FALSE
+Sojern,SF Bay Area,,20%,Marketing,United States,FALSE
+FourKites,Chicago,,15%,Logistics,United States,FALSE
+Flex,SF Bay Area,31,,Manufactur,,FALSE
+ForgeRock,SF Bay Area,109,,Other,United States,FALSE
+Analog Devices,SF Bay Area,111,,Manufactur,,FALSE
+Etsy,New York City,225,11%,Retail,United States,FALSE
+Invitae,SF Bay Area,235,15%,Healthcare,United States,FALSE
+Bolt,SF Bay Area,,29%,Finance,United States,FALSE
+Curalie,Berlin Non-U.S.,,100%,Healthcare,Germany,FALSE
+Cruise,SF Bay Area,900,24%,Transportat,,FALSE
+Flyhomes,Seattle,,,Real Estate,United States,FALSE
+Curbio,Washington D.C.,,,Real Estate,United States,FALSE
+Solarisbank,Berlin Non-U.S.,20,,Finance,Germany,FALSE
+Stellar Pizza,Los Angeles,,50%,Food,United States,FALSE
+Superpedestrian,Boston,,,Transportat,,FALSE
+Jellysmack,Paris Non-U.S.,,,Media,France,FALSE
+Glowforge,Seattle,30,,Manufactur,,FALSE
+eBay,Tel Aviv Non-U.S.,20,,Retail,Israel,FALSE
+Checkout.com,London Non-U.S.,80,,Finance,United Kingdo??False,FALSE
+Enphase Energy,SF Bay Area,350,10%,Energy,United States,FALSE
+Delivery Hero,Berlin Non-U.S.,,,Food,Germany,FALSE
+Arm Holdings,Shanghai Non-U.S.,70,,Hardware,China,FALSE
+Udaan,Bengaluru Non-U.S.,100,10%,Retail,India,FALSE
+Kaspien,Seattle,,100%,Retail,United States,FALSE
+InSightec,Haifa Non-U.S.,100,20%,Healthcare,Israel,FALSE
+ShareChat,Bengaluru Non-U.S.,200,15%,Consumer,India,FALSE
+Palmetto Clean Technology,Charleston,,,Energy,,FALSE
+Hyperloop One,Los Angeles,,100%,Transportat,,FALSE
+Intel,Sacramento,311,,Hardware,United States,TRUE
+Paytm,Noida Non-U.S.,1000,,Finance,India,FALSE
+Strake,Boulder,,100%,Infrastructu,,FALSE
+Bolt.Earth,Bengaluru Non-U.S.,,20%,Energy,India,FALSE
+Ocado,London Non-U.S.,1000,,Food,United Kingdo??False,FALSE
+Thursday,London Non-U.S.,,70%,Consumer,United Kingdo??False,FALSE
+Google,SF Bay Area,,,Consumer,United States,TRUE
+ALI Technologies,Tokyo Non-U.S.,,100%,Transportat,,FALSE
+First Mode,Seattle,48,20%,Transportat,,FALSE
+SonderMind,Denver,49,17%,Healthcare,United States,FALSE
+Sirplus,Berlin Non-U.S.,60,,Food,Germany,FALSE
+YouTube,SF Bay Area,100,,Media,United States,FALSE
+Stitch Fix,Dallas,,,Retail,United States,FALSE
+Fashinza,New York City,,,Retail,United States,FALSE
+Amazon,Seattle,30,,Retail,United States,TRUE
+Wayfair,Boston,1650,13%,Retail,United States,TRUE
+SolarEdge,Tel Aviv Non-U.S.,900,16%,Energy,Israel,FALSE
+Google,SF Bay Area,,,Consumer,United States,TRUE
+2U,Washington D.C.,,,Education,United States,FALSE
+TikTok,Los Angeles,60,,Consumer,United States,FALSE
+Riot Games,Los Angeles,530,11%,Consumer,United States,FALSE
+Xendit,Jakarta Non-U.S.,,,Finance,Indonesia,FALSE
+Vroom,New York City,800,90%,Transportat,,FALSE
+SAP,Walldorf Non-U.S.,8000,7%,Other,Germany,FALSE
+eBay,SF Bay Area,1000,9%,Retail,United States,FALSE
+Brex,SF Bay Area,282,20%,Finance,United States,FALSE
+Seedr,London Non-U.S.,15,,Finance,United Kingdo??False,FALSE
+GoStudent,Vienna Non-U.S.,100,,Education,Austria,FALSE
+Jellysmack,Paris Non-U.S.,30,,Media,France,FALSE
+GoTo,Boston,29,,Other,United States,FALSE
+Cure.fit,Bengaluru Non-U.S.,120,,Fitness,India,FALSE
+HubSpot,Boston,,,Marketing,United States,FALSE
+Desktop Metal,Boston,,20%,Other,United States,TRUE
+Aurora,Pittsburgh,,3%,Transportat,,FALSE
+Storytel,Stockholm Non-U.S.,80,13%,Media,Sweden,FALSE
+Personio,Munich Non-U.S.,100,,HR,Germany,FALSE
+Cult.fit,Bengaluru Non-U.S.,100,,Fitness,India,FALSE
+Microsoft,Seattle,1900,,Other,United States,TRUE
+Swiggy,Bengaluru Non-U.S.,400,7%,Food,India,FALSE
+Veho,Boulder,65,19%,Logistics,United States,FALSE
+Cova,Lagos Non-U.S.,,100%,Finance,Nigeria,FALSE
+MVPindex,Austin,12,30%,Marketing,United States,FALSE
+Amperity,Seattle,20,,Marketing,United States,FALSE
+Jamf,Minneapolis,,6%,Other,United States,FALSE
+Business Insider,New York City,,8%,Media,United States,FALSE
+Salesforce,SF Bay Area,700,1%,Sales,United States,FALSE
+Productboard,SF Bay Area,,,Product,United States,FALSE
+Flexport,SF Bay Area,,20%,Logistics,United States,FALSE
+Loopio,Toronto Non-U.S.,,6%,Sales,,FALSE
+DispatchHealth,Denver,88,,Healthcare,United States,FALSE
+iRobot,Boston,350,31%,Consumer,United States,FALSE
+Vipps,Vilnius Non-U.S.,,,Finance,Lithuania,FALSE
+Procore,Santa Barbara,,4%,Construction,United States,FALSE
+Noom,New York City,,,Fitness,United States,FALSE
+TechCrunch,SF Bay Area,7,,Media,United States,FALSE
+Wattpad,Toronto Non-U.S.,20,10%,Media,Canada,FALSE
+Aurora Solar,SF Bay Area,111,20%,Energy,United States,FALSE
+Kiwi.com,Brno Non-U.S.,216,18%,Travel,Czech Republic,FALSE
+Block,SF Bay Area,1000,10%,Finance,United States,FALSE
+PayPal,SF Bay Area,2500,9%,Finance,United States,FALSE
+Proofpoint,SF Bay Area,280,6%,Security,United States,TRUE
+Trove Recommerce,SF Bay Area,130,,Retail,United States,FALSE
+CircleCI,SF Bay Area,100,,Product,United States,FALSE
+The Messenger,Miami,,100%,Media,United States,FALSE
+Innoviz,Tel Aviv Non-U.S.,60,13%,Transportat,,FALSE
+Thinx,New York City,95,,Retail,United States,FALSE
+Zuora,SF Bay Area,,8%,Finance,United States,FALSE
+Instacart,SF Bay Area,250,7%,Food,United States,FALSE
+Wisense,Tel Aviv Non-U.S.,,100%,Transportat,,FALSE
+Popcore,Berlin Non-U.S.,,,Consumer,Germany,FALSE
+Everybuddy,Tel Aviv Non-U.S.,,100%,Consumer,Israel,FALSE
+Riskified,New York City,40,6%,Retail,United States,FALSE
+Impinj,Seattle,50,10%,Other,United States,FALSE
+Mozilla,SF Bay Area,60,5%,Consumer,United States,FALSE
+Redesign Health,New York City,77,,Healthcare,United States,FALSE
+Cisco,SF Bay Area,4250,5%,Infrastructu,,FALSE
+Away,New York City,,25%,Retail,United States,FALSE
+Wint Wealth,Nashik Non-U.S.,19,20%,Finance,India,FALSE
+Toast,Boston,550,10%,Food,United States,FALSE
+Sonder,SF Bay Area,106,17%,Travel,United States,FALSE
+LinkSquares,Boston,90,,Legal,United States,FALSE
+CodeSee,SF Bay Area,,100%,Data,United States,TRUE
+Gro Intelligence,New York City,20,10%,Food,United States,TRUE
+Storytel,Stockholm Non-U.S.,80,13%,Consumer,Sweden,FALSE
+May Mobility,Ann Arbor,,13%,Transportat,,FALSE
+Voi,Stockholm Non-U.S.,120,12%,Transportat,,FALSE
+Farfetch,London Non-U.S.,2000,25%,Retail,United Kingdo??False,FALSE
+Meati,Boulder,,30%,Food,United States,FALSE
+KnownOrigin,Manchester Non-U.S.,,30%,Crypto,United Kingdo??True,TRUE
+Auctane,Austin,,,Retail,United States,FALSE
+Tails.com,London Non-U.S.,55,25%,Retail,United Kingdo??True,TRUE
+Aptiv,Krakow Non-U.S.,250,,Transportat,Post-IPO,FALSE
+Finder,Sydney Non-U.S.,60,17%,Retail,Australia,FALSE
+Affirm,Pittsburgh,60,,Finance,United States,FALSE
+Rivian,Detroit,,10%,Transportat,,FALSE
+BuzzFeed,New York City,,16%,Media,United States,FALSE
+Vice Media,New York City,,,Media,United States,FALSE
+Redesign Health,New York City,77,,Healthcare,United States,FALSE
+Carbon Health,SF Bay Area,56,,Healthcare,United States,FALSE
+Daraz,Singapore Non-U.S.,,,Retail,Singapore,FALSE
+WayCool,Chennai Non-U.S.,70,,Food,India,FALSE
+Expedia,Seattle,1500,8%,Travel,United States,FALSE
+Apple,SF Bay Area,,,Transportat,,TRUE
+PropertyGuru,Singapore Non-U.S.,79,,Real Estate,Singapore,FALSE
+Sony Interactive,SF Bay Area,900,8%,Consumer,,FALSE
+Bumble,Austin,350,30%,Consumer,United States,FALSE
+Motional,Boston,,5%,Transportat,,FALSE
+Treasury Prime,SF Bay Area,40,40%,Finance,United States,FALSE
+OrCam,Jerusalem Non-U.S.,50,19%,Healthcare,Israel,FALSE
+Vacasa,Portland,320,5%,Travel,United States,FALSE
+Electronic Arts,SF Bay Area,670,5%,Consumer,United States,FALSE
+Kevin,Vilnius Non-U.S.,,14%,Finance,Lithuania,FALSE
+Fisker,Los Angeles,,15%,Transportat,,FALSE
+Stash,New York City,80,25%,Finance,United States,FALSE
+Ancestry,Lehi,81,6%,Consumer,United States,FALSE
+Textio,Seattle,14,16%,Recruiting,United States,FALSE
+Chipper Cash,SF Bay Area,20,,Finance,United States,FALSE
+Blueboard,SF Bay Area,,100%,HR,United States,FALSE
+Flock Freight,San Diego,54,,Logistics,United States,FALSE
+Longi,Xi'an Non-U.S.,,5%,Energy,China,FALSE
+Airmeet,Bengaluru Non-U.S.,,20%,Marketing,India,TRUE
+ShopBack,Singapore Non-U.S.,195,24%,Retail,Singapore,FALSE
+Singular Genomics,San Diego,,20%,Healthcare,United States,FALSE
+Orbotech,Yavne Non-U.S.,100,,Manufactur,,FALSE
+Cybereason,Boston,,,Security,United States,TRUE
+Verily,SF Bay Area,,,Healthcare,United States,FALSE
+Dell,Austin,6000,5%,Hardware,United States,FALSE
+GoPro,SF Bay Area,,4%,Consumer,United States,FALSE
+Synctera,SF Bay Area,17,15%,Finance,United States,FALSE
+ChowNow,Los Angeles,60,20%,Food,United States,FALSE
+Tesla,Austin,14000,10%,Transportat,,FALSE
+Tome,SF Bay Area,12,25%,AI,United States,TRUE
+Take-Two,New York City,579,5%,Consumer,United States,FALSE
+Rivian,Detroit,,1%,Transportat,,FALSE
+Google,SF Bay Area,,,Consumer,United States,TRUE
+ConnectWise,Tampa Bay,,,Other,United States,FALSE
+The Good Glamm Group,New Delhi Non-U.S.,150,15%,Retail,India,FALSE
+Showpad,Ghent Non-U.S.,50,10%,Marketing,Belgium,FALSE
+Pax8,Denver,,5%,Infrastructu,,FALSE
+Stability AI,London Non-U.S.,20,,AI,United Kingdo??True,TRUE
+OutSystems,Boston,150,8%,Product,United States,FALSE
+Homie,Salt Lake City,,,Real Estate,United States,FALSE
+98point6,Seattle,,,Healthcare,United States,FALSE
+Heureka Group,Prague Non-U.S.,100,16%,Retail,Czech Republic,FALSE
+Freenome,SF Bay Area,100,20%,Healthcare,United States,FALSE
+Expedia,Austin,,,Travel,United States,FALSE
+Grin,Sacramento,,,Marketing,United States,FALSE
+True Anomaly,Denver,30,25%,Aerospace,United States,FALSE
+HealthifyMe,Bengaluru Non-U.S.,150,27%,Healthcare,India,FALSE
+Fisker,Los Angeles,,,Transportat,,FALSE
+ComplYant,Los Angeles,,100%,Finance,United States,FALSE
+Ninja Van,Singapore Non-U.S.,21,10%,Transportat,,FALSE
+Ola,Bengaluru Non-U.S.,180,10%,Transportat,,FALSE
+Getir,London Non-U.S.,3300,,Food,United Kingdo??False,FALSE
+Tesla,Austin,500,,Transportat,,FALSE
+Akili Interactive,Boston,,46%,Healthcare,United States,FALSE
+Google,SF Bay Area,,,Consumer,United States,TRUE
+RiseUp,Tel Aviv Non-U.S.,50,50%,Finance,Israel,FALSE
+Indeed,Austin,1000,8%,HR,United States,FALSE
+Mainvest,Boston,,100%,Finance,United States,TRUE
+Singularity 6,Los Angeles,36,,Other,United States,FALSE
+Atmosphere,Austin,100,,Other,United States,FALSE
+SeekOut,Seattle,,30%,Recruiting,United States,FALSE
+Karhoo,London Non-U.S.,,100%,Transportat,,FALSE
+Gopuff,Philadelphia,,6%,Food,United States,FALSE
+Wefox,Berlin Non-U.S.,60,,Finance,Germany,FALSE
+Toshiba,Tokyo Non-U.S.,4000,,Manufactur,,FALSE
+Replit,SF Bay Area,30,20%,Product,United States,FALSE
+Joonko,New York City,,100%,HR,United States,FALSE
+TikTok,Los Angeles,1000,,Consumer,United States,FALSE
+Silo,SF Bay Area,,30%,Food,United States,FALSE
+Cue Health,San Diego,180,100%,Healthcare,United States,FALSE
+Guild,Denver,300,25%,Education,United States,FALSE
+Foursquare,New York City,105,25%,Marketing,United States,FALSE
+Satellogic,Montevideo Non-U.S.,34,13%,Aerospace,Uruguay,FALSE
+Lucid Motors,SF Bay Area,400,6%,Transportat,,FALSE
+Glovo,Madrid Non-U.S.,22,,Food,Spain,FALSE
+Funding Circle,London Non-U.S.,,,Finance,United Kingdo??False,FALSE
+Fisker,Los Angeles,,,Transportat,,FALSE
+Walnut,New York City,15,20%,Sales,United States,FALSE
+ICANN,Los Angeles,33,7%,Infrastructu,,FALSE
+FlightStats,Portland,73,,Travel,United States,FALSE
+Jasper Health,Boise,,,Healthcare,United States,FALSE
+Gro Intelligence,New York City,,10%,Food,United States,TRUE
+Tropic,New York City,40,,Finance,United States,FALSE
+Google,SF Bay Area,100,,Consumer,United States,TRUE
+Medtronic,SF Bay Area,,,Healthcare,United States,FALSE
+Cypress.io,Atlanta,11,,Product,United States,FALSE
+Satellogic,Montevideo Non-U.S.,70,30%,Aerospace,Uruguay,FALSE
+Running Tide,Portland,,100%,Energy,United States,FALSE
+Care/of,New York City,143,100%,Healthcare,United States,FALSE
+LOOP,Austin,23,77%,Finance,United States,FALSE
+Stackpath,Dallas,,100%,Infrastructu,,FALSE
+Unit,New York City,,15%,Finance,United States,FALSE
+Chegg,SF Bay Area,441,23%,Education,United States,FALSE
+Wex,Portland,375,5%,Finance,United States,FALSE
+PayPal,SF Bay Area,85,,Finance,Ireland,FALSE
+Fisker,Los Angeles,,100%,Transportat,,FALSE
+C2FO,Kansas City,16,,Finance,United States,FALSE
+Rapyd,Tel Aviv Non-U.S.,30,,Finance,Israel,FALSE
+Moovit,Tel Aviv Non-U.S.,20,10%,Transportat,,FALSE
+Emma Sleep,Frankfurt Non-U.S.,200,18%,Retail,Germany,FALSE
+ReshaMandi,Bengaluru Non-U.S.,,80%,Food,India,FALSE
+Bluevine,Tel Aviv Non-U.S.,,,Finance,Israel,FALSE
+Ginkgo Bioworks,Boston,400,35%,Healthcare,United States,FALSE
+Trade Republic,Berlin Non-U.S.,,,Finance,Germany,FALSE
+Ginkgo Bioworks,Boston,,,Healthcare,United States,FALSE
+Flutterwave,Lagos Non-U.S.,30,3%,Finance,Nigeria,FALSE
+BeReal,Paris Non-U.S.,,,Consumer,France,FALSE
+Perion,Tel Aviv Non-U.S.,35,5%,Marketing,Israel,FALSE
+Planet,SF Bay Area,180,17%,Aerospace,United States,FALSE
+eBay,Tel Aviv Non-U.S.,,,Retail,Israel,FALSE
+Moxion Power,SF Bay Area,101,,Energy,United States,FALSE
+RealPage,Dallas,260,4%,Real Estate,United States,FALSE
+Priceline,Norwalk,103,7%,Travel,United States,FALSE
+Spotify,Stockholm Non-U.S.,40,,Media,Sweden,FALSE
+Salesforce,SF Bay Area,300,,Sales,United States,FALSE
+SolarEdge,Tel Aviv Non-U.S.,400,,Energy,Israel,FALSE
+Unbounce,Vancouver Non-U.S.,,,Marketing,Canada,FALSE
+Kaspersky,Boston,,,Security,,TRUE
+ON,SF Bay Area,60,100%,Retail,United States,FALSE
+Aqua Security,Boston,50,10%,Security,United States,TRUE
+Lex,New York City,,,Consumer,United States,FALSE
+EverC,Tel Aviv Non-U.S.,16,10%,Security,Israel,TRUE
+Mercari U.S.,SF Bay Area,,50%,Retail,,FALSE
+Magic Leap,Miami,75,,Consumer,United States,FALSE
+Bluelearn,Bengaluru Non-U.S.,,100%,Education,India,FALSE
+Cohere,Toronto Non-U.S.,20,5%,AI,Canada,TRUE
+Humble Games,SF Bay Area,36,100%,Media,United States,FALSE
+Webflow,SF Bay Area,,8%,Marketing,United States,FALSE
+WayCool,Chennai Non-U.S.,200,,Food,India,FALSE
+Pocket FM,Bengaluru Non-U.S.,200,,Media,India,FALSE
+OrCam,Jerusalem Non-U.S.,,,Healthcare,Israel,FALSE
+Moxion Power,SF Bay Area,248,100%,Energy,United States,FALSE
+NerdWallet,SF Bay Area,,15%,Finance,United States,FALSE
+Match Group,New York City,,6%,Consumer,United States,FALSE
+Delivery Hero,Berlin Non-U.S.,200,,Food,Germany,FALSE
+Bungie,Seattle,220,17%,Consumer,United States,FALSE
+Quizac,Lagos Non-U.S.,,100%,Education,Nigeria,FALSE
+DayTwo,SF Bay Area,,100%,Healthcare,United States,FALSE
+Grail,SF Bay Area,350,,Healthcare,United States,TRUE
+Sonos,Santa Barbara,100,6%,Consumer,United States,FALSE
+Sampler,Toronto Non-U.S.,,100%,Retail,Canada,FALSE
+PacketFabric,Los Angeles,,,Infrastructu,,FALSE
+Mister Spex,Berlin Non-U.S.,,10%,Retail,Germany,FALSE
+Formlabs,Boston,,,Hardware,United States,FALSE
+Inuitive,Ra'anana Non-U.S.,16,20%,Manufactur,,FALSE
+AppLovin,SF Bay Area,61,,Marketing,United States,FALSE
+Paper,Montreal Non-U.S.,81,45%,Education,Canada,FALSE
+Retention.com,Austin,15,,Marketing,United States,FALSE
+Regrow Ag,Durham,,19%,Food,United States,FALSE
+Loop,Columbus,,,Retail,United States,FALSE
+Localize,New York City,,,Real Estate,United States,FALSE
+GoPro,SF Bay Area,139,15%,Consumer,United States,FALSE
+ReshaMandi,Bengaluru Non-U.S.,,100%,Food,India,FALSE
+Five9,SF Bay Area,190,7%,Support,United States,FALSE
+Skip the Dishes,Winnipeg Non-U.S.,800,,Food,Canada,FALSE
+Kaiyo,New York City,,100%,Retail,United States,TRUE
+Redfin,Seattle,82,2%,Real Estate,United States,FALSE
+Kenko Health,Mumbai Non-U.S.,,100%,Healthcare,India,FALSE
+Sandvine,Waterloo Non-U.S.,,,Infrastructu,,FALSE
+Received,New York City,,100%,Finance,United States,FALSE
+Velo3D,SF Bay Area,42,,Manufactur,,FALSE
+Tome Biosciences,Boston,131,100%,Healthcare,United States,FALSE
+IBM,Beijing Non-U.S.,1000,,Hardware,China,TRUE
+Apple,SF Bay Area,100,,Hardware,United States,TRUE
+Brave,SF Bay Area,27,14%,Consumer,United States,FALSE
+Character.ai,SF Bay Area,6,5%,AI,United States,TRUE
+Dunzo,Bengaluru Non-U.S.,150,75%,Food,India,FALSE
+Runtastic,Linz Non-U.S.,170,,Fitness,Austria,FALSE
+Spendesk,Paris Non-U.S.,151,,Finance,France,FALSE
+IBM,New York City,,,Hardware,United States,TRUE
+Aakash,New Delhi Non-U.S.,80,,Education,India,FALSE
+ApplyBoard,Waterloo Non-U.S.,,4%,Education,Canada,FALSE
+CarTrawler,Dublin Non-U.S.,40,10%,Transportat,,FALSE
+Notable Labs,SF Bay Area,,65%,Healthcare,United States,FALSE
+Luminar,Orlando,,15%,Transportat,,FALSE
+Reverb,Chicago,40,,Retail,United States,FALSE
+Healthy.io,Tel Aviv Non-U.S.,40,30%,Healthcare,Israel,FALSE
+Olo,New York City,,9%,Food,United States,FALSE
+Northvolt,Stockholm Non-U.S.,1600,20%,Energy,Sweden,FALSE
+FreightWaves,Chattanooga,16,,Logistics,,FALSE
+F5,Seattle,,,Security,United States,TRUE
+Moov,Cedar Falls,50,,Finance,United States,FALSE
+Drata,San Diego,40,9%,Security,United States,TRUE
+Greenikk,Trivandrum Non-U.S.,,100%,Food,India,FALSE
+DoubleCloud,Dubai Non-U.S.,,100%,Infrastructu,,FALSE
+Shein,Singapore Non-U.S.,17,,Retail,Singapore,FALSE
+Marin Software,SF Bay Area,27,26%,Marketing,United States,FALSE
+Vendease,Lagos Non-U.S.,68,20%,Food,Nigeria,FALSE
+Gigamon,SF Bay Area,69,,Data,United States,TRUE
+AppLovin,SF Bay Area,58,,Marketing,United States,FALSE
+Fable,New York City,,100%,Product,United States,FALSE
+Meta,SF Bay Area,,,Consumer,United States,TRUE
+CapWay,Atlanta,,100%,Finance,United States,FALSE
+Chief,New York City,,,HR,United States,FALSE
+Jellysmack,New York City,22,,Media,France,FALSE
+Venminder,Louisville,100,,Security,United States,TRUE
+Upwork,SF Bay Area,,21%,Other,United States,FALSE
+Catena Media,Sliema Non-U.S.,29,,Marketing,Malta,FALSE
+Airthings,Oslo Non-U.S.,,,Hardware,Norway,TRUE
+Coursera,SF Bay Area,150,10%,Education,United States,FALSE
+Twelve,SF Bay Area,,,Energy,United States,FALSE
+Kyte,SF Bay Area,,40%,Transportat,,FALSE
+dYdX,SF Bay Area,,35%,Crypto,United States,TRUE
+Docker,SF Bay Area,,10%,Infrastructu,,FALSE
+F5,Seattle,100,2%,Security,United States,TRUE
+ConsenSys,New York City,163,20%,Crypto,United States,TRUE
+Dropbox,SF Bay Area,527,20%,Other,United States,FALSE
+Miro,SF Bay Area,275,18%,Other,United States,FALSE
+Kraken,SF Bay Area,400,15%,Crypto,United States,TRUE
+Tidal,New York City,,,Consumer,United States,FALSE
+AMD,SF Bay Area,1000,4%,Hardware,United States,FALSE
+AppLovin,SF Bay Area,120,,Marketing,United States,FALSE
+Kuku FM,Mumbai Non-U.S.,80,,Media,India,FALSE
+Better Collective,Copenhagen Non-U.S.,300,,Other,Denmark,FALSE
+TrueLayer,London Non-U.S.,71,25%,Finance,United Kingdo??False,FALSE
+Own,New York City,,,Data,United States,TRUE
+Headspace,Los Angeles,,13%,Healthcare,United States,FALSE
+LinkedIn,SF Bay Area,202,1%,Recruiting,United States,FALSE
+Hopper,Montreal Non-U.S.,,,Travel,Canada,FALSE
+Adjust,Berlin Non-U.S.,304,,Marketing,Germany,FALSE
+Ola Electric,Bengaluru Non-U.S.,500,,Transportat,,FALSE
+Apple,SF Bay Area,,,Hardware,United States,TRUE
+Sprout Social,Chicago,,,Marketing,United States,FALSE
+SolarEdge,Tel Aviv Non-U.S.,500,12%,Energy,Israel,FALSE
+AlphaSense,New York City,150,8%,Other,United States,FALSE
+Klub,Bengaluru Non-U.S.,60,,Finance,India,FALSE
+Kobo360,Lagos Non-U.S.,30,,Logistics,Nigeria,FALSE
+Thrive,Mumbai Non-U.S.,,100%,Food,India,FALSE
+Refinery29,New York City,,,Media,United States,FALSE
+RealSelf,Seattle,,,Healthcare,United States,FALSE
+BionicHIVE,Sderot Non-U.S.,,100%,Hardware,Israel,FALSE
+Lilium,Munich Non-U.S.,1000,100%,Aerospace,Germany,FALSE
+Bench,Vancouver Non-U.S.,450,100%,Finance,Canada,FALSE
+Epicery,Paris Non-U.S.,,100%,Food,France,FALSE
+Brave Care,Portland,,100%,Healthcare,United States,FALSE
+GupShup,SF Bay Area,300,,Other,India,FALSE
+Boozt,Malmo Non-U.S.,,10%,Retail,Sweden,FALSE
+Alza,New York City,,100%,Finance,United States,FALSE
+TechCrunch,SF Bay Area,,,Media,United States,FALSE
+Microsoft,Seattle,,,Other,United States,TRUE
+Advisor Credit Exchange,Philadelphia,,100%,Finance,United States,FALSE
+AppLovin,SF Bay Area,89,,Marketing,United States,FALSE
+HeyJobs,Berlin Non-U.S.,90,,Recruiting,Germany,FALSE
+ShareChat,Bengaluru Non-U.S.,27,5%,Marketing,India,FALSE
+Textio,Seattle,15,,Recruiting,United States,FALSE
+Chrono24,Karlsruhe Non-U.S.,110,24%,Retail,Germany,FALSE
+Aurora Solar,SF Bay Area,58,,Energy,United States,FALSE
+Pocket FM,Bengaluru Non-U.S.,75,,Media,India,FALSE
+Unbabel,Lisbon Non-U.S.,66,25%,Support,Portugal,FALSE
+Turso,London Non-U.S.,,,Product,Canada,FALSE
+Stripe,SF Bay Area,300,3%,Finance,United States,FALSE
+Moon Active,Tel Aviv Non-U.S.,,,Consumer,Israel,FALSE
+Aurora Labs,Tel Aviv Non-U.S.,45,60%,Transportat,,FALSE
+Digital River,Minneapolis,122,,Retail,,FALSE
+Amazon,Seattle,,,Retail,United States,TRUE
+Placer.ai,SF Bay Area,150,18%,Data,United States,TRUE
+Cushion,SF Bay Area,,100%,Finance,United States,FALSE
+Sophos,Oxford Non-U.S.,,6%,Security,United Kingdo??True,TRUE
+Metro Africa Xpress,Lagos Non-U.S.,150,,Logistics,Nigeria,FALSE
+Blue Origin,Seattle,1000,10%,Aerospace,United States,FALSE
+Eviation Aircraft,Tel Aviv Non-U.S.,,,Aerospace,Israel,TRUE
+Logically,Manchester Non-U.S.,40,20%,AI,United Kingdo??True,TRUE
+Vendease,Lagos Non-U.S.,120,44%,Food,Nigeria,FALSE
+Riskified,New York City,,,Retail,United States,FALSE
+SeatGeek,New York City,150,15%,Consumer,United States,FALSE
+Electriq Global,Tel Aviv Non-U.S.,,100%,Energy,Israel,FALSE
+Zendesk,SF Bay Area,51,,Support,United States,FALSE
+NetEase,Tokyo Non-U.S.,,,Consumer,Japan,FALSE
+Ibotta,Denver,70,8%,Retail,United States,FALSE
+HerMD,Cincinnati,,100%,Healthcare,United States,FALSE
+Skybox Security,SF Bay Area,300,100%,Security,,TRUE
+Expedia,Seattle,,,Travel,United States,FALSE
+Dayforce,Toronto Non-U.S.,,5%,HR,Canada,FALSE
+eBay,Tel Aviv Non-U.S.,20,,Retail,Israel,FALSE
+Flywire,Boston,125,,Finance,United States,FALSE
+Commercetools,Munich Non-U.S.,,10%,Retail,Germany,FALSE
+Google,SF Bay Area,,,Consumer,United States,TRUE
+Digimarc,Portland,90,40%,Other,United States,FALSE
+Autodesk,SF Bay Area,1350,9%,Other,United States,FALSE
+Grubhub,SF Bay Area,500,23%,Food,United States,FALSE
+HP,SF Bay Area,4000,10%,Hardware,United States,FALSE
+ActiveFence,New York City,22,7%,Security,United States,TRUE
+Otorio,Tel Aviv Non-U.S.,45,56%,Security,Israel,TRUE
+HelloFresh,SF Bay Area,273,,Food,United States,FALSE
+Acxiom,Little Rock,130,3%,Marketing,United States,FALSE
+Brightcove,Boston,198,33%,Marketing,United States,FALSE
+Prefect,Washington D.C.,20,,Data,United States,TRUE
+Niantic,SF Bay Area,68,,Other,United States,FALSE
+Block,SF Bay Area,931,8%,Finance,United States,FALSE
+Palantir,Denver,120,,Data,United States,TRUE
+2U,Washington D.C.,,,Education,United States,FALSE
+Northvolt,Stockholm Non-U.S.,2800,62%,Energy,Sweden,FALSE
+Sonder,SF Bay Area,,,Travel,United States,FALSE
+GupShup,SF Bay Area,200,,Other,India,FALSE
+Smashing,SF Bay Area,7,100%,Consumer,United States,FALSE
+AppLovin,SF Bay Area,97,,Marketing,United States,FALSE
+Turo,SF Bay Area,150,17%,Transportat,,FALSE
+Zopper,Noida Non-U.S.,100,,Finance,India,FALSE
+Intel,Sacramento,22000,20%,Hardware,United States,TRUE
+Meta,SF Bay Area,100,,Consumer,United States,TRUE
+SambaNova,SF Bay Area,77,15%,AI,United States,TRUE
+Cars24,Gurugram Non-U.S.,200,,Transportat,,FALSE
+Tomorrow,Seattle,,100%,Hardware,United States,FALSE
+Spotter,Los Angeles,,,Other,United States,FALSE
+Expedia,Seattle,,3%,Travel,United States,FALSE
+Stem,SF Bay Area,,27%,Energy,United States,FALSE
+Electronic Arts,SF Bay Area,300,,Consumer,United States,FALSE
+NetApp,SF Bay Area,700,6%,Data,United States,TRUE
+Microsoft,Seattle,6000,3%,Other,United States,TRUE
+Amazon,Seattle,100,,Retail,United States,TRUE
+Noogata,Tel Aviv Non-U.S.,10,100%,AI,Israel,TRUE
+GroundGame Health,Tampa Bay,97,,Healthcare,United States,FALSE
+VerSe Innovation copy,Bengaluru Non-U.S.,350,,Media,India,FALSE
+Blink Charging,Baltimore,,20%,Other,United States,FALSE
+Luminar,Orlando,,,Transportat,,FALSE
+Builder.ai,London Non-U.S.,,100%,AI,United Kingdo??True,FALSE
+Climeworks,Zurich Non-U.S.,106,22%,Energy,,FALSE
+LeddarTech,Quebec Non-U.S.,138,95%,Transportat,,FALSE
+Otipy,New Delhi Non-U.S.,300,100%,Food,India,FALSE
+Cars24,Gurugram Non-U.S.,120,,Transportat,,FALSE
+nCino,Wilmington,,7%,Finance,United States,FALSE
+eBay,Tel Aviv Non-U.S.,200,,Retail,Israel,FALSE
+Business Insider,New York City,,20%,Media,United States,FALSE
+Hims & Hers,SF Bay Area,68,4%,Healthcare,United States,FALSE
+Intel,Tel Aviv Non-U.S.,,,Hardware,Israel,TRUE
+Sabi,Lagos Non-U.S.,50,20%,Retail,Nigeria,FALSE
+Khoros,Austin,116,,Sales,,FALSE
+Pluralsight,Salt Lake City,,17%,Education,United States,FALSE
+Microsoft,Seattle,,,Other,United States,TRUE
+Intel,Sacramento,,,Hardware,United States,TRUE
+Google,SF Bay Area,75,,Consumer,United States,TRUE
+Klue,Vancouver Non-U.S.,85,40%,Sales,Canada,FALSE
+Bumble,Austin,240,30%,Consumer,United States,FALSE
+Rivian,Los Angeles,140,1%,Transportat,,FALSE
+TomTom,Amsterdam Non-U.S.,300,10%,Other,Netherlands,FALSE
+King.com,Stockholm Non-U.S.,200,,Consumer,Sweden,FALSE
+Jamf,Minneapolis,166,6%,Other,United States,FALSE
+Lenovo,Raleigh,100,3%,Hardware,United States,FALSE
+Scale AI,SF Bay Area,200,14%,Data,United States,TRUE
+TytoCare,New York City,35,22%,Healthcare,United States,FALSE
+Amazon,Seattle,,,Retail,United States,TRUE
+CodeParrot,Bengaluru Non-U.S.,,100%,Product,India,FALSE
+Amicole,New York City,,100%,Retail,United States,FALSE
+Rocket Companies,Detroit,,2%,Real Estate,United States,FALSE
+Zeen,SF Bay Area,,100%,Consumer,United States,FALSE
+ConsenSys,New York City,47,7%,Crypto,United States,TRUE
+WiseTech,Sydney Non-U.S.,,,Logistics,Australia,FALSE
+PlaxidityX,Tel Aviv Non-U.S.,65,36%,Security,Israel,TRUE
+Tipalti,SF Bay Area,,,Finance,United States,FALSE
+Ohm Mobility,Bengaluru,,100%,Transportat,,FALSE
+Krutrim,Bengaluru Non-U.S.,100,,AI,India,TRUE
+Astra,Bengaluru Non-U.S.,106,100%,Sales,India,FALSE
+Eyeo,Cologne Non-U.S.,,40%,,Germany,FALSE
+Atlassian,Sydney Non-U.S.,150,,Other,Australia,FALSE
+F5,Seattle,106,2%,Security,United States,TRUE
+Oracle,SF Bay Area,188,,Other,United States,FALSE
+Restaurant365,Los Angeles,100,9%,Food,United States,FALSE
+Kyte,SF Bay Area,,100%,Transportat,,FALSE
+Oracle,SF Bay Area,101,,Other,United States,FALSE
+Cisco,SF Bay Area,221,,Infrastructu,,FALSE
+TikTok,London Non-U.S.,,,Consumer,United Kingdo??False,FALSE
+BeepKart,Bengaluru Non-U.S.,150,100%,Retail,India,FALSE
+Klaviyo,Boston,,,Marketing,United States,FALSE
+Verily,SF Bay Area,,,Healthcare,United States,FALSE
+Rec Room,Seattle,141,,Consumer,United States,FALSE
+Flip,SF Bay Area,,100%,Consumer,United States,FALSE
+Salesforce,SF Bay Area,4000,,Sales,United States,FALSE
+Hike,New Delhi Non-U.S.,,100%,Consumer,India,FALSE
+Sorbet,Tel Aviv Non-U.S.,,,Finance,Israel,FALSE
+Fiverr,Tel Aviv Non-U.S.,250,30%,Other,Israel,FALSE
+ZipRecruiter,Tel Aviv Non-U.S.,80,,Recruiting,United States,FALSE
+GamesKraft,Bengaluru Non-U.S.,120,,Consumer,India,FALSE
+Just Eat,Amsterdam Non-U.S.,450,5%,Food,Netherlands,FALSE
+Handshake,SF Bay Area,100,15%,Recruiting,United States,FALSE
+Bill.com,SF Bay Area,,6%,Finance,United States,FALSE
+OfferUp,Seattle,,,Retail,United States,FALSE
+Broadcom,SF Bay Area,247,,Hardware,United States,FALSE
+Tia,New York City,,23%,Healthcare,United States,FALSE
+Zepto,Mumbai Non-U.S.,300,5%,Retail,India,FALSE
+Ludeo,Los Angeles,25,50%,Consumer,United States,FALSE
+Meta,SF Bay Area,600,,Consumer,United States,TRUE
+Altruist,SF Bay Area,50,15%,Finance,United States,FALSE
+Kaseya,Miami,200,,Security,,TRUE
+Rivian,Los Angeles,600,4%,Transportat,,FALSE
+Applied Material,SF Bay Area,1400,4%,Manufactur,,FALSE
+Robin AI,London Non-U.S.,,33%,Legal,United Kingdo??True,TRUE
+Medtronic,Jerusalem Non-U.S.,60,,Healthcare,United States,FALSE
+Lightricks,Jerusalem Non-U.S.,85,15%,Consumer,Israel,FALSE
+Chegg,SF Bay Area,388,45%,Education,United States,FALSE
+Amazon,Seattle,14000,1%,Retail,United States,TRUE
+Hootsuite,Vancouver Non-U.S.,,20%,Marketing,Canada,FALSE
+Personio,Munich Non-U.S.,165,10%,HR,Germany,FALSE
+BharatAgri,Mumbai Non-U.S.,37,100%,Food,India,FALSE
+AI Fleet,Austin,,,Transportat,,TRUE
+Pipe,SF Bay Area,200,50%,Finance,United States,FALSE
+Flipkart,Bengaluru Non-U.S.,40,,Retail,India,FALSE
+Playtika,Tel Aviv Non-U.S.,700,20%,Consumer,Israel,FALSE
+Culture Amp,Melbourne Non-U.S.,60,6%,HR,Australia,FALSE
+UKG,Montevideo Non-U.S.,300,,HR,Uruguay,FALSE
+Veson Nautical,Boston,,20%,Other,,FALSE
+Pleo,Copenhagen Non-U.S.,100,12%,Finance,Denmark,FALSE
+Monarch Tractor,SF Bay Area,102,,Other,United States,FALSE
+ezCater,Boston,40,4%,Food,United States,FALSE
+HP,SF Bay Area,4000,,Hardware,United States,FALSE
+Shopify,Ottawa Non-U.S.,,,Retail,Canada,FALSE
+Junglee Games,New Delhi Non-U.S.,350,,Consumer,India,FALSE
+Amazon,Seattle,84,,Retail,United States,TRUE
+The Trade Desk,Los Angeles,,,Marketing,United States,FALSE
+Yellow.ai,SF Bay Area,100,30%,Support,United States,TRUE
+Sapiens,Tel Aviv Non-U.S.,700,15%,Finance,Israel,FALSE
+StoreDot,Tel Aviv Non-U.S.,,,Other,Israel,FALSE
+eToro,Tel Aviv Non-U.S.,105,7%,Finance,Israel,FALSE
+Meta,SF Bay Area,1500,2%,Consumer,United States,TRUE
+Playtika,Tel Aviv Non-U.S.,500,15%,Consumer,Israel,FALSE
+Aleph Alpha,Frankfurt Non-U.S.,50,16%,AI,Germany,TRUE
+Tipalti,SF Bay Area,100,,Finance,United States,FALSE
+Ericsson,Stockholm Non-U.S.,1600,,Other,Sweden,FALSE
+Polygon,Cayman Islands Non-U.S.,60,,Crypto,Cayman Islands,TRUE
+Vimeo,Tel Aviv Non-U.S.,,,Consumer,United States,FALSE
+Vimeo,New York City,,,Consumer,United States,FALSE
+Shopify,Ottawa Non-U.S.,,,Retail,Canada,FALSE
+Autodesk,SF Bay Area,1000,7%,Other,United States,FALSE
+Entropy,New York City,,100%,Crypto,United States,TRUE
+Expedia,Seattle,,,Travel,United States,FALSE
+Moon Active,Tel Aviv Non-U.S.,110,5%,Consumer,Israel,FALSE
+Pinterest,SF Bay Area,700,15%,Consumer,United States,FALSE
+ASML,Veldhoven Non-U.S.,1700,,Hardware,Netherlands,FALSE
+Amazon,Seattle,16000,,Retail,United States,TRUE
+Gloo,Boulder,,,Consumer,United States,FALSE
+Kiwi.com,Brno Non-U.S.,250,36%,Travel,Czech Republic,FALSE
+Zupee,New Delhi Non-U.S.,200,,Consumer,India,FALSE
+Peloton,New York City,,11%,Fitness,United States,FALSE
+Huawei,Tel Aviv Non-U.S.,50,,Hardware,Israel,FALSE
+Firebolt,Tel Aviv Non-U.S.,,,Data,Israel,TRUE
+Axonius,New York City,40,4%,Security,United States,TRUE
+Cyberark,Boston,500,12%,Security,United States,TRUE
+Codecademy,New York City,,,Education,United States,FALSE
+Lucid Motors,SF Bay Area,,12%,Transportat,,FALSE
+Livspace,Bengaluru Non-U.S.,1000,12%,Consumer,India,FALSE
+DraftKings,Boston,,,Consumer,United States,FALSE
+TrueCar,Los Angeles,100,30%,Transportat,,FALSE
+WiseTech,Sydney Non-U.S.,2000,30%,Logistics,Australia,FALSE
+C3.ai,SF Bay Area,280,26%,AI,United States,TRUE
+Deliveroo,London Non-U.S.,187,,Food,United Kingdo??False,FALSE
+Ocado,London Non-U.S.,1000,5%,Food,United Kingdo??False,FALSE
+Block,SF Bay Area,4000,40%,Finance,United States,FALSE
+eBay,SF Bay Area,800,6%,Retail,Israel,FALSE
+Zap Africa,Lagos Non-U.S.,,44%,Finance,Nigeria,FALSE
+Digg,New York City,,,Consumer,United States,FALSE
+Stone,Sao Paulo Non-U.S.,400,3%,Finance,Brazil,FALSE
+FranShares,Chicago,,100%,Finance,United States,FALSE
+Snowflake,SF Bay Area,,,Data,United States,TRUE
+Crypto.com,Singapore Non-U.S.,,12%,Crypto,Singapore,TRUE
+Gemini,New York City,,30%,Crypto,United States,TRUE
+Spotify,Stockholm Non-U.S.,15,,Media,Sweden,FALSE
+OpenText,Waterloo Non-U.S.,,,Data,Canada,TRUE
+Zendesk,SF Bay Area,100,,Support,United States,FALSE
+Epic Games,Raleigh,1000,,Consumer,United States,FALSE
+Quandoo,Berlin Non-U.S.,,100%,Food,Germany,FALSE
+Monte Carlo,SF Bay Area,,30%,Data,United States,TRUE
+Enpal,Berlin Non-U.S.,100,,Energy,Germany,FALSE
+Oracle,SF Bay Area,30000,,Other,United States,FALSE
+Monzo,London Non-U.S.,50,,Finance,United Kingdo??False,FALSE
+Covrzy,Bengaluru Non-U.S.,,100%,Finance,India,FALSE
+Yupp,SF Bay Area,,100%,AI,United States,TRUE
+Rec Room,Seattle,,100%,Consumer,United States,FALSE
+StarkWare,Tel Aviv Non-U.S.,,,Crypto,Israel,TRUE
+Eventbrite,SF Bay Area,,,Consumer,United States,FALSE
+Productboard,SF Bay Area,,30%,Product,United States,FALSE
+UKG,Boston,950,,HR,United States,FALSE
+Snap,Los Angeles,1000,16%,Consumer,United States,FALSE
+Shutterfly,Haifa Non-U.S.,80,,Manufactur,,FALSE
