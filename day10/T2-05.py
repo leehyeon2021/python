@@ -49,7 +49,7 @@ print( x )
 
 # 다중 정렬
 # : 1차 정렬 후, 만약 **1차 정렬에서 동일한 값이 존재한다면**, 동일한 값끼리 2차 정렬한다.
-# 중복값 있을 때 사용
+# 중복값 있을 때 사용. 정렬된 순서대로 원본 데이터의 인덱스를 반환한다.
 x = np.array( [25, 30, 22, 24] )
 y = np.array( [ '철수', '영희', '민수', '영희' ] )
 z = np.lexsort( ( x, y ) )
@@ -64,10 +64,11 @@ print( x > 30 )         # [False False False  True  True]
 print( x[ x > 20] )     # [30 40 50]
 # 2차원
 y = np.array( [ [1, 2, 3] , [4, 5, 6] , [7, 8, 9] ] )
-print( y % 2 == 0 )
+print( y % 2 == 0 )     # [[False  True False] [ True False  True] [False  True False]]
 print( y[ y%2==0 ] )    # [2 4 6 8]
 
 # 조건부 필터링: `.where( 조건, 참, 거짓 )` (like 삼항연산자)
+# +) `.where( 조건 )`: 조건을 만족하는 인덱스 반환
 # 1차원
 print( np.where( x > 30 , x , 0 ) )    # 만약 요소값이 30보다 크면 그대로, 아니면 0(False)
 # 2차원
