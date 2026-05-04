@@ -127,3 +127,5 @@ print( x['score'].mean() )     # 41.666666666666664
 # 특정 열의 빈도 확인
 print( x['passed'].value_counts() )
 print()
+# `.info()`: 데이터의 전체적인 요약 정보(인덱스, 컬럼, 데이터 타입 등)을 한 번에 출력하는 메소드
+x.info()
