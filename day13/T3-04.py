@@ -1,6 +1,8 @@
 
-# 1. 맷플롭릿 설치: `pip install matplotlib` (`py -m pip install matplotlib`)
-# 2. 맷플롭릿 불러오기: `import matplotlib`
+# 1. 맷플롭릿 설치
+# `pip install matplotlib` (`py -m pip install matplotlib`)
+# 2. 맷플롭릿 불러오기
+# `import matplotlib`
 import matplotlib as mpl
 print( mpl.__version__ )    # 3.10.9
 # 3. 관례적 import 하는 방법
@@ -45,6 +47,8 @@ y2 = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 plt.plot( x , y , label = '감소하는 선(범례명)' , color = 'blue' , linestyle = ':' )
 plt.plot( x, y2 , label = '증가하는 선(범례명)' , color = "#ffa4d6" , linestyle='-')
 
+# color는 c로 줄여서 써도 됨
+
 # 범례에 항목명 표시
 plt.legend()
 
@@ -52,7 +56,7 @@ plt.show()
 
 # ================
 
-# 막대 그래프
+# 3. 막대 그래프
 categories = [ '학생1', '학생2', '학생3', '학생4' ]
 values1 =    [   85  ,   92   ,   78  ,   90   ]
 values2 =    [   43  ,   68   ,   70  ,   88   ]
@@ -81,7 +85,7 @@ plt.show()
 
 # ============
 
-# 파이 그래프 , 백분율, `.pie( )`
+# 4. 파이 그래프: 백분율 나타내기
 # `plt.pie( 값 , labels='항목명' , colors='색상' , explode='강조' , startangle=시작각도 , autopct='비율표시' )`
 labels = ['피자', '햄버거', '샐러드', '파스타']
 sizes =  [  40 ,    30  ,    20  ,   10   ]
@@ -95,3 +99,62 @@ plt.title('음식 선호도')
 plt.legend()
 
 plt.show()
+
+# =============
+
+# 5. 선점도: 밀집도 나타내기
+# `plt.scatter( x축값 , y축값 , c(color) = '색상' , s ='점크기' )`
+x = [ 1.5 , 2.5 , 3.5 , 4.5 , 5.5 ]
+y = [ 50 , 60 , 65 , 70 , 75 ]
+
+plt.scatter( x , y , c = 'red' , s=50 )  # c == color , s == sizes
+plt.grid()
+plt.show()
+
+# ===============
+
+# 6. 히스토그램: 상관관계 나타내기
+# `plt.hist( 값 , c='색상' , alpha=투명도값 , bins=구간개수 )`
+data = []   # 샘플데이터 넣기
+for i in range(500):
+    value = sum([ (i*j)%100/100 for j in range( 1 , 13 ) ])    # 리스트 내포( 1차원 리스트 생성 )
+        # +) (i*j)%100 <- 나머지값 계산  ,  /100 <- 0~1 사이 값으로 계산  ,  .sum()   => 13개의 0~1사이의 난수를 만들어서 총합계 (중앙값이 큰 난수 생성될 예정) 
+    data.append( value )
+print(data)
+# 차트 만들기
+plt.hist( data , color='skyblue' , alpha=0.7 , bins=20 )
+plt.show()
+
+# ===============
+
+# 7. 다중 그래프 표현: 
+# `fig , axs = plt.subplots( 행개수 , 열개수 , figsize = ( 가로 , 세로 ) )`
+fig , axs = plt.subplots( 1 , 2 , figsize=(10, 7) )    # 한 줄에 2개 차트
+    # fig(figure): 다중 그래프를 가진 전체 그래프
+        # figsize: 전체 그래프의 가로inch와 세로inch를 넣어주면 된다.
+    # axs: 다중 그래프의 위치. axs[0]은 첫 번째 그래프 , axs[1]은 두 번째 그래프
+
+# 다중그래프의 타이틀, 라벨 등: `axs[인덱스].set_함수명('내용')`
+
+axs[0].plot( [1, 2, 3] , [1 , 4, 9] )
+axs[0].set_title('선 그래프')
+axs[0].set_xlabel('x축 제목')
+axs[0].set_ylabel('y축 제목')
+axs[1].bar( [1, 2, 3], [3, 5, 2] )
+axs[1].set_title('막대 그래프')
+axs[1].set_xlabel('x축 제목')
+axs[1].set_ylabel('y축 제목')
+# (x) plt.title('전체 그래프 제목') -> 이런 식으로 하면 마지막 그래프 제목이 바뀜(이유는 모르겠음)
+
+# 그래프 이미지(png) 다운로드
+# `plt.savefig('파일경로')`
+plt.savefig('./day13/save_chart.png')
+
+plt.show()
+
+# 직접 지정하기: 행=2, 열=2, 총 그래프 수=4
+# fig , axs = plt.subplots( 2, 2 )
+# axs[0][0]
+# axs[0][1]
+# axs[1][0]
+# axs[1][1]
