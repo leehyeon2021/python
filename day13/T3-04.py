@@ -1,4 +1,7 @@
 
+# matplotlib
+
+
 # 1. 맷플롭릿 설치
 # `pip install matplotlib` (`py -m pip install matplotlib`)
 # 2. 맷플롭릿 불러오기
@@ -78,7 +81,7 @@ plt.ylabel('성적 점수')
 plt.legend()
 plt.grid(axis='y', color='#eeeeee')   # y축만 넣기 (색도 설정 가능)
 
-# `plt.xticks( x, y )`: 번호 순서대로 라벨 지졍할 때 사용
+# `plt.xticks( x, y )`: 눈금 이름 설정. 번호 순서대로 라벨 지졍할 때 사용
 plt.xticks( x, categories ) # 위치(인덱스.0~3) 순으로 라벨(학생1~학생4) 지정
 
 plt.show()
@@ -102,7 +105,7 @@ plt.show()
 
 # =============
 
-# 5. 선점도: 밀집도 나타내기
+# 5. 산점도: 밀집도 나타내기
 # `plt.scatter( x축값 , y축값 , c(color) = '색상' , s ='점크기' )`
 x = [ 1.5 , 2.5 , 3.5 , 4.5 , 5.5 ]
 y = [ 50 , 60 , 65 , 70 , 75 ]
@@ -127,7 +130,7 @@ plt.show()
 
 # ===============
 
-# 7. 다중 그래프 표현: 
+# 7. 다중 그래프(서브플롯) 표현: 
 # `fig , axs = plt.subplots( 행개수 , 열개수 , figsize = ( 가로 , 세로 ) )`
 fig , axs = plt.subplots( 1 , 2 , figsize=(10, 7) )    # 한 줄에 2개 차트
     # fig(figure): 다중 그래프를 가진 전체 그래프
