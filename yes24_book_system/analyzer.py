@@ -20,9 +20,7 @@ df = pd.read_csv('./yes24_book_system/data/books.csv', header=0, encoding='utf-8
 df['출판년월'] = pd.to_datetime( df['출판년월'] )
 df['연도'] = df['출판년월'].dt.year
 df['월'] = df['출판년월'].dt.month
-#print(df['월'])
-#df.info()
-#print( df.isnull().sum() )
+print(df)
 
 # ================================
 
@@ -38,7 +36,7 @@ df_min = df['가격'].min()
 # 2. 출판년도 분석
 #     가. 연도별 도서 수 계산
 df_year_count = df['연도'].value_counts().sort_index()
-print( df_year_count )
+#print( df_year_count )
 
 # ================================
 
@@ -51,7 +49,7 @@ plt.hist( df['가격'] , color='skyblue', bins=20 )
 plt.title('가격대별 도서 개수')
 plt.xlabel('가격')
 plt.ylabel('개수')
-plt.show()
+#plt.show()
 
 # 2. 출판년도별 도서 수 시각화
 #     가. 막대그래프 구현
@@ -62,4 +60,4 @@ plt.bar(df_year_count.index , df_year_count.values, width=0.6, color="green")
 plt.title('출판년도별 도서 수')
 plt.xlabel('연도')
 plt.ylabel('도서 수')
-plt.show()
+#plt.show()

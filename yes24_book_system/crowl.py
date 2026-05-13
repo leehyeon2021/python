@@ -20,6 +20,7 @@ import pandas as pd
 #     CSV 컬럼 예시 : 제목,가격,판매지수,출판년월
 
 # 주소: https://www.yes24.com/product/category/bestseller?pageNumber=1&pageSize=100
+
 book_list=[]
 
 for page in range ( 1, 11 ):
