@@ -37,7 +37,7 @@ for page in range ( 1, 11 ):
         # 판매지수
         saleNum = book.select_one('.info_rating > .saleNum').get_text().replace('판매지수','').strip().replace(',','')
         # 출판년월
-        info_date = book.select_one('.info_pubGrp > .info_date').get_text().strip()
+        info_date = book.select_one('.info_pubGrp > .info_date').get_text().replace('년 ','-').replace('월','').strip()
         book_one = ( {'제목': gd_name , '가격': yes_b , '판매지수': saleNum , '출판년월': info_date} )
         print( book_one )
         book_list.append(book_one)
