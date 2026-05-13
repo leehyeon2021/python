@@ -1,5 +1,4 @@
 
-
 # 1. 통계 데이터 조회 API . GET /stats
 #   2. 반환 데이터
 #     가. 평균 가격
@@ -11,3 +10,11 @@
 #     "최고가격": 45000,
 #     "최저가격": 5900,
 #     "최다출판연도": 2024  }
+
+from fastapi import APIRouter
+router=APIRouter(prefix="/stats")
+from service import book_service
+
+@router.get("/result")
+async def result():
+    return book_service.result( )
